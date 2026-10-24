@@ -628,7 +628,7 @@
     },
     {
       "id": 2021111,
-      "name": "空洞(le trou de vidange)",
+      "name": "排离空洞(le trou de vidange)",
       "desc": "若自身的[BulletHole]数为5发，则自身的“空洞”E.G.O技能(觉醒、侵蚀)使用时不会消耗E.G.O资源\n\n回合开始时，使自身获得1发[BulletHole]与1层[BlackWingHole]\n\n友方单位击杀敌方单位时，使该友方单位恢复5点理智值并在下回合获得1层[Enhancement](每回合最多1次)\n\n最大[Charge]层数+5\n\n自身获得超过自身最大[Charge]层数的[Charge]层数时，随机使自身增加相当于溢出获得量的[Breath]强度或获得层数相当于溢出获得量的[Breath](每回合最多转化6层)",
       "flavor": "空洞并非因穿刺而产生，而是因缺欠而产生。空洞渴望被填满，却反而从中溢出。"
     },

@@ -75,7 +75,7 @@
                   "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗5层[Charge]并使目标[VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] 消耗5层[ChargeNoir]并使目标[VibrationExplosion]"
                 }
               ]
             }
@@ -100,7 +100,7 @@
                   "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 消耗5层[Charge]并使目标[VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] 消耗5层[ChargeNoir]并使目标[VibrationExplosion]"
                 }
               ]
             }
