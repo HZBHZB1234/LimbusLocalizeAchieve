@@ -632,7 +632,7 @@
         {
           "level": 1,
           "name": "“是‘于神面前悔改吧’来着吧？”",
-          "desc": "使<color=#ff6000><mark=#ff000040><b><u>带有的[GoldenFabricWarderThirdPhase]罪人</u></b></mark></color>在连接技能时以装备本技能的行动槽为主要目标的技能造成的伤害+100%(若该技能为E.G.O技能，则改为造成的伤害+200%)\n[EndBattle] 若自身的[EncompassingVoiceThirdPhase]层数低于100层，则使自身获得至100层[EncompassingVoiceThirdPhase]\n- 每获得1层[EncompassingVoiceThirdPhase]，使牧师的理智值减少1点(最多45点)",
+          "desc": "使<color=#ff6000><mark=#ff000040><b><u>带有[GoldenFabricWarderThirdPhase]的罪人</u></b></mark></color>在连接技能时以装备本技能的行动槽为主要目标的技能造成的伤害+100%(若该技能为E.G.O技能，则改为造成的伤害+200%)\n[EndBattle] 若自身的[EncompassingVoiceThirdPhase]层数低于100层，则使自身获得至100层[EncompassingVoiceThirdPhase]\n- 每获得1层[EncompassingVoiceThirdPhase]，使牧师的理智值减少1点(最多45点)",
           "coinlist": [
             {
               "coindescs": []
@@ -1659,7 +1659,7 @@
         {
           "level": 1,
           "name": "父亲之名(le Nom-du-Père)",
-          "desc": "[StartBattle] 若自身<color=#ff6000><mark=#ff000040><b><u>带有[BuffetRouge]</u></b></mark></color>，则使本技能的所有硬币转化为[SuperCoin]\n[WhenUse] 主要目标每带有4级[Laceration]强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若<color=#ff6000><mark=#ff000040><b><u>主要目标带有[BuffetScruple]</u></b></mark></color>，则使本技能的攻击容量-2\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱\n[EndSkill] 解除目标的[BuffetScruple]",
+          "desc": "[StartBattle] 若自身<color=#ff6000><mark=#ff000040><b><u>带有[BuffetRouge]</u></b></mark></color>，则使本技能的所有硬币转化为[SuperCoin]\n[WhenUse] 主要目标每带有4级[Laceration]强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若<color=#ff6000><mark=#ff000040><b><u>主要目标带有[BuffetScruple]</u></b></mark></color>，则使本技能的攻击容量-2\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱\n[EndSkill] 解除主要目标的[BuffetScruple]",
           "coinlist": [
             {
               "coindescs": [
