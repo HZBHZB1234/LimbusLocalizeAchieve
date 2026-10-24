@@ -321,7 +321,7 @@
         {
           "level": 1,
           "name": "硬血强化打击",
-          "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加[Laceration]时，根据自身带有的[HardenedBlood]层数，额外使目标增加[Burst]强度\n[EndSkill] 消耗所有[HardenedBlood]与[BloodyHand]",
+          "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加[Laceration]时，额外使目标增加相当于自身[HardenedBlood]层数的[Burst]强度\n[EndSkill] 消耗所有[HardenedBlood]与[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
@@ -430,7 +430,7 @@
         {
           "level": 1,
           "name": "硬血强化打击",
-          "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加[Laceration]时，根据自身带有的[HardenedBlood]层数，额外使目标增加[Burst]强度\n[EndSkill] 消耗所有[HardenedBlood]与[BloodyHand]",
+          "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的基础威力+1\n[WhenUse] 通过本技能效果施加[Laceration]时，额外使目标增加相当于自身[HardenedBlood]层数的[Burst]强度\n[EndSkill] 消耗所有[HardenedBlood]与[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
@@ -798,7 +798,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[HardenedBlood]层数的[Laceration]强度与[Burst]强度"
                 }
               ]
             },
@@ -895,7 +895,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[HardenedBlood]层数的[Laceration]强度与[Burst]强度"
                 }
               ]
             },
@@ -1022,7 +1022,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[HardenedBlood]层数的[Laceration]强度与[Burst]强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的[FestivalFever]层数×4)%的体力(最多40%)"
@@ -1148,7 +1148,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[HardenedBlood]层数的[Laceration]强度与[Burst]强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的[FestivalFever]层数×4)%的体力(最多40%)"

@@ -444,10 +444,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，使目标增加相应的[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[FreischutzShotCount]层数的[Combustion]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，对目标施加相应层数的[DarkFlame](每回合每名目标最多1次)"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[FreischutzShotCount]层数的[DarkFlame](每回合每名目标最多1次)"
                 }
               ]
             }
@@ -462,10 +462,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，使目标增加相应的[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[FreischutzShotCount]层数的[Combustion]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，对目标施加相应层数的[DarkFlame](每回合每名目标最多1次)"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[FreischutzShotCount]层数的[DarkFlame](每回合每名目标最多1次)"
                 }
               ]
             }
@@ -480,10 +480,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，使目标增加相应的[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[FreischutzShotCount]层数的[Combustion]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，对目标施加相应层数的[DarkFlame](每回合每名目标最多1次)"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[FreischutzShotCount]层数的[DarkFlame](每回合每名目标最多1次)"
                 }
               ]
             }
@@ -503,10 +503,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，使目标增加相应的[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[FreischutzShotCount]层数的[Combustion]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，对目标施加相应层数的[DarkFlame](每回合每名目标最多1次)"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[FreischutzShotCount]层数的[DarkFlame](每回合每名目标最多1次)"
                 }
               ]
             }
@@ -521,13 +521,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，使目标增加相应的[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[FreischutzShotCount]层数的[Combustion]强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加(自身的[FreischutzShotCount]层数/3)层[Combustion](向下取整)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，对目标施加相应层数的[DarkFlame](每回合每名目标最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[FreischutzShotCount]层数的[DarkFlame](每回合每名目标最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -542,13 +542,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，使目标增加相应的[Combustion]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[FreischutzShotCount]层数的[Combustion]强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加(自身的[FreischutzShotCount]层数/<style=\"highlight\">2</style>)层[Combustion](向下取整)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[FreischutzShotCount]层数，对目标施加相应层数的[DarkFlame](每回合每名目标最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[FreischutzShotCount]层数的[DarkFlame](每回合每名目标最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }

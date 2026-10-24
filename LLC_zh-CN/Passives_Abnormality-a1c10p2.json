@@ -122,7 +122,7 @@
     {
       "id": 150402,
       "name": "保存",
-      "desc": "根据自身本场战斗中累计消耗的[ChargeNoir]层数，触发以下效果：\n- 每累计消耗3层，使自身获得1层[NoirBindArmor]\n- 每累计消耗10层，使自身增加1级[ChargeNoir]强度\n\n若自身的[ChargeNoir]强度不低于3级，则使自身的最大[ChargeNoir]层数+5",
+      "desc": "根据自身本场战斗中累计消耗的[ChargeNoir]层数，相应触发以下效果：\n- 每累计消耗3层，使自身获得1层[NoirBindArmor]\n- 每累计消耗10层，使自身增加1级[ChargeNoir]强度\n\n若自身的[ChargeNoir]强度不低于3级，则使自身的最大[ChargeNoir]层数+5",
       "flavor": "将力量凝聚、集中，并加以固定。有时不改变比改变需要更大的力量。"
     },
     {
@@ -146,7 +146,7 @@
     {
       "id": 150502,
       "name": "保存",
-      "desc": "根据自身本场战斗中累计消耗的[ChargeNoir]层数，触发以下效果：\n- 每累计消耗3层，使自身获得1层[NoirBindArmor]\n- 每累计消耗10层，使自身增加1级[ChargeNoir]强度\n\n若自身的[ChargeNoir]强度不低于3级，则使自身的最大[ChargeNoir]层数+5",
+      "desc": "根据自身本场战斗中累计消耗的[ChargeNoir]层数，相应触发以下效果：\n- 每累计消耗3层，使自身获得1层[NoirBindArmor]\n- 每累计消耗10层，使自身增加1级[ChargeNoir]强度\n\n若自身的[ChargeNoir]强度不低于3级，则使自身的最大[ChargeNoir]层数+5",
       "flavor": "将力量凝聚、集中，并加以固定。有时不改变比改变需要更大的力量。"
     },
     {

@@ -103,7 +103,7 @@
     {
       "id": 501304,
       "name": "本国剑术[肉]-姿态变化",
-      "desc": "<color=#ff6000><mark color=#ff000040><b><u>回合开始时，根据自身的本国姿态，使自身获得或失去2层[ChoiSwordsmanship](首个回合不会触发)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]：获得\n- [ChoiSwordsmanshipMany]：失去\n\n自身装备了嫉妒技能的回合中，自身不会受到[ChoiSwordsmanship]的数值调整效果影响，<color=#ff6000><mark color=#ff000040><b><u>下回合使自身的[ChoiSwordsmanship]层数重置为5层</color></mark></b></u>"
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>回合开始时，根据自身的本国姿态，相应使自身获得或失去2层[ChoiSwordsmanship](首个回合不会触发)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]：获得\n- [ChoiSwordsmanshipMany]：失去\n\n自身装备了嫉妒技能的回合中，自身不会受到[ChoiSwordsmanship]的数值调整效果影响，<color=#ff6000><mark color=#ff000040><b><u>下回合使自身的[ChoiSwordsmanship]层数重置为5层</color></mark></b></u>"
     },
     {
       "id": 501305,

@@ -1625,7 +1625,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "请求(la demande)",
+          "name": "要求(la demande)",
           "desc": "[CantDuel]\n[CantChangeTarget]\n本技能不会触发目标的守备技能\n[WhenUse] 解除主要目标所有[BoneNail]\n[WhenUse] 主要目标每带有4级[Laceration]强度，使本技能的硬币威力+1(最多+2)\n[EndSkill] 解除主要目标的[BuffetScruple]",
           "coinlist": [
             {

@@ -761,7 +761,7 @@
         {
           "level": 1,
           "name": "学习时间",
-          "desc": "[StartBattle] 根据自身带有的[KnowledgeExplored]层数，使自身获得相应层数的[KnowledgeTraining]\n[WhenUse] 按技能级别由低到高[Discard]自身所有行动槽中级别最低的2个技能",
+          "desc": "[StartBattle] 使自身获得层数相当于自身[KnowledgeExplored]层数的[KnowledgeTraining]\n[WhenUse] 按技能级别由低到高[Discard]自身所有行动槽中级别最低的2个技能",
           "coinlist": [
             {},
             {
@@ -776,7 +776,7 @@
         {
           "level": 2,
           "name": "学习时间",
-          "desc": "<style=\"highlight\">自身每带有1层[KnowledgeExplored]，使本技能造成的伤害+3%(最多+9%)</style>\n[StartBattle] 根据自身带有的[KnowledgeExplored]层数，<style=\"highlight\">随机使1名友方单位</style>与自身获得相应层数的[KnowledgeTraining]<style=\"highlight\">(优先适用于能够[Discard]技能且[KnowledgeTraining]层数最低的友方单位)</style>\n[WhenUse] 按技能级别由低到高[Discard]自身所有行动槽中级别最低的2个技能\n<style=\"highlight\">[WhenUse] 若目标的[Sinking]强度不低于6级，则使本技能的硬币威力+1</style>",
+          "desc": "<style=\"highlight\">自身每带有1层[KnowledgeExplored]，使本技能造成的伤害+3%(最多+9%)</style>\n[StartBattle] <style=\"highlight\">随机使1名友方单位</style>与自身获得层数相当于自身[KnowledgeExplored]层数的[KnowledgeTraining]<style=\"highlight\">(优先适用于能够[Discard]技能且[KnowledgeTraining]层数最低的友方单位)</style>\n[WhenUse] 按技能级别由低到高[Discard]自身所有行动槽中级别最低的2个技能\n<style=\"highlight\">[WhenUse] 若目标的[Sinking]强度不低于6级，则使本技能的硬币威力+1</style>",
           "coinlist": [
             {},
             {
@@ -791,7 +791,7 @@
         {
           "level": 4,
           "name": "学习时间",
-          "desc": "自身每带有1层[KnowledgeExplored]，使本技能造成的伤害<style=\"highlight\">+5%</style>(最多+<style=\"highlight\">15%</style>)\n[StartBattle] 根据自身带有的[KnowledgeExplored]层数，随机使<style=\"highlight\">2</style>名友方单位与自身获得相应层数的[KnowledgeTraining](优先适用于能够[Discard]技能且[KnowledgeTraining]层数最低的友方单位)\n[WhenUse] 按技能级别由低到高[Discard]自身所有行动槽中级别最低的2个技能\n<style=\"highlight\">[WhenUse] 目标每带有6级[Sinking]强度，使本技能的硬币威力+1(最多+2)</style>",
+          "desc": "自身每带有1层[KnowledgeExplored]，使本技能造成的伤害<style=\"highlight\">+5%</style>(最多+<style=\"highlight\">15%</style>)\n[StartBattle] 随机使<style=\"highlight\">2</style>名友方单位与自身获得层数相当于自身[KnowledgeExplored]层数的[KnowledgeTraining](优先适用于能够[Discard]技能且[KnowledgeTraining]层数最低的友方单位)\n[WhenUse] 按技能级别由低到高[Discard]自身所有行动槽中级别最低的2个技能\n<style=\"highlight\">[WhenUse] 目标每带有6级[Sinking]强度，使本技能的硬币威力+1(最多+2)</style>",
           "coinlist": [
             {},
             {

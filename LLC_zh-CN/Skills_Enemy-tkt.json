@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标的[Vibration]层数，对自身施加相应层数的[Vibration]"
+                  "desc": "[OnSucceedAttack] 对自身施加层数相当于目标[Vibration]层数的[Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
@@ -76,7 +76,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[Vibration]层数，对目标施加相应层数的[Vibration]"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[Vibration]层数的[Vibration]"
                 }
               ]
             },
@@ -121,7 +121,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标的[Vibration]强度，使自身增加相应的[Vibration]强度"
+                  "desc": "[OnSucceedAttack] 使自身增加相当于目标[Vibration]强度的[Vibration]强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标增加6级[Vibration]强度"
@@ -186,7 +186,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[Vibration]强度，使目标增加相应的[Vibration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[Vibration]强度的[Vibration]强度"
                 }
               ]
             },
@@ -340,7 +340,7 @@
         {
           "level": 1,
           "name": "做好觉悟了？",
-          "desc": "优先指定带有[VibrationCollapse]的目标\n[WhenUse] 根据自身带有的[Vibration]层数，对除自身以外的全体友方单位施加相应层数的[Vibration]\n[WhenUse] 使包括自身在内的全体友方单位的[Vibration][Switch_Vibration]为[VibrationDistribution]",
+          "desc": "优先指定带有[VibrationCollapse]的目标\n[WhenUse] 对除自身以外的全体友方单位施加层数相当于自身[Vibration]层数的[Vibration]\n[WhenUse] 使包括自身在内的全体友方单位的[Vibration][Switch_Vibration]为[VibrationDistribution]",
           "coinlist": [
             {},
             {},

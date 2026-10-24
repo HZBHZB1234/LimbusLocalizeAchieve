@@ -120,7 +120,7 @@
         {
           "level": 1,
           "name": "做好觉悟了？",
-          "desc": "优先指定带有[VibrationCollapse]的目标\n[WhenUse] 根据自身带有的[Vibration]层数，对除自身以外的全体友方单位施加相应层数的[Vibration]\n[WhenUse] 使包括自身在内的全体友方单位的[Vibration][Switch_Vibration]为[VibrationDistribution]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱",
+          "desc": "优先指定带有[VibrationCollapse]的目标\n[WhenUse] 对除自身以外的全体友方单位施加层数相当于自身[Vibration]层数的[Vibration]\n[WhenUse] 使包括自身在内的全体友方单位的[Vibration][Switch_Vibration]为[VibrationDistribution]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱",
           "coinlist": [
             {
               "coindescs": [

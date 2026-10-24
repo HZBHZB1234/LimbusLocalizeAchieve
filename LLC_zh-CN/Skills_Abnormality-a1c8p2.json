@@ -1337,7 +1337,7 @@
                   "desc": "[OnSucceedAttack] 触发目标的[Burst]1次。使目标的[Burst]层数减少1层"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标的[MadFeather]层数，使其增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于其[MadFeather]层数的[Laceration]强度与[Burst]强度"
                 }
               ]
             }

@@ -633,14 +633,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根据自身带有的[KnowledgeExplored]层数，相应使自身的混乱阈值后移"
+                  "desc": "[OnSucceedAttackHead] 使自身的混乱阈值后移(自身的[KnowledgeExplored]层数)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根据自身带有的[KnowledgeExplored]层数，相应使自身的混乱阈值后移"
+                  "desc": "[OnSucceedAttackHead] 使自身的混乱阈值后移(自身的[KnowledgeExplored]层数)"
                 }
               ]
             }
@@ -654,14 +654,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[KnowledgeExplored]层数，相应使自身的混乱阈值后移"
+                  "desc": "[OnSucceedAttack] 使自身的混乱阈值后移(自身的[KnowledgeExplored]层数)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[KnowledgeExplored]层数，相应使自身的混乱阈值后移"
+                  "desc": "[OnSucceedAttack] 使自身的混乱阈值后移(自身的[KnowledgeExplored]层数)"
                 }
               ]
             }
@@ -675,14 +675,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[KnowledgeExplored]层数，相应使自身的混乱阈值后移"
+                  "desc": "[OnSucceedAttack] 使自身的混乱阈值后移(自身的[KnowledgeExplored]层数)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[KnowledgeExplored]层数，相应使自身的混乱阈值后移"
+                  "desc": "[OnSucceedAttack] 使自身的混乱阈值后移(自身的[KnowledgeExplored]层数)"
                 }
               ]
             }
@@ -702,14 +702,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根据自身带有的[KnowledgeExplored]层数，使目标增加相应的[Sinking]强度"
+                  "desc": "[OnSucceedAttackHead] 使目标增加相当于自身[KnowledgeExplored]层数的[Sinking]强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根据自身带有的[KnowledgeExplored]层数，使目标增加相应的[Sinking]强度"
+                  "desc": "[OnSucceedAttackHead] 使目标增加相当于自身[KnowledgeExplored]层数的[Sinking]强度"
                 }
               ]
             }
@@ -724,14 +724,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根据自身带有的[KnowledgeExplored]层数，使目标增加相应的[Sinking]强度"
+                  "desc": "[OnSucceedAttackHead] 使目标增加相当于自身[KnowledgeExplored]层数的[Sinking]强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根据自身带有的[KnowledgeExplored]层数，使目标增加相应的[Sinking]强度"
+                  "desc": "[OnSucceedAttackHead] 使目标增加相当于自身[KnowledgeExplored]层数的[Sinking]强度"
                 }
               ]
             }
@@ -746,14 +746,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[KnowledgeExplored]层数，使目标增加相应的[Sinking]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[KnowledgeExplored]层数的[Sinking]强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的[KnowledgeExplored]层数，使目标增加相应的[Sinking]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[KnowledgeExplored]层数的[Sinking]强度"
                 }
               ]
             }

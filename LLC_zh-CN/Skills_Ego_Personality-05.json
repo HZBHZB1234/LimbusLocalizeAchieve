@@ -1226,7 +1226,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "本硬币有(自身的[BulletHole]数×20)%的概率朝向反面，不受自身理智值影响"
+                  "desc": "本硬币以(自身的[BulletHole]数×20)%的概率朝向反面，不受自身理智值影响"
                 },
                 {
                   "desc": "[CoinHead]\n- 本硬币不会命中"
@@ -1293,7 +1293,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "本硬币有(自身的[BulletHole]数×20)%的概率朝向反面，不受自身理智值影响<style=\"highlight\"></style>"
+                  "desc": "本硬币以(自身的[BulletHole]数×20)%的概率朝向反面，不受自身理智值影响<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[CoinHead]\n- 本硬币不会命中<style=\"highlight\"></style>"
@@ -1363,7 +1363,7 @@
                   "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "本硬币有(自身的[BulletHole]数×20)%的概率朝向反面，不受自身理智值影响<style=\"highlight\"></style>"
+                  "desc": "本硬币以(自身的[BulletHole]数×20)%的概率朝向反面，不受自身理智值影响<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[CoinHead]\n- 本硬币不会命中<style=\"highlight\"></style>"

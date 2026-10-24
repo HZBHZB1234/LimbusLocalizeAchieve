@@ -1110,7 +1110,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的[Burst]强度，使其增加相应的[Laceration]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于其[Burst]强度的[Laceration]强度"
                 }
               ]
             }

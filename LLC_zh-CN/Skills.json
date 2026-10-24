@@ -7982,7 +7982,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的[Laceration]强度使自身恢复相应的体力(最多恢复20%)"
+                  "desc": "[OnSucceedAttack] 根据目标带有的[Laceration]强度，相应使自身恢复体力(最多恢复20%)"
                 }
               ]
             }
@@ -8017,7 +8017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的[Laceration]强度使自身恢复相应的体力(最多恢复20%)"
+                  "desc": "[OnSucceedAttack] 根据目标带有的[Laceration]强度，相应使自身恢复体力(最多恢复20%)"
                 }
               ]
             }
@@ -9865,7 +9865,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的K公司的安瓿 层数，对目标施加相应层数的破裂 。本硬币造成的伤害增加(K公司的安瓿 ×5%)"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身K公司的安瓿 层数的破裂 。使本硬币造成的伤害+(自身的K公司的安瓿 层数×5%)"
                 }
               ]
             }
@@ -9886,7 +9886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身带有的K公司的安瓿 层数，对目标施加相应层数的破裂 。本硬币造成的伤害增加(K公司的安瓿 ×5%)"
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身K公司的安瓿 层数的破裂 。使本硬币造成的伤害+(自身的K公司的安瓿 层数×5%)"
                 }
               ]
             }

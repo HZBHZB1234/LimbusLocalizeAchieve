@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "点燃",
-          "desc": "[WinDuel] 根据目标带有的[Combustion]强度，使其增加相应的[Combustion]强度\n[WhenUse] 对目标施加2层[Combustion]",
+          "desc": "[WinDuel] 使目标增加相当于其[Combustion]强度的[Combustion]强度\n[WhenUse] 对目标施加2层[Combustion]",
           "coinlist": [
             {
               "coindescs": [

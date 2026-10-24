@@ -985,7 +985,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[DefenseUp]层数，在下回合使自身获得相应层数的攻击等级提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身获得层数相当于自身[DefenseUp]层数的攻击等级提升 "
                 }
               ]
             }

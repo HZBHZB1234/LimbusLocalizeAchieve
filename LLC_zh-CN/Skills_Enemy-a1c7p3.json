@@ -453,7 +453,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据自身的[HardenedBlood]层数，使目标增加相应的[Laceration]强度与[Burst]强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于自身[HardenedBlood]层数的[Laceration]强度与[Burst]强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢复体力上限(自身的[FestivalFever]层数×4)%的体力(最多40%)"

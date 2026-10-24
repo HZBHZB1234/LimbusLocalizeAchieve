@@ -556,7 +556,7 @@
                 },
                 {
                   "desc": "[OnStartCoin] 消耗自身所有[RyoshuEGOPF]，每消耗5层[RyoshuEGOPF]，使本硬币造成的伤害+1%(最多+100%)",
-                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，使本硬币造成的伤害增加"
+                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，相应使本硬币造成的伤害增加"
                 }
               ]
             }
@@ -610,7 +610,7 @@
                 },
                 {
                   "desc": "[OnStartCoin] 消耗自身所有[RyoshuEGOPF]，每消耗5层[RyoshuEGOPF]，使本硬币造成的伤害+1%(最多+100%)\n- 若仅指定1名目标，则使该效果变为1.5倍(若是集中遭遇战，则改为以本体判定)",
-                  "summary": "<style=\"highlight\">[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，使本硬币造成的伤害增加</style>"
+                  "summary": "<style=\"highlight\">[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，相应使本硬币造成的伤害增加</style>"
                 }
               ]
             }
@@ -664,7 +664,7 @@
                 },
                 {
                   "desc": "[OnStartCoin] 消耗自身所有[RyoshuEGOPF]，每消耗5层[RyoshuEGOPF]，使本硬币造成的伤害+1%<style=\"highlight\">(最多+198%)</style>\n- 若仅指定1名目标，则使该效果变为<style=\"highlight\">2倍</style>(若是集中遭遇战，则改为以本体判定)",
-                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，使本硬币造成的伤害增加"
+                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，相应使本硬币造成的伤害增加"
                 }
               ]
             }
@@ -711,7 +711,7 @@
                 },
                 {
                   "desc": "[OnStartCoin] 消耗自身所有[RyoshuEGOPF]，每消耗5层[RyoshuEGOPF]，使本硬币造成的伤害+1%(最多+100%)",
-                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，使本硬币造成的伤害增加"
+                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，相应使本硬币造成的伤害增加"
                 }
               ]
             }
@@ -765,7 +765,7 @@
                 },
                 {
                   "desc": "[OnStartCoin] 消耗自身所有[RyoshuEGOPF]，每消耗5层[RyoshuEGOPF]，使本硬币造成的伤害+1%(最多+100%)\n<style=\"highlight\">- 若仅指定1名目标，则使该效果变为1.5倍(若是集中遭遇战，则改为以本体判定)</style>",
-                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，使本硬币造成的伤害增加"
+                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，相应使本硬币造成的伤害增加"
                 }
               ]
             }
@@ -819,7 +819,7 @@
                 },
                 {
                   "desc": "[OnStartCoin] 消耗自身所有[RyoshuEGOPF]，每消耗5层[RyoshuEGOPF]，使本硬币造成的伤害<style=\"highlight\">+1.25%(最多+248%)</style>\n- 若仅指定1名目标，则使该效果变为<style=\"highlight\">2倍</style>(若是集中遭遇战，则改为以本体判定)",
-                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，使本硬币造成的伤害增加"
+                  "summary": "[OnStartCoin] 根据自身的[RyoshuEGOPF]层数，相应使本硬币造成的伤害增加"
                 }
               ]
             }

@@ -525,7 +525,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加3层[Binding]\n[OnSucceedAttack] 根据目标带有的[Sinking]强度，使其增加相应的[Vibration]强度"
+                  "desc": "[OnSucceedAttack] 下回合对目标施加3层[Binding]\n[OnSucceedAttack] 使目标增加相当于其[Sinking]强度的[Vibration]强度"
                 }
               ]
             },
@@ -570,7 +570,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身对目标造成伤害，则根据目标带有的[Sinking]强度，使其增加相应的[Vibration]强度"
+                  "desc": "[OnSucceedAttack] 若自身对目标造成伤害，则使目标增加相当于其[Sinking]强度的[Vibration]强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]"

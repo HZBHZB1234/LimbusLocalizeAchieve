@@ -573,7 +573,7 @@
     {
       "id": 1070501,
       "name": "泪雨",
-      "desc": "战斗开始时，消耗1层沉沦 ，并根据沉沦 强度失去相应的理智值。\n受到攻击前，根据自身带有的沉沦 强度，获得相应层数的守护 。(每回合最多获得5层)\n受到攻击时，下回合获得1层打击伤害强化 。(每回合最多获得3层)"
+      "desc": "战斗开始时，消耗1层沉沦 ，并根据自身的沉沦 强度使自身失去相应的理智值。\n受到攻击前，使自身获得层数相当于自身沉沦 强度的守护 。(每回合最多获得5层)\n受到攻击时，下回合获得1层打击伤害强化 。(每回合最多3层)"
     },
     {
       "id": 1070521,
@@ -1680,12 +1680,12 @@
     {
       "id": 1081001,
       "name": "冲击抵消巨剑",
-      "desc": "战斗开始时，根据自身带有的[Vibration]层数，使自身获得相应层数的[DefenseUp](最多5层)"
+      "desc": "战斗开始时，使自身获得层数相当于自身[Vibration]层数的[DefenseUp](最多5层)"
     },
     {
       "id": 1081011,
       "name": "冲击抵消巨剑",
-      "desc": "战斗开始时，根据自身带有的[Vibration]层数，使自身获得相应层数的[DefenseUp](最多5层)\n- 若自身带有[DefensiveStance]，则使以上效果获得的[DefenseUp]层数变为2倍。"
+      "desc": "战斗开始时，使自身获得层数相当于自身[Vibration]层数的[DefenseUp](最多5层)\n- 若自身带有[DefensiveStance]，则使以上效果获得的[DefenseUp]层数变为2倍。"
     },
     {
       "id": 1081021,
@@ -1695,7 +1695,7 @@
     {
       "id": 1101001,
       "name": "开始保护任务",
-      "desc": "战斗开始时，根据自身带有的震颤 层数，获得相应层数的[DefenseUp](最多5层)"
+      "desc": "战斗开始时，使自身获得层数相当于自身震颤 层数的[DefenseUp](最多5层)"
     },
     {
       "id": 1101021,
@@ -2280,7 +2280,7 @@
       "id": 1091311,
       "name": "正义之魔法少女/绝望骑士",
       "desc": "处于[BlessingAlly]状态时\n- 受到来自攻击的体力伤害-(自身的理智值/2)%(最多-20%)\n<style=\"highlight\">- 若战斗开始时自身的[ProtectiveSword]层数不低于3层，则使自身获得1层[Protection]\n- 若战斗开始时自身的[ProtectiveSword]为5层，则改为使自身获得2层[Protection]与1层[ParryingResultUp]</style>\n\n处于[DespairAlly]状态时\n- 基础技能造成的伤害+(-自身的理智值/2)%(最多+20%)\n<style=\"highlight\">- 若战斗开始时自身的[PenetratingSword]层数不低于3层，则使自身获得1层[AttackDmgUp]\n- 若战斗开始时自身的[PenetratingSword]层数为5层，则改为使自身获得2层[AttackDmgUp]与1层[ResultEnhancement]</style>",
-      "summary": "处于[BlessingAlly]状态时，受到的伤害减少；根据自身的[ProtectiveSword]层数使自身获得[Protection]与[ParryingResultUp]\n处于[DespairAlly]状态时，造成的伤害增加；根据自身的[PenetratingSword]层数使自身获得[AttackDmgUp]与[ResultEnhancement]"
+      "summary": "处于[BlessingAlly]状态时，受到的伤害减少；根据自身的[ProtectiveSword]层数相应使自身获得[Protection]与[ParryingResultUp]\n处于[DespairAlly]状态时，造成的伤害增加；根据自身的[PenetratingSword]层数相应使自身获得[AttackDmgUp]与[ResultEnhancement]"
     },
     {
       "id": 1091321,
@@ -2607,7 +2607,7 @@
     {
       "id": 1021402,
       "name": "由纸条所传达的指令",
-      "desc": "回合开始时\n- 根据自身的[BlessingOfIndexPrescriptAlly]层数，使自身获得[IndexPrescriptFaust_0]/[IndexPrescriptFaust_1]/[IndexPrescriptFaust_2]/[IndexPrescriptFaust_3]\n- 随机对1名敌方单位施加[IndexPrescriptTargetToEnemy](若是集中遭遇战，则改为1个部位)\n- 使仪表盘上自身的基础攻击技能获得[IndexPrescriptTargetMarkToEnemy](每个行动槽最多1个，最多2个技能)\n· 若自身的[BlessingOfIndexPrescriptAlly]层数不低于6层，则该效果优先适用于3技能\n- 自身陷入混乱、无法行动、陷入恐慌或E.G.O侵蚀时，以上所有效果与执行[IndexPrescript_Base]的判定不会生效",
+      "desc": "回合开始时\n- 根据自身的[BlessingOfIndexPrescriptAlly]层数，相应使自身获得[IndexPrescriptFaust_0]/[IndexPrescriptFaust_1]/[IndexPrescriptFaust_2]/[IndexPrescriptFaust_3]\n- 随机对1名敌方单位施加[IndexPrescriptTargetToEnemy](若是集中遭遇战，则改为1个部位)\n- 使仪表盘上自身的基础攻击技能获得[IndexPrescriptTargetMarkToEnemy](每个行动槽最多1个，最多2个技能)\n· 若自身的[BlessingOfIndexPrescriptAlly]层数不低于6层，则该效果优先适用于3技能\n- 自身陷入混乱、无法行动、陷入恐慌或E.G.O侵蚀时，以上所有效果与执行[IndexPrescript_Base]的判定不会生效",
       "summary": "获得指令\n随机对敌方单位施加指令对象\n随机使自身的基础攻击技能获得指令的印记"
     },
     {
@@ -2620,7 +2620,7 @@
       "id": 1021401,
       "name": "苦行之刃",
       "desc": "自身每带有1层[BlessingOfIndexPrescriptAlly]，使自身被[IndexPrescriptTargetMarkToEnemy]标记的技能造成的伤害+2%(最多+16%)\n- 若自身的[BlessingOfIndexPrescriptAlly]层数为9层，则改为使自身基础技能造成的伤害+20%\n\n自身基础技能命中带有[IndexPrescriptTargetToEnemy]的敌方单位时，\n使自身增加1级[Breath]强度并使该敌方单位增加1级[Sinking]强度(每回合最多1次)\n- 自身每带有3层[BlessingOfIndexPrescriptAlly]，使该效果每回合可触发的次数+1(最多+2)\n\n若自身的[BlessingOfIndexPrescriptAlly]层数为9层，则令自身基础技能增加的[Sinking]强度与[Breath]强度额外+1级",
-      "summary": "根据自身的指令加护 层数，使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身增加呼吸法 强度，使目标增加沉沦 强度"
+      "summary": "根据自身的指令加护 层数，相应使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身增加呼吸法 强度，使目标增加沉沦 强度"
     },
     {
       "id": 1021421,
@@ -2631,7 +2631,7 @@
     {
       "id": 1031402,
       "name": "由终端所传达的指令",
-      "desc": "回合开始时\n- 根据自身的[UnlockBuff_Base]阶段，使自身获得[IndexPrescriptDon_0]/[IndexPrescriptDon_1]/[IndexPrescriptDon_2]/[IndexPrescriptDon_3]\n- 随机对1名敌方单位施加[IndexPrescriptTargetToEnemy](若是集中遭遇战，则改为1个部位)\n- 使仪表盘上自身的基础攻击技能获得[IndexPrescriptTargetMarkToEnemy](每个行动槽最多1个，最多2个技能)\n· 若自身的[UnlockBuff_Base]阶段不低于2，则该效果优先适用于3技能\n- 自身陷入混乱、无法行动、陷入恐慌或E.G.O侵蚀时，以上所有效果与执行[IndexPrescript_Base_2nd]的判定不会生效\n\n回合开始时，若自身带有[UnlockBuffAlly_3]，则使自身获得[Blandishment_Shin]",
+      "desc": "回合开始时\n- 根据自身的[UnlockBuff_Base]阶段，相应使自身获得[IndexPrescriptDon_0]/[IndexPrescriptDon_1]/[IndexPrescriptDon_2]/[IndexPrescriptDon_3]\n- 随机对1名敌方单位施加[IndexPrescriptTargetToEnemy](若是集中遭遇战，则改为1个部位)\n- 使仪表盘上自身的基础攻击技能获得[IndexPrescriptTargetMarkToEnemy](每个行动槽最多1个，最多2个技能)\n· 若自身的[UnlockBuff_Base]阶段不低于2，则该效果优先适用于3技能\n- 自身陷入混乱、无法行动、陷入恐慌或E.G.O侵蚀时，以上所有效果与执行[IndexPrescript_Base_2nd]的判定不会生效\n\n回合开始时，若自身带有[UnlockBuffAlly_3]，则使自身获得[Blandishment_Shin]",
       "summary": "获得指令\n随机对敌方单位施加指令对象\n随机使自身的基础攻击技能获得指令的印记"
     },
     {
@@ -2649,7 +2649,7 @@
       "id": 1031401,
       "name": "魔法哔哔大人果真明白吾之心愿呢！",
       "desc": "自身每带有1层[BlessingOfIndexPrescriptAlly]，使自身被[IndexPrescriptTargetMarkToEnemy]标记的技能造成的伤害+2%(最多+16%)\n- 若自身的[BlessingOfIndexPrescriptAlly]层数为9层，则改为使自身基础技能造成的伤害+20%\n\n自身基础技能命中带有[IndexPrescriptTargetToEnemy]的敌方单位时，\n使自身恢复3点理智值(每个技能最多1次，每回合最多2次)\n- 根据自身的[UnlockBuff_Base]阶段，使自身额外恢复相应的理智值",
-      "summary": "根据自身的指令加护 层数，使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身恢复理智值"
+      "summary": "根据自身的指令加护 层数，相应使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身恢复理智值"
     },
     {
       "id": 1031421,
@@ -2720,7 +2720,7 @@
     {
       "id": 1011502,
       "name": "由终端所传达的指令",
-      "desc": "回合开始时\n- 根据自身的[UnlockBuff_Base]阶段，使自身获得[IndexPrescriptYi_0]/[IndexPrescriptYi_1]/[IndexPrescriptYi_2]/[IndexPrescriptYi_3]\n- 随机对1名敌方单位施加[IndexPrescriptTargetToEnemy](若是集中遭遇战，则改为1个部位)\n- 使仪表盘上自身的基础攻击技能获得[IndexPrescriptTargetMarkToEnemy](每个行动槽最多1个，最多2个技能)\n· 若自身的[UnlockBuff_Base]阶段不低于2，则该效果优先适用于3技能(优先强化技能)\n- 自身陷入混乱、无法行动[TabExplain]、陷入恐慌或E.G.O侵蚀时，以上所有效果与执行[IndexPrescript_Base_2nd]的判定不会生效",
+      "desc": "回合开始时\n- 根据自身的[UnlockBuff_Base]阶段，相应使自身获得[IndexPrescriptYi_0]/[IndexPrescriptYi_1]/[IndexPrescriptYi_2]/[IndexPrescriptYi_3]\n- 随机对1名敌方单位施加[IndexPrescriptTargetToEnemy](若是集中遭遇战，则改为1个部位)\n- 使仪表盘上自身的基础攻击技能获得[IndexPrescriptTargetMarkToEnemy](每个行动槽最多1个，最多2个技能)\n· 若自身的[UnlockBuff_Base]阶段不低于2，则该效果优先适用于3技能(优先强化技能)\n- 自身陷入混乱、无法行动[TabExplain]、陷入恐慌或E.G.O侵蚀时，以上所有效果与执行[IndexPrescript_Base_2nd]的判定不会生效",
       "summary": "执行指令时，使自身恢复理智值并获得指令加护 \n执行失败时，对自身施加业 "
     },
     {
@@ -2751,13 +2751,13 @@
       "id": 1011501,
       "name": "仿造的一生",
       "desc": "自身每带有1层[BlessingOfIndexPrescriptAlly]，使自身带有[IndexPrescriptTargetMarkToEnemy]的技能造成的伤害+2%(最多+16%)\n- 若自身的[BlessingOfIndexPrescriptAlly]层数为9层，则改为使自身基础技能造成的伤害+20%\n\n自身基础攻击技能的[SuperCoin]命中时，使自身获得1层[StackYisangSpecialSkill]\n- 攻击后，使自身获得(剩余的[SuperCoin]数)层[StackYisangSpecialSkill]",
-      "summary": "根据自身的指令加护 层数，\n使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身恢复理智值\n满足条件时，使自身获得[StackYisangSpecialSkill]"
+      "summary": "根据自身的指令加护 层数，\n相应使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身恢复理智值\n满足条件时，使自身获得[StackYisangSpecialSkill]"
     },
     {
       "id": 1011511,
       "name": "仿造的一生",
       "desc": "自身每带有1层[BlessingOfIndexPrescriptAlly]，使自身带有[IndexPrescriptTargetMarkToEnemy]的技能造成的伤害+2%(最多+16%)\n- 若自身的[BlessingOfIndexPrescriptAlly]层数为9层，则改为使自身基础技能造成的伤害+20%\n\n自身基础攻击技能的[SuperCoin]命中时，使自身获得1层[StackYisangSpecialSkill]\n- 攻击后，使自身获得(剩余的[SuperCoin]数)层[StackYisangSpecialSkill]\n<style=\"highlight\">- “Furioso-Replica”攻击后，下回合使自身获得(剩余的[SuperCoin]数/2)层[StackYisangSpecialSkill](向下取整)</style>\n\n<style=\"highlight\">回合结束时，若本回合自身的[StackYisangSpecialSkill]层数达到9层，\n且下回合开始时仪表盘上不存在自身的3技能，则使自身的1个基础技能转化为3技能(优先转化位于仪表盘最左侧行动槽下方一行的技能)</style>",
-      "summary": "根据自身的指令加护 层数，\n使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身恢复理智值\n满足条件时，使自身获得[StackYisangSpecialSkill]"
+      "summary": "根据自身的指令加护 层数，\n相应使自身被指令的印记 标记的技能造成的伤害增加\n命中时，使自身恢复理智值\n满足条件时，使自身获得[StackYisangSpecialSkill]"
     },
     {
       "id": 1011521,
@@ -3335,7 +3335,7 @@
       "name": "约定之锤",
       "desc": "自身在战斗中首次登场时，使自身获得10层[ChargeNoirAlly]并使除自身以外属于黑派的友方人格获得2层[Charge]\n\n通过技能效果施加[NoirNailDonQuixote]时，若自身的[ChargeNoirAlly]层数\n- 不低于12层，则令施加的[NoirNailDonQuixote]层数额外+1层并消耗自身4层[ChargeNoirAlly]\n- 低于12层，则消耗自身2层[ChargeNoirAlly]\n- 不足，则不会施加[NoirNailDonQuixote]\n- 通过该效果施加[NoirNailDonQuixote]的技能视作消耗[Charge]层数的技能\n\n本场战斗中，每当自身累计消耗10层[ChargeNoirAlly]时，使自身增加1级[ChargeNoirAlly]强度",
       "summary": "获得[ChargeNoirAlly]层数并使属于黑派的友方单位获得[Charge]层数\n施加[NoirNailDonQuixote]时消耗[ChargeNoirAlly]层数，[ChargeNoirAlly]层数不低于一定值时施加量增加\n累计消耗[ChargeNoirAlly]层数时增加[ChargeNoirAlly]强度",
-      "flavor": "锤子钉钉子。这把锤子只钉钉子。被这把锤子钉的就是钉子。就是这样的约定。"
+      "flavor": "用锤子去钉钉子。锤子只钉钉子。被锤子钉的就是钉子。就是这样的约定。"
     },
     {
       "id": 1031503,

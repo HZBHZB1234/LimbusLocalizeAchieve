@@ -188,7 +188,7 @@
     {
       "id": 116002,
       "name": "金刚不坏",
-      "desc": "回合开始时，使自身获得5层[Protection]\n- 根据自身的[Charge]强度，相应使自身获得的[Protection]层数减少\n- 自身的[Charge]强度不低于5级时，此后本场战斗期间自身不会通过本被动获得[Protection]"
+      "desc": "回合开始时，使自身获得5层[Protection]\n- 根据自身的[Charge]强度，使自身获得的[Protection]层数相应减少\n- 自身的[Charge]强度不低于5级时，此后本场战斗期间自身不会通过本被动获得[Protection]"
     },
     {
       "id": 116003,

@@ -70,7 +70,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于其流血 强度的流血 强度"
                 }
               ]
             }
@@ -156,7 +156,7 @@
                   "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其额外造成本硬币伤害量10%的伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttackHead] 根据目标带有的流血 强度，使其失去相应的理智值"
                 }
               ]
             },
@@ -166,14 +166,14 @@
                   "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其额外造成本硬币伤害量10%的伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttackHead] 根据目标带有的流血 强度，使其失去相应的理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于其流血 强度的流血 强度"
                 }
               ]
             }
@@ -259,7 +259,7 @@
                   "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其额外造成本硬币伤害量20%的伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，使其失去相应的理智值"
                 }
               ]
             },
@@ -269,14 +269,14 @@
                   "desc": "[OnSucceedAttack] 若目标带有流血 ，则对其额外造成本硬币伤害量20%的伤害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应使其失去理智值"
+                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，使其失去相应的理智值"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于其流血 强度的流血 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标的流血 强度不低于10级，则重复使用本硬币(最多1次)"
@@ -412,7 +412,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根据目标带有的流血 强度，相应增加流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加相当于其流血 强度的流血 强度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标的流血 强度不低于7级，则重复使用本硬币(最多1次)"
