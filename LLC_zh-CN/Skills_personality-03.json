@@ -1715,7 +1715,7 @@
         {
           "level": 4,
           "name": "翠炎掌",
-          "desc": "<style=\"highlight\">若自身的速度值高于目标，则根据速度值之差，相应使本技能的硬币威力增加(速度值每相差2点，使本技能的硬币威力+1，最多+2)</style>\n[WinDuel] 使自身增加3级[Breath]强度\n<style=\"highlight\">- 使自身获得层数相当于目标[DianxueDonQuixote]层数的[Breath]</style>",
+          "desc": "<style=\"highlight\">若自身的速度值高于目标，则根据速度值之差，相应使本技能的硬币威力增加(速度值每相差2点，使本技能的硬币威力+1，最多+2)</style>\n[WinDuel] 使自身增加3级[Breath]强度\n<style=\"highlight\">- 额外使自身获得层数相当于目标[DianxueDonQuixote]层数的[Breath]</style>",
           "coinlist": [
             {
               "coindescs": [

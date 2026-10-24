@@ -30,7 +30,7 @@
     },
     {
       "id": "introduce_word_8",
-      "content": "正义之化身"
+      "content": "伸张正义"
     },
     {
       "id": "introduce_word_9",
@@ -218,7 +218,7 @@
     },
     {
       "id": "introduce_sentence_15",
-      "content": "您曾经见过这些{0}吗？"
+      "content": "汝可曾见过这样的{0}？"
     },
     {
       "id": "introduce_sentence_16",
@@ -234,7 +234,7 @@
     },
     {
       "id": "introduce_sentence_19",
-      "content": "心情愉悦的{0}，心情愉悦地到达。"
+      "content": "心情愉悦的{0}，心情愉悦地抵达。"
     },
     {
       "id": "introduce_sentence_20",
@@ -266,7 +266,7 @@
     },
     {
       "id": "introduce_sentence_27",
-      "content": "吾做梦都想成为像您一样超厉害的{0}！"
+      "content": "吾做梦都想成为像汝一样超厉害的{0}！"
     },
     {
       "id": "introduce_sentence_28",
@@ -446,11 +446,11 @@
     },
     {
       "id": "introduce_word_57",
-      "content": "眼睛"
+      "content": "眼"
     },
     {
       "id": "introduce_sentence_57",
-      "content": "{0}的前方黯淡无光。"
+      "content": "{0}前将变得一片漆黑。"
     },
     {
       "id": "introduce_word_58",
@@ -526,7 +526,7 @@
     },
     {
       "id": "introduce_word_67",
-      "content": "盯梢任务"
+      "content": "便衣任务"
     },
     {
       "id": "introduce_sentence_67",
@@ -770,7 +770,7 @@
     },
     {
       "id": "introduce_sentence_97",
-      "content": "能在这{0}之中行动的，唯有我一人。"
+      "content": "能在这{0}中行动的，唯有我一人。"
     },
     {
       "id": "introduce_word_98",
@@ -826,7 +826,7 @@
     },
     {
       "id": "introduce_sentence_104",
-      "content": "我会带着你无谓的{0}……将礼物倾倒出去。"
+      "content": "我会带着你无谓的{0}……将这礼物倾倒出去。"
     },
     {
       "id": "introduce_word_105",
@@ -878,7 +878,7 @@
     },
     {
       "id": "introduce_word_111",
-      "content": "多管闲事"
+      "content": "盘外支招"
     },
     {
       "id": "introduce_sentence_111",
@@ -1438,7 +1438,7 @@
     },
     {
       "id": "introduce_word_181",
-      "content": "组员"
+      "content": "家人"
     },
     {
       "id": "introduce_sentence_181",
@@ -1858,7 +1858,7 @@
     },
     {
       "id": "introduce_sentence_233",
-      "content": "为了不让这被赐予的{0}之名蒙羞，必须珍惜这次机会……！"
+      "content": "为不辱这柄被赐予的{0}之名，必须珍惜这次机会……！"
     },
     {
       "id": "introduce_word_234",
@@ -2059,6 +2059,14 @@
     {
       "id": "introduce_sentence_258",
       "content": "是{0}！有{0}来了！"
+    },
+    {
+      "id": "introduce_word_259",
+      "content": "委托"
+    },
+    {
+      "id": "introduce_sentence_259",
+      "content": "我们禁止超额预定{0}哦~。"
     }
   ]
 }

@@ -214,7 +214,7 @@
         {
           "level": 1,
           "name": "震荡突刺",
-          "desc": "[WhenUse] 目标的[Combustion]与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
+          "desc": "[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -240,7 +240,7 @@
         {
           "level": 1,
           "name": "灼热突刺",
-          "desc": "[WhenUse] 目标的[Combustion]与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
+          "desc": "[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -266,7 +266,7 @@
         {
           "level": 1,
           "name": "推进斩",
-          "desc": "[WhenUse] 目标的[Combustion]与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)\n[DefeatDuel] 使本技能造成的伤害-75%，且本技能造成的伤害不会使目标陷入混乱",
+          "desc": "[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)\n[DefeatDuel] 使本技能造成的伤害-75%，且本技能造成的伤害不会使目标陷入混乱",
           "coinlist": [
             {
               "coindescs": [
@@ -310,7 +310,7 @@
         {
           "level": 1,
           "name": "推进弹 再次装填",
-          "desc": "[StartBattle] 使自身[FullReload](每回合最多1次)\n[WhenUse] 若目标的[Combustion]与[Vibration]强度之和不低于6级，则使本技能的硬币威力+3\n[WhenUse] 下回合使自身获得1层[AttackDmgUp]",
+          "desc": "[StartBattle] 使自身[FullReload](每回合最多1次)\n[WhenUse] 若目标的[Combustion]强度与[Vibration]强度之和不低于6级，则使本技能的硬币威力+3\n[WhenUse] 下回合使自身获得1层[AttackDmgUp]",
           "coinlist": [
             {
               "coindescs": [
@@ -329,7 +329,7 @@
         {
           "level": 1,
           "name": "震荡穿刺",
-          "desc": "[WhenUse] 目标的[Combustion]与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
+          "desc": "[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -355,7 +355,7 @@
         {
           "level": 1,
           "name": "灼热穿刺",
-          "desc": "[WhenUse] 目标的[Combustion]与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
+          "desc": "[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -381,7 +381,7 @@
         {
           "level": 1,
           "name": "推进割裂",
-          "desc": "[WhenUse] 目标的[Combustion]与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)\n[DefeatDuel] 使本技能造成的伤害-75%，且本技能造成的伤害不会使目标陷入混乱",
+          "desc": "[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有7级，使本技能的硬币威力+1(最多+2)\n[DefeatDuel] 使本技能造成的伤害-75%，且本技能造成的伤害不会使目标陷入混乱",
           "coinlist": [
             {
               "coindescs": [
@@ -425,7 +425,7 @@
         {
           "level": 1,
           "name": "推进弹 再次装填",
-          "desc": "[StartBattle] 使自身[FullReload](每回合最多1次)\n[WhenUse] 若目标的[Combustion]与[Vibration]强度之和不低于6级，则使本技能的硬币威力+3\n[WhenUse] 下回合使自身获得1层[AttackDmgUp]",
+          "desc": "[StartBattle] 使自身[FullReload](每回合最多1次)\n[WhenUse] 若目标的[Combustion]强度与[Vibration]强度之和不低于6级，则使本技能的硬币威力+3\n[WhenUse] 下回合使自身获得1层[AttackDmgUp]",
           "coinlist": [
             {
               "coindescs": [

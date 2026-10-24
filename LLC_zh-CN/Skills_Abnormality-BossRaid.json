@@ -648,6 +648,377 @@
           ]
         }
       ]
+    },
+    {
+      "id": 501901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "二连斩",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "三连击",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Vibration]强度并对其施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "二连斩-爆",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+4)\n[DefeatDuel] 使自身的[BulletPropellant]减少1发",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度并对其施加2层[Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度并对其施加2层[Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "三连击-爆",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+4)\n[DefeatDuel] 使自身的[BulletPropellant]减少1发",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度并对其施加2层[Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度并对其施加2层[Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "爆碎斩",
+          "desc": "优先指定带有[Prey_leiheng]的目标\n<color=#ff6000><mark=#ff000040><b><u>可无视速度值与本技能拼点</u></b></mark></color>\n目标的[Combustion]强度与[Vibration]强度之和每有6级，使本技能的硬币威力+1(最多+3)\n[DefeatDuel] 使自身失去10点理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加4级[Vibration]强度并对其施加4层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>若本硬币效果消耗了[BulletPropellant]，则使本硬币造成的伤害+50%</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度并对其施加3层[Combustion]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "快刀乱麻",
+          "desc": "优先指定带有[Prey_leiheng]的目标\n<color=#ff6000><mark=#ff000040><b><u>可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱</u></b></mark></color>\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+2)\n- 为25层，则主要目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+5)\n[DefeatDuel] 对自身施加1层[Paralysis]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，<color=#ff6000><mark=#ff000040><b><u>令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半</u></b></mark></color>(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[EndSkill] 结束本回合",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗所有[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根据消耗的[BulletPropellant]层数，使目标增加相应的[Combustion]与[Vibration]强度并对其施加相应层数的[Combustion]与[Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> 使目标[VibrationExplosion]3次，并使其[Vibration]层数减少3层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "超绝猛虎杀击乱斩",
+          "desc": "优先指定带有[Prey_leiheng]的目标\n<color=#ff6000><mark=#ff000040><b><u>可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱</u></b></mark></color>\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+4)\n- 不低于25层，则主要目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+6)\n- 为50层，则使本技能的硬币威力+1，造成的伤害+50%\n[DefeatDuel] 对自身施加6层[Paralysis]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，<color=#ff6000><mark=#ff000040><b><u>令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半</u></b></mark></color>(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[EndSkill] 结束本回合",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加6级[Combustion]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加6层[Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加6级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加6层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> 使目标[VibrationExplosion]5次，并使其[Vibration]层数减少5层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "天退星刀 装填",
+          "desc": "[DuelCounter] \n[DefeatDuel] 使自身的[BulletPropellant]减少1发\n[EndBattle] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为[ReloadKeepAmmo](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "消耗1发[BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 502001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "猛虎标弹支援",
+          "desc": "[EndBattle] 使雷横获得6发[BulletPropellantSpecial]\n[EndBattle] 使自身[DisengageCombat]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
     }
   ]
 }

@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "二连斩",
-          "desc": "目标的[Combustion]与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+2)",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -32,7 +32,7 @@
         {
           "level": 1,
           "name": "三连击",
-          "desc": "目标的[Combustion]与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+2)",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -65,7 +65,7 @@
         {
           "level": 1,
           "name": "二连斩-爆",
-          "desc": "目标的[Combustion]与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+4)\n[DefeatDuel] 使自身的[BulletPropellant]减少1发",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+4)\n[DefeatDuel] 使自身的[BulletPropellant]减少1发",
           "coinlist": [
             {
               "coindescs": [
@@ -97,7 +97,7 @@
         {
           "level": 1,
           "name": "三连击-爆",
-          "desc": "目标的[Combustion]与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+4)\n[DefeatDuel] 使自身的[BulletPropellant]减少1发",
+          "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+4)\n[DefeatDuel] 使自身的[BulletPropellant]减少1发",
           "coinlist": [
             {
               "coindescs": [
@@ -142,7 +142,7 @@
         {
           "level": 1,
           "name": "爆碎斩",
-          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点\n目标的[Combustion]与[Vibration]强度之和每有6级，使本技能的硬币威力+1(最多+3)\n[DefeatDuel] 使自身失去10点理智值",
+          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点\n目标的[Combustion]强度与[Vibration]强度之和每有6级，使本技能的硬币威力+1(最多+3)\n[DefeatDuel] 使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
         {
           "level": 1,
           "name": "快刀乱麻",
-          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+2)\n- 为25层，则主要目标的[Combustion]与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+5)\n[DefeatDuel] 对自身施加4层[ResultReduction]\n[DefeatDuel] 对自身施加1层[Paralysis]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[EndSkill] 结束本回合",
+          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+2)\n- 为25层，则主要目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+5)\n[DefeatDuel] 对自身施加4层[ResultReduction]\n[DefeatDuel] 对自身施加1层[Paralysis]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[EndSkill] 结束本回合",
           "coinlist": [
             {
               "coindescs": [
@@ -242,7 +242,7 @@
         {
           "level": 1,
           "name": "超绝猛虎杀击乱斩",
-          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+4)\n- 不低于25层，则主要目标的[Combustion]与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+6)\n- 为50层，则使本技能的硬币威力+1，造成的伤害+50%\n[DefeatDuel] 对自身施加2层[ResultReduction]\n[DefeatDuel] 对自身施加6层[Paralysis]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[EndSkill] 结束本回合",
+          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+4)\n- 不低于25层，则主要目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+6)\n- 为50层，则使本技能的硬币威力+1，造成的伤害+50%\n[DefeatDuel] 对自身施加2层[ResultReduction]\n[DefeatDuel] 对自身施加6层[Paralysis]\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[EndSkill] 结束本回合",
           "coinlist": [
             {
               "coindescs": [
@@ -350,7 +350,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层[Combustion]"
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
                 }
               ]
             }
