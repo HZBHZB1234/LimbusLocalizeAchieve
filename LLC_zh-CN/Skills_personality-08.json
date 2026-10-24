@@ -1134,7 +1134,7 @@
                   "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead]  对目标施加1层[SlashTakeDamageUp](每回合最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 对目标施加1层[SlashTakeDamageUp](每回合最多1次)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">- 若包括自身在内属于黑云会的友方单位不低于6名，则改为对目标施加2层[Vulnerable]</style>"

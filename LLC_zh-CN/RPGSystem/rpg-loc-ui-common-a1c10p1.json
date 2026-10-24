@@ -401,6 +401,18 @@
       "text": "移动转向辅助"
     },
     {
+      "key": "Setting_Sisyphus_VirtualPadMode",
+      "text": "虚拟摇杆模式"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFixed",
+      "text": "固定"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFloating",
+      "text": "可动"
+    },
+    {
       "key": "Setting_Sisyphus_RunStartDelayValue",
       "text": "{0}秒"
     },

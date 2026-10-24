@@ -3232,6 +3232,467 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1031501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "被钉刺穿吧",
+          "desc": "[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1\n[WhenUse] 使自身与除自身以外属于黑派的友方人格中[Charge]层数最低的1名友方单位获得2层[Charge](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得4层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "被钉刺穿吧",
+          "desc": "<style=\"highlight\">[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和每有4点，使本技能的最终威力+1(最多+2)</style>\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，<style=\"highlight\">造成的伤害+20%</style>\n[WhenUse] 使自身与除自身以外属于黑派的友方人格中[Charge]层数最低的1名友方单位获得<style=\"highlight\">3</style>层[Charge](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">5</style>层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "被钉刺穿吧",
+          "desc": "[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和每有4点，使本技能的最终威力+1(最多+<style=\"highlight\">3</style>)\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，造成的伤害+<style=\"highlight\">40%</style>\n[WhenUse] 使自身与除自身以外属于黑派的友方人格中[Charge]层数最低的1名友方单位获得<style=\"highlight\">4</style>层[Charge](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">6</style>层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "钉啊，生长吧",
+          "desc": "[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得6层[ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "钉啊，生长吧",
+          "desc": "<style=\"highlight\">[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和每有4点，使本技能的最终威力+1(最多+2)</style>\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，<style=\"highlight\">造成的伤害+20%</style>\n<style=\"highlight\">[BeforeAttack] 每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">7</style>层[ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "钉啊，生长吧",
+          "desc": "[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和每有4点，使本技能的最终威力+1(最多+<style=\"highlight\">3</style>)\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，造成的伤害+<style=\"highlight\">30%</style>\n[BeforeAttack] 每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">8</style>层[ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "吾将断绝汝之诞生！",
+          "desc": "[StartBattle] 使自身获得3层[OathFieldDonQuixote](每回合最多1次)\n[StartBattle] 使自身与除自身以外属于黑派的友方人格中速度值最高的1名友方单位获得2层[AttackUp]与2层[DefenseUp](每回合最多1次)\n[WhenUse] 若目标的[Vibration]强度与[NoirNailDonQuixote]层数之和不低于6点，则使本技能的硬币威力+1\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%\n[BeforeAttack] 每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[Switch_Vibration]为[VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[NoirNailDonQuixote]层数不低于3层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "吾将断绝汝之诞生！",
+          "desc": "[StartBattle] 使自身获得3层[OathFieldDonQuixote](每回合最多1次)\n[StartBattle] 使自身与除自身以外属于黑派的友方人格中速度值最高的1名友方单位获得2层[AttackUp]与2层[DefenseUp](每回合最多1次)\n[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和<style=\"highlight\">每有6点</style>，使本技能的硬币威力+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，造成的伤害+<style=\"highlight\">40%</style>\n[BeforeAttack] 每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+1(最多+4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">4</style>层[ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[Switch_Vibration]为[VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[NoirNailDonQuixote]层数不低于3层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "默视",
+          "desc": "[StartBattle] 使自身获得3层[OathFieldDonQuixote](每回合最多1次)\n[StartBattle] 使自身与除自身以外属于黑派的友方人格中理智值最低的1名友方单位恢复4点理智值(每回合最多1次)\n[StartBattle] 使自身获得2层[ChargeNoirAlly](每回合最多1次)\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "默视",
+          "desc": "[StartBattle] 使自身获得3层[OathFieldDonQuixote](每回合最多1次)\n[StartBattle] 使自身与除自身以外属于黑派的友方人格中理智值最低的1名友方单位恢复<style=\"highlight\">5</style>点理智值(每回合最多1次)\n<style=\"highlight\">[StartBattle] 根据自身的[NoirShieldUpDonQuixote]层数，触发以下效果</style>\n<style=\"highlight\">- 若自身的[NoirShieldUpDonQuixote]层数为100层，则改为使用“几度挥落，吾将断绝汝之诞生！”(每回合最多1次，该效果在单方面攻击时也会触发)</style>\n<style=\"highlight\">- 若自身的[NoirShieldUpDonQuixote]层数低于100层，则使自身获得体力上限(自身的[NoirShieldUpDonQuixote]层数/10)%的护盾(每回合最多1次)</style>\n[StartBattle] 使自身获得<style=\"highlight\">3</style>层[ChargeNoirAlly](每回合最多1次)\n<style=\"highlight\">[WhenUse] 若目标的[Vibration]强度与[NoirNailDonQuixote]层数之和不低于6点，则使本技能的硬币威力+1</style>\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，<style=\"highlight\">造成的伤害+10%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">3</style>层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "默视",
+          "desc": "[StartBattle] 使自身获得3层[OathFieldDonQuixote](每回合最多1次)\n[StartBattle] 使自身与除自身以外属于黑派的友方人格中理智值最低的1名友方单位恢复<style=\"highlight\">6</style>点理智值(每回合最多1次)\n[StartBattle] 根据自身的[NoirShieldUpDonQuixote]层数，触发以下效果\n- 若自身的[NoirShieldUpDonQuixote]层数为100层，则改为使用“几度挥落，吾将断绝汝之诞生！”(每回合最多1次，该效果在单方面攻击时也会触发)\n- 若自身的[NoirShieldUpDonQuixote]层数低于100层，则使自身获得体力上限(自身的[NoirShieldUpDonQuixote]层数/10)%的护盾(每回合最多1次)\n[StartBattle] 使自身获得<style=\"highlight\">4</style>层[ChargeNoirAlly](每回合最多1次)\n[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和<style=\"highlight\">每有6点</style>，使本技能的硬币威力+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，造成的伤害+<style=\"highlight\">20%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">4</style>层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "审判！",
+          "desc": "[CantDuel]\n本技能适用以下效果\n- 不会触发守备技能\n- 不会因外部效果而重复使用\n- 直到本技能结束，目标的体力不会低于1点\n[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和每有4点，使本技能的最终威力+1(最多+2)\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，造成的伤害+20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "审判！",
+          "desc": "[CantDuel]\n本技能适用以下效果\n- 不会触发守备技能\n- 不会因外部效果而重复使用\n- 直到本技能结束，目标的体力不会低于1点\n[WhenUse] 目标的[Vibration]强度与[NoirNailDonQuixote]层数之和每有4点，使本技能的最终威力+1(最多+<style=\"highlight\">3</style>)\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1，造成的伤害+<style=\"highlight\">40%</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[Vibration]强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "几度挥落，吾将断绝汝之诞生！",
+          "desc": "守备技能改为使用本技能时，本技能视作攻击技能，不受改变守备威力的效果影响，而改为适用于改变攻击威力的效果\n[StartBattle] 使属于黑派的全体友方人格获得2层[AttackUp]与2层[DefenseUp](每回合最多1次)\n[WhenUse] 若全体攻击目标的[Vibration]强度与[NoirNailDonQuixote]层数之和不低于6点，则使本技能的硬币威力+1\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1\n[WhenUse] 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+30%(若是集中遭遇战，则改为以部位判定)\n[BeforeAttack] 每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+2(最多+8)\n[EndSkill] 消耗所有[NoirShieldUpDonQuixote]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeNoirAlly](每枚硬币最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[Switch_Vibration]为[VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根据目标的[NoirNailDonQuixote]层数，使其触发以下效果\n- 若目标的[NoirNailDonQuixote]层数不低于3层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层\n- 对目标造成本硬币最终伤害量(目标的[NoirNailDonQuixote]层数×1.5)%的怠惰伤害(最多45%)\n- 消耗目标所有[NoirNailDonQuixote]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "几度挥落，吾将断绝汝之诞生！",
+          "desc": "守备技能改为使用本技能时，本技能视作攻击技能，不受改变守备威力的效果影响，而改为适用于改变攻击威力的效果\n[StartBattle] 使属于黑派的全体友方人格获得2层[AttackUp]与2层[DefenseUp](每回合最多1次)\n[WhenUse] 全体攻击目标的[Vibration]强度与[NoirNailDonQuixote]层数之和<style=\"highlight\">每有6点</style>，使本技能的硬币威力+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1\n[WhenUse] 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+<style=\"highlight\">50%</style>(若是集中遭遇战，则改为以部位判定)\n[BeforeAttack] 每有1点最大共鸣数，使本技能最后一枚硬币的最终威力+2(最多+8)\n[EndSkill] 消耗所有[NoirShieldUpDonQuixote]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">4</style>层[ChargeNoirAlly](每枚硬币最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[Switch_Vibration]为[VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 根据目标的[NoirNailDonQuixote]层数，使其触发以下效果\n- 若目标的[NoirNailDonQuixote]层数不低于3层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层\n- 对目标造成本硬币最终伤害量(目标的[NoirNailDonQuixote]层数×<style=\"highlight\">3</style>)%的怠惰伤害(最多<style=\"highlight\">90%</style>)\n- 消耗目标所有[NoirNailDonQuixote]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,484 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_SISYP_INTRO",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>感谢你们欣然加入这趟旅程。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>这里是什么地方？真的是很难取个名字呢。虽然其属于名为6F的概念，但也是你们所走过的所有楼层倒流、搅拌再混合的堆积之处。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>没卖出去的东西。过季的东西。被结转的东西。被退回的东西。被遗忘的东西。在这里都没有区别。你所走过的一切，如今都在脚下被碾个粉碎。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>那些被一层层地压实，便成了如此坚硬而又容易打滑的坡道。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>无论踩到了什么，都不要太过在意。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 5,
+          "text": "<color=#cf0000>要做的事十分简单，默尔索。将这石头推到那顶上。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 6,
+          "text": "<color=#cf0000>没什么窍门。用力，定好方向，一直推就可以了。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 7,
+          "text": "<color=#cf0000>有的地方会很滑，而有的地方又会很陡峭吧。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 8,
+          "text": "<color=#cf0000>但你是能做到的，默尔索。我不是一直训练着你吗。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 9,
+          "text": "<color=#ffe066>哇塞，快来看看。</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ffe066>模特们。正在T台上走秀呢。</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 11,
+          "text": "<color=#ffe066>走到尽头，改变方向……再继续走。回到最开始的位置。又改变方向，再继续走。</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 12,
+          "text": "<color=#ffe066>噗哈，如何？和你们现在在做的，不是很像吗？</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 13,
+          "text": "<color=#ebcaa2>对了，你的手臂还好吗？真想泡杯茶给你，可惜不行呢。毕竟那样的话，你就必须松开手了。</color>",
+          "speaker": "让娜"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>第一次开始，与再一次回到起点是截然不同的，默尔索。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>一开始并没有什么可以失去。但你如今知道了自己要将石头推到什么地方。</color>",
+          "speaker": "妈妈"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>呵呵……我可没在嘲笑你啊？</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>啊，难不成我还得慰问一下你吗？</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>实际上我是这么想的。失败就是失败而已。并不是所有的失败都能给你带来教训。</color>",
+          "speaker": "克罗默"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>你会恼火吗。这就是监狱的职能。</color>",
+          "speaker": "牧师"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>明知会滚落，却仍要继续推动。将此次定能抵达终点的确信完全粉碎。这就是刑罚啊。</color>",
+          "speaker": "牧师"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>此路便是刑罚之路。有罪之人啊，此乃为了惩罚汝而存在的……苦痛之路。</color>",
+          "speaker": "牧师"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>模特们在T台上一旦开始走秀，就不会停下。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>所以步态才会如此优美吧？</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>还是说，他们必须看上去优美，所以才要不停地走下去呢？</color>",
+          "speaker": "让娜"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>成为模特是西西弗百货全体居民的梦想。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>那是身着高价服装、被众人所注视后才能实现的梦想。这就是他们为何想拼命地往上爬，哪怕只有一层也好。</color>",
+          "speaker": "妈妈"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>但像这样爬啊爬……</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>最终就只剩走秀这件事了。可喜可贺。</color>",
+          "speaker": "让娜"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>你有想过吗？</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>是你们在推石头。还是石头在把你们向上拉呢。</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>这话题很有趣吧？试着松开一次手吧。我很好奇会那变成什么样。</color>",
+          "speaker": "克罗默"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_5",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>看向正前方，默尔索。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>脖子挺直，脚尖贴平。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>别让你的痛苦被当作痛苦。</color>",
+          "speaker": "妈妈"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_6",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>此乃……降予身为有罪之人的汝的刑罚。</color>",
+          "speaker": "牧师"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>不要奢望尽头。</color>",
+          "speaker": "牧师"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_7",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>这里混杂着你们一路走来的所有楼层的残渣。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>仔细看的话，就能发现埋着的眼球有一座小山那么多哦？</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>也有人为了收集这些东西而浪费了一生吧。</color>",
+          "speaker": "让娜"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_8",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>录有我声音的录音带，应该也在某处吧。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>我每天上班的时候，都会把那本手册中写着的东西读给他们听。</color>",
+          "speaker": "妈妈"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>那就是我的职责。我自己怎么想并不重要。毕竟他们的渴望、苦痛、喜悦……都是制造经验罐头的材料。</color>",
+          "speaker": "妈妈"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_9",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>要我告诉你还有多远才能到顶吗？</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>你很想知道吧？想知道到快要发疯了吧？</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>也许已经过半了吧，也许山顶就在眼前呢。也许……呵呵，你才刚刚离开起点呢？</color>",
+          "speaker": "克罗默"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_LATE_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>停下来也可以哦。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>你可不能停下！</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>忍耐一切重压，仅是向上。此乃有罪之人的义务。</color>",
+          "speaker": "牧师"
+        },
+        {
+          "index": 3,
+          "text": "<color=#cf0000>登顶并不重要，默尔索。重要的是……</color>",
+          "speaker": "妈妈"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_LATE_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>人们觉得如果没有结果，过程便没有意义。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 1,
+          "text": "<color=#e1b643>可我们就算吃了饭，也会再次感到饥饿。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 2,
+          "text": "<color=#e1b643>就算清洗了身体，也会再次变脏。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 3,
+          "text": "<color=#e1b643>就算睡了觉，也会再次犯困……我们就算知道这一切，却依旧……</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 4,
+          "text": "<color=#e1b643>准备着晚餐、烧着洗澡的热水、在说完晚安后关灯。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 5,
+          "text": "<color=#e1b643>默尔，你为什么要爬上这条坡道呢？</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 6,
+          "text": "<color=#e1b643>你本可以在紧缠的锁链之下，寻找只属于自身的安宁的吧。</color>",
+          "speaker": "卡门"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_ARRIVE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>你终于抵达了。这条坡道的顶端。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 1,
+          "text": "<color=#e1b643>已经可以松开手了。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 2,
+          "text": "<color=#e1b643>石头大概仍会向下滚落吧。但……那并不重要。不是吗？</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 3,
+          "text": "<color=#e1b643>现在来见那孩子、百货店和我吧。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 4,
+          "text": "<color=#e1b643>石头大概仍会滚落吧。但已经没关系了。</color>",
+          "speaker": "卡门"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FINALE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>现在，来见我吧。</color>",
+          "speaker": "卡门"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>现在，来见我吧。</color>",
+          "speaker": "让娜"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>现在，来见我吧。</color>",
+          "speaker": "牧师"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ffe066>现在，来见我吧。</color>",
+          "speaker": "克罗默"
+        },
+        {
+          "index": 4,
+          "text": "<color=#cf0000>现在，来见我吧。</color>",
+          "speaker": "妈妈"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_HOKMA",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你必须成为你自己。\n不能被任何事物所束缚住。",
+          "speaker": ""
+        },
+        {
+          "index": 1,
+          "text": "存在于世界最深处的河流。",
+          "speaker": ""
+        },
+        {
+          "index": 2,
+          "text": "既然生而为人，我们便只能受到那条河流所共享的人类之梦的影响。\n我对此并不否认。这正是人类的特征。",
+          "speaker": ""
+        },
+        {
+          "index": 3,
+          "text": "但是，后天形成的文化，以及被他人决定好的事物，是绝不能去规定形状的。",
+          "speaker": ""
+        },
+        {
+          "index": 4,
+          "text": "哪怕仅有一次，也能让你成为你自己。哪怕仅有一次，也能让每个人成为他们自己。",
+          "speaker": ""
+        },
+        {
+          "index": 5,
+          "text": "我想给予这个机会，以及能够将其实现的力量。",
+          "speaker": ""
+        },
+        {
+          "index": 6,
+          "text": "我的后辈花费了漫长的时间，固化了属于自身的领悟与思考，继而产生了和我不同的想法。",
+          "speaker": ""
+        },
+        {
+          "index": 7,
+          "text": "艾因如今继承了我曾试图去贯彻的价值观，正将工具……衣服交予人们。",
+          "speaker": ""
+        },
+        {
+          "index": 8,
+          "text": "但我的答案果然还是这个。",
+          "speaker": ""
+        },
+        {
+          "index": 9,
+          "text": "你必须成为你自己。\n不被任何事物所束缚。",
+          "speaker": ""
+        },
+        {
+          "index": 10,
+          "text": "",
+          "speaker": ""
+        }
+      ]
+    }
+  ]
+}

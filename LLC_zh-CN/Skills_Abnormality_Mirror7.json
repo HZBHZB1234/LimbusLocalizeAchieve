@@ -1271,7 +1271,7 @@
         {
           "level": 1,
           "name": "请勿破坏展品",
-          "desc": "[DuelCounter]\n[SupportProtect]专用技能\n直到本技能使用时，自身不会陷入混乱\n[WhenUse] 使自身获得1层[Protection]\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1",
+          "desc": "[DuelCounter]\n[SupportProtect]专用技能\n直到使用本技能时，自身不会陷入混乱\n[WhenUse] 使自身获得1层[Protection]\n[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [

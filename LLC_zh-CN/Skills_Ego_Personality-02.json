@@ -1082,6 +1082,216 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2021111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "空洞(le trou)",
+          "abName": "空洞之人",
+          "desc": "[CantDuel]\n本场战斗中首次使用时，消耗的理智值减少5点，消耗的E.G.O资源减少2个忧郁、2个傲慢与2个嫉妒\n若自身的[BulletHole]数不低于1发，则改为使用“填补空洞”\n本技能不会命中敌方单位，不会触发守备技能，且不会因外部效果而重复使用\n[EndSkill] 使自身获得5发[BulletHole]\n[EndSkill] 使自身增加5级[Breath]强度\n[EndSkill] 使自身获得3层[Breath]\n[EndSkill] 使自身获得5层[Charge]\n[EndSkill] 使自身获得4层[BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "空洞(le trou)",
+          "abName": "空洞之人",
+          "desc": "[CantDuel]\n本场战斗中首次使用时，消耗的理智值减少5点，消耗的E.G.O资源减少2个忧郁、2个傲慢与2个嫉妒\n若自身的[BulletHole]数不低于1发，则改为使用“填补空洞”\n本技能不会命中敌方单位，不会触发守备技能，且不会因外部效果而重复使用\n[EndSkill] 使自身获得5发[BulletHole]\n[EndSkill] 使自身增加5级[Breath]强度\n[EndSkill] 使自身获得3层[Breath]\n[EndSkill] 使自身获得5层[Charge]\n[EndSkill] 使自身获得4层[BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "空洞(le trou)",
+          "abName": "空洞之人",
+          "desc": "[CantDuel]\n本场战斗中首次使用时，消耗的理智值减少5点，消耗的E.G.O资源减少2个忧郁、2个傲慢与2个嫉妒\n若自身的[BulletHole]数不低于1发，则改为使用“填补空洞”\n本技能不会命中敌方单位，不会触发守备技能，且不会因外部效果而重复使用\n[EndSkill] 使自身获得5发[BulletHole]\n[EndSkill] 使自身增加5级[Breath]强度\n[EndSkill] 使自身获得3层[Breath]\n[EndSkill] 使自身获得5层[Charge]\n[EndSkill] 使自身获得4层[BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "填补空洞(boucher un trou)",
+          "abName": "空洞之人",
+          "desc": "本技能不会因外部效果而重复使用\n自身的[Breath]强度与[Charge]层数之和每有4点，使本技能的拼点威力+1(最多+5)\n自身每带有1发[BulletHole]，使本技能的拼点威力+2\n[BeforeAttack] 消耗所有[BulletHole]并触发以下效果\n- 每消耗1发[BulletHole]，使自身增加2级[Breath]强度并使自身获得1层[Breath]与2层[Charge]\n- 每消耗1发[BulletHole]，使本技能造成的伤害+8%\n若本技能消耗了5发[BulletHole]，则使自身恢复5点理智值\n[EndSkill] 使自身获得1发[BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "重复使用本硬币(消耗的[BulletHole]数-1)次(最多4次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "填补空洞(boucher un trou)",
+          "abName": "空洞之人",
+          "desc": "本技能不会因外部效果而重复使用\n<style=\"highlight\">本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+5%(若是集中遭遇战，则改为以部位判定)</style>\n自身的[Breath]强度与[Charge]层数之和每有4点，使本技能的拼点威力+1(最多+<style=\"highlight\">7</style>)\n自身每带有1发[BulletHole]，使本技能的拼点威力+2\n<style=\"highlight\">[BeforeAttack] 若本技能仅指定1名攻击目标，则使本技能造成的伤害+50%(若是集中遭遇战，则以本体判定)</style>\n[BeforeAttack] 消耗所有[BulletHole]并触发以下效果\n- 每消耗1发[BulletHole]，使自身增加2级[Breath]强度并使自身获得1层[Breath]与2层[Charge]\n- 每消耗1发[BulletHole]，使本技能造成的伤害+8%\n若本技能消耗了5发[BulletHole]，则使自身恢复5点理智值\n[EndSkill] 使自身获得1发[BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "重复使用本硬币(消耗的[BulletHole]数-1)次(最多4次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "填补空洞(boucher un trou)",
+          "abName": "空洞之人",
+          "desc": "本技能不会因外部效果而重复使用\n本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害<style=\"highlight\">+10%</style>(若是集中遭遇战，则改为以部位判定)\n自身的[Breath]强度与[Charge]层数之和每有4点，使本技能的拼点威力+1(最多+<style=\"highlight\">10</style>)\n自身每带有1发[BulletHole]，使本技能的拼点威力+2\n[BeforeAttack] 若本技能仅指定1名攻击目标，则使本技能造成的伤害<style=\"highlight\">+100%</style>(若是集中遭遇战，则以本体判定)\n[BeforeAttack] 消耗所有[BulletHole]并触发以下效果\n- 每消耗1发[BulletHole]，使自身增加2级[Breath]强度并使自身获得1层[Breath]与2层[Charge]\n- 每消耗1发[BulletHole]，使本技能造成的伤害+8%\n<style=\"highlight\">[EndSkill] 使(2+最大共鸣数)名友方单位增加5级[Breath]强度并使其获得2层[Breath](最多7名)</style>\n若本技能消耗了5发[BulletHole]，则使自身恢复5点理智值\n[EndSkill] 使自身获得1发[BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "重复使用本硬币(消耗的[BulletHole]数-1)次(最多4次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021121,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "空洞",
+          "abName": "空洞之人",
+          "desc": "[CantIdentify]\n随机指定目标\n自身的[Breath]强度与[Charge]层数之和每有4点，使本技能的拼点威力+1(最多+5)\n\n[BeforeAttack] 使自身获得3层[Breath]与5层[Charge]\n[BeforeAttack] 消耗自身最多15层超过10层的[Charge]并使本技能造成的伤害+(消耗的[Charge]层数×2)%\n[BeforeAttack] 若自身的[BulletHole]数为最大值，则消耗所有[BulletHole]并在下回合使全体友方单位获得以下效果\n- 1层[AttackUp] \n- 1层[AttackDmgUp](每回合最多1次)\n- 1层[CriticalDamageUp](每回合最多1次)\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-3(最多-9)\n[EndSkill] 使自身获得1发[BulletHole]与2层[BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "空洞",
+          "abName": "空洞之人",
+          "desc": "[CantIdentify]\n随机指定目标\n自身的[Breath]强度与[Charge]层数之和每有4点，使本技能的拼点威力+1(最多+<style=\"highlight\">7</style>)\n\n[BeforeAttack] 使自身获得3层[Breath]与5层[Charge]\n[BeforeAttack] 消耗自身最多15层超过10层的[Charge]并使本技能造成的伤害+(消耗的[Charge]层数×<style=\"highlight\">3</style>)%\n[BeforeAttack] 若自身的[BulletHole]数为最大值，则消耗所有[BulletHole]并在下回合使全体友方单位获得以下效果\n- 1层[AttackUp] \n- 1层[AttackDmgUp](每回合最多1次)\n- 1层[CriticalDamageUp](每回合最多1次)\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-3(最多-9)\n[EndSkill] 使自身获得1发[BulletHole]与2层[BlackWingHole]\n<style=\"highlight\">[EndSkill] 随机使(2+最大共鸣数)名友方单位增加5级[Breath]强度并使其获得2层[Breath](最多7名)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "空洞",
+          "abName": "空洞之人",
+          "desc": "[CantIdentify]\n随机指定目标\n自身的[Breath]强度与[Charge]层数之和每有4点，使本技能的拼点威力+1(最多+<style=\"highlight\">10</style>)\n\n[BeforeAttack] 使自身获得3层[Breath]与5层[Charge]\n[BeforeAttack] 消耗自身最多15层超过10层的[Charge]并使本技能造成的伤害+(消耗的[Charge]层数×<style=\"highlight\">5</style>)%\n[BeforeAttack] 若自身的[BulletHole]数为最大值，则消耗所有[BulletHole]并在下回合使全体友方单位获得以下效果\n- 1层[AttackUp] \n- 1层[AttackDmgUp](每回合最多1次)\n- 1层[CriticalDamageUp](每回合最多1次)\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-3(最多-9)\n[EndSkill] 使自身获得1发[BulletHole]与2层[BlackWingHole]\n[EndSkill] 随机使(2+最大共鸣数)名友方单位增加5级[Breath]强度并使其获得2层[Breath]<style=\"highlight\">与2层[BlackWingHole]</style>(最多7名)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -341,7 +341,7 @@
                   "desc": "使本硬币暴击时造成的伤害+100%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级[Laceration]强度并对目标施加2层[Laceration]"
+                  "desc": "[OnSucceedAttack] 使目标增加10级[Laceration]强度并对其施加2层[Laceration]"
                 }
               ]
             },
@@ -418,7 +418,7 @@
                   "desc": "[OnSucceedAttack] 下回合对目标施加5层[Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级[Laceration]强度并对目标施加2层[Laceration]"
+                  "desc": "[OnSucceedAttack] 使目标增加10级[Laceration]强度并对其施加2层[Laceration]"
                 }
               ]
             },

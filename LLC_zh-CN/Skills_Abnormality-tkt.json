@@ -403,7 +403,7 @@
         {
           "level": 1,
           "name": "滴滴答",
-          "desc": "[WhenUse]  若目标的[Laceration]强度不低于5级，则使本技能的拼点威力+1",
+          "desc": "[WhenUse] 若目标的[Laceration]强度不低于5级，则使本技能的拼点威力+1",
           "coinlist": [
             {
               "coindescs": [

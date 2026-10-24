@@ -1407,6 +1407,14 @@
     {
       "id": "10917_getCondition_gacksung",
       "content": "高级定制::改衣室 罗佳 3阶段同步完成"
+    },
+    {
+      "id": "10315_getCondition_normal",
+      "content": "高级定制::黑派 品牌经理 堂吉诃德 获得时"
+    },
+    {
+      "id": "10315_getCondition_gacksung",
+      "content": "高级定制::黑派 品牌经理 堂吉诃德 3阶段同步完成"
     }
   ]
 }

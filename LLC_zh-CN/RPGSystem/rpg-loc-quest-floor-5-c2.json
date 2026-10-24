@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "key": "Q5000_C2",
+      "title": "前往5F深处",
+      "description": "我们到5F了。继续前往5F深处吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往5F深处"
+        }
+      ]
+    },
+    {
+      "key": "Q5001_C2",
+      "title": "阻止自助餐",
+      "description": "5F里有一个和之前不同、还没有变得巨大的自助餐。自助餐希望我们留下，但那样不行。为了继续前进，我们必须打倒自助餐。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "阻止自助餐"
+        }
+      ]
+    },
+    {
+      "key": "Q5002_C2",
+      "title": "前往5F深处",
+      "description": "曾作为红派的赤红之神而存在的自助餐，同时也是与我们同行的吱咿，此时已经一动不动了。继续前往5F深处吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往5F深处"
+        }
+      ]
+    },
+    {
+      "key": "Q5003_C2",
+      "title": "前往6F",
+      "description": "用餐结束后，通往6F的道路打开了。前往6F吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往6F"
+        }
+      ]
+    },
+    {
+      "key": "Q5004T_C2",
+      "title": "与自助餐的开战信号",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与自助餐开战"
+        }
+      ]
+    }
+  ]
+}

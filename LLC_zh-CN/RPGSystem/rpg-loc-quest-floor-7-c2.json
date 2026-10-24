@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "key": "Q7001_C2",
+      "title": "明室",
+      "description": "默尔索将石头推到顶，石头又再度落下。我们终于抵达的……是百货店的最顶部。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前进吧。"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "随后坐下。"
+        }
+      ]
+    },
+    {
+      "key": "Q7002_C2",
+      "title": "？？？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "？？？"
+        }
+      ]
+    }
+  ]
+}

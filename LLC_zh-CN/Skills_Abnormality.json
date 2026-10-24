@@ -470,7 +470,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的本体恢复3点体力"
+                  "desc": "[OnSucceedAttack] 使本体恢复3点体力"
                 }
               ]
             },
@@ -511,7 +511,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身的本体恢复10点体力"
+                  "desc": "[OnSucceedAttack] 使本体恢复10点体力"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使目标增加5级流血 强度"
@@ -3041,7 +3041,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血"
+                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度并对其施加2层流血 "
                 }
               ]
             },
@@ -4146,7 +4146,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加10级破裂 强度 "
+                  "desc": "[OnSucceedAttack] 使目标增加10级破裂 强度"
                 }
               ]
             }
@@ -4706,7 +4706,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加3层流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 层数高于2层，则使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 若目标的流血 层数不低于2层，则使其增加5级流血 强度"
                 }
               ]
             }
@@ -4757,7 +4757,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的流血 层数高于2层，则使目标增加5级流血 强度"
+                  "desc": "[OnSucceedAttack] 若目标的流血 层数不低于2层，则使其增加5级流血 强度"
                 }
               ]
             }

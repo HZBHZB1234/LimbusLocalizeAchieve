@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 1114,
+      "panicName": "欲望(le désir)",
+      "lowMoraleDescription": "攻击等级+3，防御等级+3",
+      "panicDescription": "攻击等级+5，防御等级+5",
+      "flavor": "全都是一些我不明白的话。只是像那样从某处来的话。\n擅自浮现、又擅自被刻下的……从外界来的，好像煞有介事的话。这些话我完全不明白。\n\n……但是，我也明白。"
+    },
+    {
+      "id": 1116,
+      "panicName": "同步错误",
+      "lowMoraleDescription": "受到的伤害+12.5%\n最小与最大速度值-1\n消耗[ChargeNoir]的技能造成的伤害-15%",
+      "panicDescription": "受到的伤害+20%\n最小与最大速度值-2\n消耗[ChargeNoir]的技能造成的伤害-25%"
+    },
+    {
+      "id": 1117,
+      "panicName": "罪恶感",
+      "lowMoraleDescription": "最小与最大速度值-1\n受到来自速度值高于自身的目标的伤害+10%",
+      "panicDescription": "最小与最大速度值-2\n受到来自速度值高于自身的目标的伤害+15%",
+      "flavor": "“你感受到自己的罪孽爬上了脊背。”"
+    },
+    {
+      "id": 1118,
+      "panicName": "漆黑之神-黑派的巨人-牧师-锤派",
+      "lowMoraleDescription": "无法确认",
+      "panicDescription": "无法确认",
+      "flavor": "西西弗系统内部的时间不受任何物质性阻力的影响，流逝得非常快，但巨人们可以通过各自的视角与系统内部的时间同步，从而得以拥有与顾客们沟通的时间。\n\n其中代表锤派的巨人控制着系统内部的记忆与时间，并且可以独自做出重置库存的决断，虽然只是局部性的。"
+    },
+    {
+      "id": 1120,
+      "panicName": "从皮里出去！",
+      "lowMoraleDescription": "防御等级-2，攻击等级+2",
+      "panicDescription": "防御等级-5，攻击等级+3"
+    },
+    {
+      "id": 1122,
+      "panicName": "恶心(la nausée)",
+      "lowMoraleDescription": "造成的伤害-10%",
+      "panicDescription": "基础威力-1，造成的伤害-10%",
+      "flavor": "对世界的反胃与恶心。这个世界只是存在着。一切都不存在所谓意义，只是作为偶然的产物被置于眼前罢了。\n\n只是偶然而已。一切都是。"
+    }
+  ]
+}

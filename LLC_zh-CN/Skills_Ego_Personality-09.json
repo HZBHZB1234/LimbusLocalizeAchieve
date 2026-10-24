@@ -1034,7 +1034,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 }
               ]
             },
@@ -1047,7 +1047,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 }
               ]
             },
@@ -1084,7 +1084,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 }
               ]
             },
@@ -1097,7 +1097,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 }
               ]
             },
@@ -1137,7 +1137,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 }
               ]
             },
@@ -1150,7 +1150,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 }
               ]
             },

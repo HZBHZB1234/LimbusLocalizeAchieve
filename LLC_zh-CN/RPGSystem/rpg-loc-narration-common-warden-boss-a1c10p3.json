@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_WARDEN_CANDLE_MARK",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哈哈……各位异乡人。你们知道我等这一刻等了多久吗？"
+        }
+      ]
+    },
+    {
+      "key": "NAR_WARDEN_CANDLE_YELLOW",
+      "texts": [
+        {
+          "index": 0,
+          "text": "把攻击引导到那支蜡烛上看看。会发生很有趣的事情的！"
+        }
+      ]
+    }
+  ]
+}

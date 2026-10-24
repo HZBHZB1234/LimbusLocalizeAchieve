@@ -1,0 +1,103 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "开场",
+      "description": "载入后立即播放开场演出（S1001B）的隐藏任务",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1011",
+      "title": "接受必然在美妆馆发生之事",
+      "description": "结局并未改变。现在还能做什么呢？我决定先离开卫生间。经历必然发生的事情，并尽快找到默尔索。",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1012",
+      "title": "一行人会合",
+      "description": "遭遇克罗默过场动画",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "遭遇克罗默"
+        }
+      ]
+    },
+    {
+      "key": "Q1014",
+      "title": "？？？",
+      "description": "似乎有什么藏在这里。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "？？？"
+        }
+      ]
+    },
+    {
+      "key": "Q1015",
+      "title": "？？？",
+      "description": "似乎有什么藏在这里。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "？？？"
+        }
+      ]
+    },
+    {
+      "key": "Q1016",
+      "title": "？？？",
+      "description": "似乎有什么藏在这里。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "？？？"
+        }
+      ]
+    },
+    {
+      "key": "Q1017",
+      "title": "？？？",
+      "description": "似乎有什么藏在这里。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "？？？"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "前往2F",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "到达2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1018",
+      "title": "？？？",
+      "description": "（隐藏）获得尖钉时的对话",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "任务1-开始"
+    }
+  ]
+}

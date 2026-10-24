@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_56_1",
+      "dlg": "虽然几乎每天都在看，可还是不习惯呢。正如往常那样。"
+    },
+    {
+      "id": "announcer_cheer_56_2",
+      "dlg": "我啊……很喜欢那种在日复一日的景象中出现的一些小小变化。虽然一天的结束仍然毫无区别，但从记忆中浮现出的某种久违的感觉……我很喜欢。"
+    },
+    {
+      "id": "announcer_specialcheer_56_1",
+      "dlg": "总有一天，你会想念我的，小可爱。"
+    },
+    {
+      "id": "announcer_specialcheer_56_2",
+      "dlg": "如果就这么继续被钉在原地，或许拥有的所有意义都会枯竭吧。"
+    },
+    {
+      "id": "announcer_enemy_break_56_1",
+      "dlg": "顾客们很快就要蜂拥而至了。为了释放各自的欲望……为了钉下尖钉……为了买卖……"
+    },
+    {
+      "id": "announcer_ally_break_56_1",
+      "dlg": "我啊。感到头晕的时候就会听音乐。因为只要闭上眼睛静静听着，心情就会在不知不觉间好起来。"
+    },
+    {
+      "id": "announcer_killenemy_56_1",
+      "dlg": "结果又落到谷底了啊。"
+    },
+    {
+      "id": "announcer_ally_dead_56_1",
+      "dlg": "别板着脸嘛，小可爱。别人看到了还以为是谁死了呢。\n反正……这不过是阴影界里发生的小小骚动而已吧？"
+    },
+    {
+      "id": "announcer_enemy_adv_56_1",
+      "dlg": "这样的情况还需要理由吗？只不过……发生了而已。背后也没什么特别的因果联系，真的只是偶然……陷入这种局面了而已。"
+    },
+    {
+      "id": "announcer_ally_adv_56_1",
+      "dlg": "如果无数巧合层层叠叠，让你从里面出来的话……啊，那我们就结婚吧？那样一来就不用特地把“女友”前面带着的那个难看的字去掉了呀。"
+    },
+    {
+      "id": "announcer_ally_advex_56_1",
+      "dlg": "从头再来不是更轻松吗？比起苦苦挣扎，那样才更好吧。"
+    },
+    {
+      "id": "announcer_danger_56_1",
+      "dlg": "即便觉得绝对凝视过，但一定谁也没有真正凝视过，却能突然产生似乎曾凝视过的感觉。猜猜人们把这种偶然且不可逆的感觉称作什么？\n“没有时间。”"
+    },
+    {
+      "id": "announcer_enemy_specialskill_56_1",
+      "dlg": "手忙脚乱的，真努力啊。他们想表现什么呢？警告……危险……也有可能是不满？"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_56_1",
+      "dlg": "为什么要这么做？把这种多余的疑问抛掉吧。\n对一切都必然有所理由的这份期待只会让你失望。"
+    },
+    {
+      "id": "announcer_advatk_physical_56_1",
+      "dlg": "就像是被钉下了钉子一样，普普通通的攻击呢。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_56_1",
+      "dlg": "呵呵。你什么时候悄悄锻炼过幽默感啦？刚刚那个动作我会好好记住的，小可爱。"
+    },
+    {
+      "id": "announcer_advatk_attr_56_1",
+      "dlg": "很高效。就像你一样。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_56_1",
+      "dlg": "这……有点好笑？"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_56_1",
+      "dlg": "今天的阳光很令人舒适呢。不过对你来说，会有点热吧？"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_56_1",
+      "dlg": "即使是那些被钉住很久的顾客，也不会对百货店的一切都习以为常。这类人也偶尔会感到陌生吧。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_56_1",
+      "dlg": "毫不犹豫地抓住了援手啊。接下来会发生什么呢？会被背叛吗？又或许什么都不会发生呢。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_56_1",
+      "dlg": "被陌生事物包围时，会突然地感到晕眩吧。"
+    },
+    {
+      "id": "announcer_enemy_destroy_56_1",
+      "dlg": "虽然被一分为二，但难道那二者起初就是一个整体吗？"
+    },
+    {
+      "id": "announcer_enemy_destroy_56_2",
+      "dlg": "它起初大概是一个整体吧。不过，从它被赋予了某样职责，登上舞台，沐浴观众视线起……它的一切都再也不能成为单独一个了。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_56_1",
+      "dlg": "不必悲伤。这一切不过是漫无目标的漂流罢了。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_56_2",
+      "dlg": "你现在知道了吧？不管怎么挣扎，也只是徒增悲伤而已。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_56_1",
+      "dlg": "从这逐渐崩塌的样子看来，应该就快要进行库存整理了吧。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_56_2",
+      "dlg": "不过……将想做的事付诸实践的模样果然还是应该得到夸奖吧。毕竟西西弗百货是我亲自设计的，能让人坦率面对欲望的地方呀。"
+    },
+    {
+      "id": "announcer_multikillenemy_56_1",
+      "dlg": "居然已经能这样激烈地走动了吗。看样子你的新同事能在西西弗百货里成为一位不错的顾客呢。"
+    },
+    {
+      "id": "announcer_battle_win_56_1",
+      "dlg": "祝贺你，小可爱。虽然这点小小的胜利大概改变不了结局就是了。"
+    },
+    {
+      "id": "announcer_battle_defeat_56_1",
+      "dlg": "天啊。你决定要和我共度余生了吗？真浪漫。"
+    },
+    {
+      "id": "announcer_equip_56_1",
+      "dlg": "还需要自我介绍吗？我的名字是让娜。这是我欣然分享给你们的，这道声音的名字……也是百货店的巨人哦。"
+    }
+  ]
+}

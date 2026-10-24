@@ -1013,7 +1013,7 @@
         {
           "level": 1,
           "name": "快刀乱麻",
-          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+2)\n- 为25层，则主要目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+5)\n[DefeatDuel]  使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[DefeatDuel] 使本技能造成的最终伤害-50%\n[EndSkill] 结束本回合",
+          "desc": "优先指定带有[Prey]的目标\n可无视速度值与本技能拼点。直到使用本技能时，自身不会陷入混乱\n[WhenUse] 消耗所有[BattleSense]，若消耗的[BattleSense]层数\n- 不低于10层，则每消耗10层，使本技能的攻击容量+1(最多+2)\n- 为25层，则主要目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的最终威力+1(最多+5)\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，令本技能增加的[Combustion]与[Vibration]强度与施加的[Combustion]与[Vibration]层数减半(不包括其他效果增加的施加量)\n[EndSkill] 使自身[FullReload](每回合最多1次)\n- 若自身带有[BulletPropellantSpecial]，则改为使自身[ReloadKeepAmmo](每回合最多1次)\n[DefeatDuel] 使本技能造成的最终伤害-50%\n[EndSkill] 结束本回合",
           "coinlist": [
             {
               "coindescs": [
@@ -1021,7 +1021,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "消耗自身所有[BulletPropellant]"
+                  "desc": "消耗所有[BulletPropellant]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 根据消耗的[BulletPropellant]层数，使目标增加相应的[Combustion]与[Vibration]强度并对其施加相应层数的[Combustion]与[Vibration]"

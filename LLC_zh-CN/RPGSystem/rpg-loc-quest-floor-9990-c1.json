@@ -1,0 +1,15 @@
+{
+  "dataList": [
+    {
+      "key": "Q9990_C1",
+      "title": "反抗命运",
+      "description": "现在，必须离开既定的道路。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "击败看守，反抗命运"
+        }
+      ]
+    }
+  ]
+}

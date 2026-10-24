@@ -18,13 +18,15 @@
       "id": 1110,
       "panicName": "颤抖的双手",
       "lowMoraleDescription": "- 受到的伤害+7.5%\n- 自身每次受到攻击时，对自身施加1层[Vibration](每个技能最多1次，每回合最多5次)",
-      "panicDescription": "- 受到的伤害+15%\n- 自身每次受到攻击时，使自身增加1级[Vibration]强度并对自身施加1层[Vibration](每个技能最多1次，每回合最多5次)"
+      "panicDescription": "- 受到的伤害+15%\n- 自身每次受到攻击时，使自身增加1级[Vibration]强度并对自身施加1层[Vibration](每个技能最多1次，每回合最多5次)",
+      "flavor": "双手开始颤抖的话，剪刀也会随之不稳……不能再这样裁剪下去了……"
     },
     {
       "id": 1115,
       "panicName": "堵塞的机器",
       "lowMoraleDescription": "技能对速度值低于自身的目标造成的伤害-5%",
-      "panicDescription": "技能对速度值低于自身的目标造成的伤害-10%"
+      "panicDescription": "技能对速度值低于自身的目标造成的伤害-10%",
+      "flavor": "能固定比自己更快的东西吗？"
     },
     {
       "id": 1112,

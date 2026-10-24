@@ -3,7 +3,7 @@
     {
       "id": "battle_awaken_20501_1",
       "desc": "E.G.O觉醒",
-      "dlg": "如此诸多不断紧缠……"
+      "dlg": "如此诸多束缚而来……"
     },
     {
       "id": "battle_awaken_20502_1",
@@ -99,6 +99,41 @@
       "id": "battle_erosion_20509_2",
       "desc": "E.G.O侵蚀",
       "dlg": "斩杀！"
+    },
+    {
+      "id": "battle_awaken_20510_1",
+      "desc": "E.G.O觉醒",
+      "dlg": "一声枪响。自闪烁的视野中，向深邃的黑夜……子弹，将与他人之视线相汇。"
+    },
+    {
+      "id": "battle_awaken_20510_2",
+      "desc": "E.G.O觉醒",
+      "dlg": "一声枪响。自闪烁的视野中，向深邃的黑夜……子弹，"
+    },
+    {
+      "id": "battle_awaken_20510_3",
+      "desc": "E.G.O觉醒",
+      "dlg": "将与他人之视线相汇。"
+    },
+    {
+      "id": "battle_erosion_20510_1",
+      "desc": "E.G.O侵蚀",
+      "dlg": "瞄准(En joue)，枪口指向某人头颅。"
+    },
+    {
+      "id": "battle_erosion_20510_2",
+      "desc": "E.G.O侵蚀",
+      "dlg": "子弹瞄准日斑，"
+    },
+    {
+      "id": "battle_erosion_20510_3",
+      "desc": "E.G.O侵蚀",
+      "dlg": "于眩目中贯穿。"
+    },
+    {
+      "id": "battle_awaken_20501_2",
+      "desc": "E.G.O觉醒",
+      "dlg": "即使诸多视线无止尽地束缚而来……我也将欣然……！"
     }
   ]
 }

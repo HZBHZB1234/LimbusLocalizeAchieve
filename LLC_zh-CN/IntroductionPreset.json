@@ -2115,6 +2115,30 @@
     {
       "id": "introduce_sentence_265",
       "content": "置入我空荡的{0}中。"
+    },
+    {
+      "id": "introduce_word_266",
+      "content": "正义"
+    },
+    {
+      "id": "introduce_sentence_266",
+      "content": "让开道路。如此，吾便不会怀疑汝等的{0}。"
+    },
+    {
+      "id": "introduce_word_267",
+      "content": "灰色"
+    },
+    {
+      "id": "introduce_sentence_267",
+      "content": "人会消逝，唯有{0}留存。"
+    },
+    {
+      "id": "introduce_word_268",
+      "content": "眩目"
+    },
+    {
+      "id": "introduce_sentence_268",
+      "content": "子弹瞄准日斑，于{0}中贯穿。"
     }
   ]
 }

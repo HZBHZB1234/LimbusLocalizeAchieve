@@ -112,7 +112,7 @@
     {
       "key": "Q-2007",
       "title": "继续前往线团之巢",
-      "description": "消灭了堵住道路的所有黑派。前往线团之巢吧。",
+      "description": "击败了堵住道路的所有黑派。前往线团之巢吧。",
       "steps": [
         {
           "index": 0,
@@ -131,7 +131,7 @@
         },
         {
           "index": 1,
-          "goalDescription1": "击杀B2F楼层经理"
+          "goalDescription1": "击败B2F楼层经理"
         },
         {
           "index": 2,

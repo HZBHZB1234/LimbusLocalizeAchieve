@@ -1,0 +1,15 @@
+{
+  "dataList": [
+    {
+      "key": "Q1001_C2",
+      "title": "前往5F",
+      "description": "我们反抗了命运。看守已经不再出现了。前往我们之前抵达的最高处，百货店的5F吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往5F"
+        }
+      ]
+    }
+  ]
+}

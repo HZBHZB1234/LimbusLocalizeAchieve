@@ -125,7 +125,7 @@
         {
           "level": 1,
           "name": "等待",
-          "desc": "[StartBattle] 全体敌方单位失去20点理智值",
+          "desc": "[StartBattle] 使全体敌方单位失去20点理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -2036,7 +2036,7 @@
         {
           "level": 1,
           "name": "积蓄的嫉妒",
-          "desc": "[WhenUse] 使自身获得3层充能  \n[DefeatDuel] 自身失去3层充能 ",
+          "desc": "[WhenUse] 使自身获得3层充能 \n[DefeatDuel] 自身失去3层充能 ",
           "coinlist": [
             {
               "coindescs": [

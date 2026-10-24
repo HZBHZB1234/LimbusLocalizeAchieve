@@ -84,7 +84,7 @@
     {
       "id": 2070111,
       "name": "傲气",
-      "desc": "除自身以外的友方单位击杀敌方单位时，下回合使自身获得1层强壮 与1层迅捷  。(最多3次)"
+      "desc": "除自身以外的友方单位击杀敌方单位时，下回合使自身获得1层强壮 与1层迅捷 。(最多3次)"
     },
     {
       "id": 2070211,
@@ -625,6 +625,18 @@
       "id": 2091011,
       "name": "分裂的触觉",
       "desc": "自身增加[Breath]强度或获得[Breath]层数时，使自身获得1层[Breath](每回合最多2次)\n\n若自身为[PersonalityBreath]或[PersonalityVibration]，则使自身攻击容量为1的基础技能或[WideAreaRampage]基础技能造成的伤害+10%\n\n攻击后，若目标陷入混乱或阵亡，则下回合随机使除该单位以外的全体敌方单位增加共计该单位[Vibration]强度1/3的[Vibration]强度(向上取整，若是集中遭遇战，则改为以部位判定)\n- 该效果不会与E.G.O饰品“镜反射触觉联觉”的效果叠加"
+    },
+    {
+      "id": 2021111,
+      "name": "空洞(le trou de vidange)",
+      "desc": "若自身的[BulletHole]数为5发，则自身的“空洞”E.G.O技能(觉醒、侵蚀)使用时不会消耗E.G.O资源\n\n回合开始时，使自身获得1发[BulletHole]与1层[BlackWingHole]\n\n友方单位击杀敌方单位时，使该友方单位恢复5点理智值并在下回合获得1层[Enhancement](每回合最多1次)\n\n最大[Charge]层数+5\n\n自身获得超过自身最大[Charge]层数的[Charge]层数时，随机使自身增加相当于溢出获得量的[Breath]强度或获得层数相当于溢出获得量的[Breath](每回合最多转化6层)",
+      "flavor": "空洞并非因穿刺而产生，而是因缺欠而产生。空洞渴望被填满，却反而从中溢出。"
+    },
+    {
+      "id": 2051011,
+      "name": "内出血(l'hémorragie interne)",
+      "desc": "[AlwaysUseEGOPassive]\n若自身的[BulletHole]数为5发，则自身的“空洞”E.G.O技能(觉醒、侵蚀)使用时不会消耗E.G.O资源\n\n回合开始时，使自身获得1发[BulletHole]\n\n[WhenUseEGOPassive]\n回合开始时，使自身获得1层[BlackWingHole]\n\n每当自身累计消耗或失去3发[Bullet]时，使自身恢复5点理智值并在下回合获得1层[ResultEnhancement](包括特殊[Bullet]；每回合最多计入9发[Bullet])",
+      "flavor": "他人之视线刺穿我的身体，形成空洞，使一切溢出。溢出之物化作子弹又再次射向你，刺出空洞。"
     }
   ]
 }

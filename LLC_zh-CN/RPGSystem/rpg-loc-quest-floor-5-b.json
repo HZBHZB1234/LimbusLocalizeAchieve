@@ -28,7 +28,7 @@
     {
       "key": "Q5002",
       "title": "前往B1F",
-      "description": "据说想进入5F，我们的美德仍然不足。必须让吱咿穿上用黄金皮革制作的寿衣。前往地下貌似能找到了可以加工皮革的人。去地下看看吧。",
+      "description": "据说想进入5F，我们的美德仍然不足。必须让吱咿穿上用黄金皮革制作的寿衣。前往地下貌似能找到可以加工皮革的人。去地下看看吧。",
       "steps": [
         {
           "index": 0,
@@ -71,18 +71,18 @@
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "消灭9个黑派店员[阳光]",
-          "goalDescription2": "消灭7个黑派警卫",
-          "goalDescription3": "消灭3个黑派当代服饰馆店员",
-          "goalDescription4": "消灭2个黑派品牌世家店员",
-          "goalDescription5": "消灭2个黑派品牌世家"
+          "goalDescription1": "击败9个黑派店员[阳光]",
+          "goalDescription2": "击败7个黑派警卫",
+          "goalDescription3": "击败3个黑派当代服饰馆店员",
+          "goalDescription4": "击败2个黑派品牌世家店员",
+          "goalDescription5": "击败2个黑派品牌世家"
         }
       ]
     },
     {
       "key": "Q5007",
       "title": "前往位于5F深处的帷幕",
-      "description": "我们消灭了5F蜂拥而至的敌人。现在前往5F深处，触碰帷幕吧。既然吱咿穿着黄金寿衣，情况应该会和之前有所不同。",
+      "description": "我们击败了5F蜂拥而至的敌人。现在前往5F深处，触碰帷幕吧。既然吱咿穿着黄金寿衣，情况应该会和之前有所不同。",
       "steps": [
         {
           "index": 0,
@@ -93,7 +93,7 @@
     },
     {
       "key": "Q5003",
-      "title": "击杀黑派品牌经理",
+      "title": "击败黑派品牌经理",
       "description": "打倒堵住去路的黑派品牌经理吧。",
       "steps": [
         {

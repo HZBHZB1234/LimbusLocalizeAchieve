@@ -3277,7 +3277,7 @@
     {
       "id": 1041604,
       "name": "保存",
-      "desc": "本场战斗中，每当自身累计消耗10层[ChargeNoirAlly]，\n使自身增加1级[ChargeNoirAlly]强度\n\n回合结束时，若自身的[ChargeNoirAlly]强度低于3级，则消耗所有[ChargeNoirAlly]层数并在下回合使自身获得(消耗的[ChargeNoirAlly]层数×5)点护盾\n\n若自身的[ChargeNoirAlly]强度不低于3级且自身的[ChargeNoirAlly]层数低于12层，则令自身的基础技能获得的[ChargeNoirAlly]层数额外+1层\n\n基础攻击技能使用时\n- 若目标的[Vibration]强度不低于6级，则使自身的硬币威力+1\n- 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1\n- 使自身造成的伤害+(自身的[ChargeNoirAlly]强度×2)%(最多+10%)\n· “三线印花缝纫”与“单踢-多样定制时装”改为造成的伤害+(自身的[ChargeNoirAlly]强度×4)%(最多+20%)",
+      "desc": "本场战斗中，每当自身累计消耗10层[ChargeNoirAlly]时，\n使自身增加1级[ChargeNoirAlly]强度\n\n回合结束时，若自身的[ChargeNoirAlly]强度低于3级，则消耗所有[ChargeNoirAlly]层数并在下回合使自身获得(消耗的[ChargeNoirAlly]层数×5)点护盾\n\n若自身的[ChargeNoirAlly]强度不低于3级且自身的[ChargeNoirAlly]层数低于12层，则令自身的基础技能获得的[ChargeNoirAlly]层数额外+1层\n\n基础攻击技能使用时\n- 若目标的[Vibration]强度不低于6级，则使自身的硬币威力+1\n- 若自身的[ChargeNoirAlly]强度不低于3级，则使本技能的硬币威力+1\n- 使自身造成的伤害+(自身的[ChargeNoirAlly]强度×2)%(最多+10%)\n· “三线印花缝纫”与“单踢-多样定制时装”改为造成的伤害+(自身的[ChargeNoirAlly]强度×4)%(最多+20%)",
       "summary": "保存 层数低于一定值时，获得的保存 层数增加\n基础攻击技能使用时，硬币威力与造成的伤害增加"
     },
     {
@@ -3322,6 +3322,46 @@
       "desc": "使速度值最高的1名友方单位的斩击基础技能造成的伤害+10%",
       "summary": "额外斩击伤害",
       "flavor": "把剪刀中最珍贵的一把给你。"
+    },
+    {
+      "id": 1031501,
+      "name": "黑之誓约",
+      "desc": "战斗结束时，若自身带有[OathFieldDonQuixote]，则下回合使自身获得1层[Agility]\n\n使自身基础攻击技能对主要目标造成的伤害+(自身的[ChargeNoirAlly]强度×3)%(最多+15%)",
+      "summary": "若激活[OathFieldDonQuixote]，则下回合获得[Agility]\n基础攻击技能对主要目标造成的伤害增加[TabExplain]",
+      "flavor": "我听见了那位的声音。其应许说，这一切都是有意义的。"
+    },
+    {
+      "id": 1031502,
+      "name": "约定之锤",
+      "desc": "自身在战斗中首次登场时，使自身获得10层[ChargeNoirAlly]并使除自身以外属于黑派的友方人格获得2层[Charge]\n\n通过技能效果施加[NoirNailDonQuixote]时，若自身的[ChargeNoirAlly]层数\n- 不低于12层，则令施加的[NoirNailDonQuixote]层数额外+1层并消耗自身4层[ChargeNoirAlly]\n- 低于12层，则消耗自身2层[ChargeNoirAlly]\n- 不足，则不会施加[NoirNailDonQuixote]\n- 通过该效果施加[NoirNailDonQuixote]的技能视作消耗[Charge]层数的技能\n\n本场战斗中，每当自身累计消耗10层[ChargeNoirAlly]时，使自身增加1级[ChargeNoirAlly]强度",
+      "summary": "获得[ChargeNoirAlly]层数并使属于黑派的友方单位获得[Charge]层数\n施加[NoirNailDonQuixote]时消耗[ChargeNoirAlly]层数，[ChargeNoirAlly]层数不低于一定值时施加量增加\n累计消耗[ChargeNoirAlly]层数时增加[ChargeNoirAlly]强度",
+      "flavor": "锤子钉钉子。这把锤子只钉钉子。被这把锤子钉的就是钉子。就是这样的约定。"
+    },
+    {
+      "id": 1031503,
+      "name": "保存的使命",
+      "desc": "自身在战斗中首次登场时，使自身获得25层[NoirShieldUpDonQuixote]\n\n自身消耗[ChargeNoirAlly]层数或获得超过最大值的[ChargeNoirAlly]层数时， 使自身获得(消耗或获得的[ChargeNoirAlly]层数×5)层[NoirShieldUpDonQuixote](每回合最多30层)\n\n带有护盾的友方人格受到攻击时，使自身获得2层[NoirShieldUpDonQuixote](每回合最多10层)\n- 若该友方单位为[PersonalityCharge]，则改为获得5层[NoirShieldUpDonQuixote]",
+      "summary": "获得[NoirShieldUpDonQuixote]"
+    },
+    {
+      "id": 1031504,
+      "name": "神之旨意及价值与吾等同在…",
+      "desc": "除自身以外属于黑派的友方人格攻击敌方单位前，自身优先使用“审判！”对主要目标进行单方面攻击(每回合最多1次)\n\n基础技能的最后一枚硬币开始时，使该硬币的最终威力+(自身的[ChargeNoirAlly]强度+(目标的[NoirNailDonQuixote]层数/2))(最多+5)\n\n若自身带有[OathFieldDonQuixote]，则使自身基础1/2/3技能的拼点威力+1/+2/+3\n\n带有[NoirNailDonQuixote]的目标受到[VibrationExplosion]时， 使自身与除自身以外[Charge]层数最低的1名友方[PersonalityCharge]获得2层[Charge](每回合最多2次)",
+      "summary": "属于黑派的友方单位攻击前使用“审判！”\n基础技能最后一枚硬币的最终威力增加[TabExplain]\n若激活[OathFieldDonQuixote]，则使基础技能的拼点威力增加[TabExplain]\n带有[NoirNailDonQuixote]的目标受到[VibrationExplosion]时，获得[Charge]层数",
+      "flavor": "在一切都不确定的此世之间，引导并守护我等的事物仅有一件，即为漆黑之神的圣言；那圣言将成为道路、成为光照亮我等，于是我等才初次被赋予了意义。"
+    },
+    {
+      "id": 1031511,
+      "name": "黑之誓约",
+      "desc": "战斗结束时，若自身带有[OathFieldDonQuixote]，则下回合使自身获得2层[Agility]\n\n使自身基础攻击技能对主要目标造成的伤害+(自身的[ChargeNoirAlly]强度×6)%(最多+30%)",
+      "summary": "若激活[OathFieldDonQuixote]，则下回合获得[Agility]\n基础攻击技能对主要目标造成的伤害增加[TabExplain]",
+      "flavor": "我听见了那位的声音。其应许说，这一切都是有意义的。"
+    },
+    {
+      "id": 1031521,
+      "name": "阵型保存",
+      "desc": "战斗开始时，场上每有1名友方[PersonalityCharge]，使全体友方[PersonalityCharge]受到的伤害-2%(最多-10%)",
+      "summary": "友方[PersonalityCharge]受到的伤害减少"
     }
   ]
 }

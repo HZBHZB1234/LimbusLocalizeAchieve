@@ -1998,7 +1998,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于3层，则使目标[VibrationExplosion]并使其[Vibration]层数减少1层"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于3层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
                 }
               ]
             },
@@ -2038,7 +2038,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于3层，则使目标[VibrationExplosion]并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若目标的[Vibration]层数不低于3层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
                 }
               ]
             },
