@@ -78,7 +78,7 @@
     {
       "id": "battle_enemy_break_10204_1",
       "desc": "敌方混乱",
-      "dlg": "始于土地……"
+      "dlg": "始于泥土……"
     },
     {
       "id": "battle_break_10204_1",
@@ -88,7 +88,7 @@
     {
       "id": "battle_kill_10204_1",
       "desc": "击杀敌方",
-      "dlg": "……归于土地！"
+      "dlg": "……归于泥土！"
     },
     {
       "id": "battle_dead_10204_1",
