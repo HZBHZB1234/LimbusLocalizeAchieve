@@ -247,10 +247,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与"
+                  "desc": "[OnSucceedAttack] ランダムに[SinkingWhite]1<noparse>～</noparse>2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 精神力が2～6減少"
+                  "desc": "[OnSucceedAttack] 精神力が2<noparse>～</noparse>6減少"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)"
@@ -282,10 +282,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ランダムに[SinkingWhite]1<noparse>～</noparse>2を付与<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 精神力が2<noparse>～</noparse>6減少<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>"
@@ -317,10 +317,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] ランダムに[SinkingWhite]1<noparse>～</noparse>2を付与<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 精神力が2<noparse>～</noparse>6減少<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>"
@@ -792,7 +792,7 @@
           "level": 3,
           "name": "輝かざる栄光 - 流水",
           "abName": "ムリナール",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">攻撃対象が3名以上なら、1～3コインが破壊されずに的中時、最終コインのダメージ量 +25% (コイン1枚につき1回発動。集中戦闘の場合、部位を対象1名として扱う)</style>\n[WhenUse] [MlynarWaiting]が40なら、基本威力 +1\n\n[BeforeAttack] [MlynarWaiting]を全て消耗して下記の効果を適用 (全て小数点切り捨て)\n- (消耗した数値 ÷ 10)だけ[DefenseUp]を得る (1ターンにつき1回)\n- 40消耗したなら、最終コインのダメージ量 +<style=\"highlight\">130</style>%, [Protection]2を得る (1ターンにつき1回)\n\n[BeforeAttack] メインターゲットの[Combustion]と[Vibration]の合計6につきダメージ量 +3% (最大15%)\n[BeforeAttack] 破壊されたコイン1枚につき基本威力 -4 (最大-16)\n[EndSkill] [MlynarWaiting]1を得る\n[EndBattle] このスキルで[MlynarWaiting]を40消耗したなら、次のターンに操作パネル最左端のスキルスロットの[Aggro]が8増加 (1ターンにつき1回)",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">攻撃対象が3名以上なら、1<noparse>～</noparse>3コインが破壊されずに的中時、最終コインのダメージ量 +25% (コイン1枚につき1回発動。集中戦闘の場合、部位を対象1名として扱う)</style>\n[WhenUse] [MlynarWaiting]が40なら、基本威力 +1\n\n[BeforeAttack] [MlynarWaiting]を全て消耗して下記の効果を適用 (全て小数点切り捨て)\n- (消耗した数値 ÷ 10)だけ[DefenseUp]を得る (1ターンにつき1回)\n- 40消耗したなら、最終コインのダメージ量 +<style=\"highlight\">130</style>%, [Protection]2を得る (1ターンにつき1回)\n\n[BeforeAttack] メインターゲットの[Combustion]と[Vibration]の合計6につきダメージ量 +3% (最大15%)\n[BeforeAttack] 破壊されたコイン1枚につき基本威力 -4 (最大-16)\n[EndSkill] [MlynarWaiting]1を得る\n[EndBattle] このスキルで[MlynarWaiting]を40消耗したなら、次のターンに操作パネル最左端のスキルスロットの[Aggro]が8増加 (1ターンにつき1回)",
           "coinlist": [
             {
               "coindescs": [
@@ -837,7 +837,7 @@
           "level": 4,
           "name": "輝かざる栄光 - 流水",
           "abName": "ムリナール",
-          "desc": "[CantIdentify]\nランダムな対象を攻撃\n攻撃対象が3名以上なら、1～3コインが破壊されずに的中時、最終コインのダメージ量 +<style=\"highlight\">30</style>% (コイン1枚につき1回発動。集中戦闘の場合、部位を対象1名として扱う)\n[WhenUse] [MlynarWaiting]が40なら、基本威力 +1\n\n[BeforeAttack] [MlynarWaiting]を全て消耗して下記の効果を適用 (全て小数点切り捨て)\n- (消耗した数値 ÷ 10)だけ[DefenseUp]を得る (1ターンにつき1回)\n- 40消耗したなら、最終コインのダメージ量 +<style=\"highlight\">160</style>%, [Protection]2を得る (1ターンにつき1回)\n\n[BeforeAttack] メインターゲットの[Combustion]と[Vibration]の合計6につきダメージ量 +3% (最大15%)\n[BeforeAttack] 破壊されたコイン1枚につき基本威力 -4 (最大-16)\n[EndSkill] [MlynarWaiting]1を得る\n[EndBattle] このスキルで[MlynarWaiting]を40消耗したなら、次のターンに操作パネル最左端のスキルスロットの[Aggro]が8増加 (1ターンにつき1回)",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n攻撃対象が3名以上なら、1<noparse>～</noparse>3コインが破壊されずに的中時、最終コインのダメージ量 +<style=\"highlight\">30</style>% (コイン1枚につき1回発動。集中戦闘の場合、部位を対象1名として扱う)\n[WhenUse] [MlynarWaiting]が40なら、基本威力 +1\n\n[BeforeAttack] [MlynarWaiting]を全て消耗して下記の効果を適用 (全て小数点切り捨て)\n- (消耗した数値 ÷ 10)だけ[DefenseUp]を得る (1ターンにつき1回)\n- 40消耗したなら、最終コインのダメージ量 +<style=\"highlight\">160</style>%, [Protection]2を得る (1ターンにつき1回)\n\n[BeforeAttack] メインターゲットの[Combustion]と[Vibration]の合計6につきダメージ量 +3% (最大15%)\n[BeforeAttack] 破壊されたコイン1枚につき基本威力 -4 (最大-16)\n[EndSkill] [MlynarWaiting]1を得る\n[EndBattle] このスキルで[MlynarWaiting]を40消耗したなら、次のターンに操作パネル最左端のスキルスロットの[Aggro]が8増加 (1ターンにつき1回)",
           "coinlist": [
             {
               "coindescs": [
@@ -873,6 +873,196 @@
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] 対象の[Vibration]威力が15以上なら、[VibrationExplosion]。対象の[Vibration]回数が1減少"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2121011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "転入届",
+          "abName": "Kqe-1j-23",
+          "desc": "下記の条件を満たした場合、コイン威力 +1 (最大3)\n- メインターゲットの[Combustion]威力6につき\n- (自分の[Charge]威力 - 1)だけ\n[BeforeAttack] (自分の[Charge]威力 - 1)だけ、このスキルで付与する[Combustion]<noparse>威力が増加</noparse> (最大2)\n[BeforeAttack] (最大共鳴数 + 1)だけ自分の[Charge]回数が増加 (最大7)\n[BeforeAttack] 自分の[Charge]回数を最大15消耗し、消耗した[Charge]回数1につきダメージ量 +1% (最大15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象に[IDMicroChip]または[Binding]があるなら、[Combustion]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [IDMicroChip]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに[Binding]1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "転入届",
+          "abName": "Kqe-1j-23",
+          "desc": "下記の条件を満たした場合、コイン威力 +1 (最大3)\n- メインターゲットの[Combustion]威力6につき\n- (自分の[Charge]威力 - 1)だけ\n[BeforeAttack] (自分の[Charge]威力 - 1)だけ、このスキルで付与する[Combustion]<noparse>威力が増加</noparse> (最大2)\n[BeforeAttack] (最大共鳴数 + 1)だけ自分の[Charge]回数が増加 (最大7)\n<style=\"highlight\">- 自分の[Charge]回数が3以下なら、追加で3増加</style>\n[BeforeAttack] 自分の[Charge]回数を最大15消耗し、消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">30</style>%)\n<style=\"highlight\">[EndSkill] 攻撃開始前効果で[Charge]回数を15消耗したなら、自分の[Charge]回数が5増加</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style>を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象に[IDMicroChip]または[Binding]があるなら、[Combustion]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自分の[Charge]回数が2増加</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [IDMicroChip]1を付与<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに[Binding]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "転入届",
+          "abName": "Kqe-1j-23",
+          "desc": "下記の条件を満たした場合、コイン威力 +1 (最大3)\n- メインターゲットの[Combustion]威力6につき\n- (自分の[Charge]威力 - 1)だけ\n[BeforeAttack] (自分の[Charge]威力 - 1)だけ、このスキルで付与する[Combustion]<noparse>威力が増加</noparse> (最大2)\n[BeforeAttack] (最大共鳴数 + 1)だけ自分の[Charge]回数が増加 (最大7)\n- 自分の[Charge]回数が3以下なら、追加で3増加\n[BeforeAttack] 自分の[Charge]回数を最大15消耗し、消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">3</style>% (最大<style=\"highlight\">45</style>%)\n[EndSkill] 攻撃開始前効果で[Charge]回数を15消耗したなら、自分の[Charge]回数が5増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]<style=\"highlight\">3</style>を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象に[IDMicroChip]または[Binding]があるなら、[Combustion]回数が2増加"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 自分の[Charge]回数が2増加<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [IDMicroChip]<style=\"highlight\">2</style>を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに[Binding]1を付与<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2121021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "転入届",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n下記の条件を満たした場合、コイン威力 +1 (最大3)\n- メインターゲットの[Combustion]威力6につき\n- (自分の[Charge]威力 - 1)だけ\n[BeforeAttack] (最大共鳴数 + 3)だけ自分の[Charge]回数が増加 (最大10)\n[BeforeAttack] ダメージ量 +(自分の[Charge]威力 + 回数 - 1)% (最大20%)\n[EnemyKill] 自分の[Charge]回数が4増加",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が1増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [IDMicroChip]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに[Binding]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "転入届",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n下記の条件を満たした場合、コイン威力 +1 (最大3)\n- メインターゲットの[Combustion]威力6につき\n- (自分の[Charge]威力 - 1)だけ\n[BeforeAttack] (最大共鳴数 + 3)だけ自分の[Charge]回数が増加 (最大10)\n[BeforeAttack] ダメージ量 +(自分の[Charge]威力 + 回数 - 1) × <style=\"highlight\">2</style>% (最大<style=\"highlight\">40</style>%)\n[EnemyKill]\n- 自分の[Charge]回数が4増加\n<style=\"highlight\">- 次のターンに[AttackDmgUp]1を得る (1ターンにつき1回)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">2</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [IDMicroChip]1を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに[Binding]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] 自分の[Charge]回数を最大8消耗</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] このコインで[Charge]回数を消耗したなら、このコインの最終ダメージ量の(消耗した[Charge]回数 × 5)%だけ嫉妬ダメージ (最小5%, 最大40%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "転入届",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nランダムな対象を攻撃\n下記の条件を満たした場合、コイン威力 +1 (最大3)\n- メインターゲットの[Combustion]威力6につき\n- (自分の[Charge]威力 - 1)だけ\n[BeforeAttack] (最大共鳴数 + 3)だけ自分の[Charge]回数が増加 (最大10)\n[BeforeAttack] ダメージ量 +(自分の[Charge]威力 + 回数 - 1) × <style=\"highlight\">3</style>% (最大<style=\"highlight\">60</style>%)\n[EnemyKill]\n- 自分の[Charge]回数が4増加\n- 次のターンに[AttackDmgUp]1を得る (1ターンにつき1回)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">3</style>増加"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [IDMicroChip]<style=\"highlight\">2</style>を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに[Binding]1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] 自分の[Charge]回数を最大8消耗<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] このコインで[Charge]回数を消耗したなら、このコインの最終ダメージ量の(消耗した[Charge]回数 × 5)%だけ嫉妬ダメージ (最小5%, 最大40%)<style=\"highlight\"></style>"
                 }
               ]
             }

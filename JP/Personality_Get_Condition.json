@@ -1375,6 +1375,54 @@
     {
       "id": "10116_getCondition_gacksung",
       "content": "LCE E.G.O::次元裂き イサン 同期化3段階達成"
+    },
+    {
+      "id": "10616_getCondition_normal",
+      "content": "東部センク協会3課 ホンル 獲得時"
+    },
+    {
+      "id": "10616_getCondition_gacksung",
+      "content": "東部センク協会3課 ホンル 同期化3段階達成"
+    },
+    {
+      "id": "10416_getCondition_normal",
+      "content": "オートクチュール::ル・ノワール シューズフロア 良秀獲得時"
+    },
+    {
+      "id": "10416_getCondition_gacksung",
+      "content": "オートクチュール::ル・ノワール シューズフロア 良秀 同期化3段階達成"
+    },
+    {
+      "id": "10816_getCondition_normal",
+      "content": "オートクチュール::ル・ルージュ ブティーク イシュメール獲得時"
+    },
+    {
+      "id": "10816_getCondition_gacksung",
+      "content": "オートクチュール::ル・ルージュ ブティーク イシュメール 同期化3段階達成"
+    },
+    {
+      "id": "10917_getCondition_normal",
+      "content": "オートクチュール::お直し室 ロージャ獲得時"
+    },
+    {
+      "id": "10917_getCondition_gacksung",
+      "content": "オートクチュール::お直し室 ロージャ 同期化3段階達成"
+    },
+    {
+      "id": "10315_getCondition_normal",
+      "content": "オートクチュール::ル・ノワール ブランドマネージャー ドンキホーテ獲得時"
+    },
+    {
+      "id": "10315_getCondition_gacksung",
+      "content": "オートクチュール::ル・ノワール ブランドマネージャー ドンキホーテ 同期化3段階達成"
+    },
+    {
+      "id": "11016_getCondition_normal",
+      "content": "オートクチュール::ル・ルージュ 赤き神 シンクレア獲得時"
+    },
+    {
+      "id": "11016_getCondition_gacksung",
+      "content": "オートクチュール::ル・ルージュ 赤き神 シンクレア 同期化3段階達成"
     }
   ]
 }

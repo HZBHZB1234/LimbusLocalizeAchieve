@@ -181,7 +181,6 @@
         }
       ]
     },
-
     {
       "id": 1090801,
       "levelList": [
@@ -583,7 +582,6 @@
             },
             {
               "coindescs": [
-
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>"
                 },
@@ -978,8 +976,7 @@
           "name": "물러가도록...",
           "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음",
           "coinlist": [
-            {
-            },
+            {},
             {
               "coindescs": [
                 {
@@ -997,8 +994,7 @@
           "name": "물러가도록...",
           "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
           "coinlist": [
-            {
-            },
+            {},
             {
               "coindescs": [
                 {
@@ -1016,8 +1012,7 @@
           "name": "물러가도록...",
           "desc": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당 코인 위력 +1 (최대 2)</style>",
           "coinlist": [
-            {
-            },
+            {},
             {
               "coindescs": [
                 {
@@ -1050,8 +1045,7 @@
                 }
               ]
             },
-            {
-            },
+            {},
             {
               "coindescs": [
                 {
@@ -1079,8 +1073,7 @@
                 }
               ]
             },
-            {
-            },
+            {},
             {
               "coindescs": [
                 {
@@ -1108,8 +1101,7 @@
                 }
               ]
             },
-            {
-            },
+            {},
             {
               "coindescs": [
                 {
@@ -3448,7 +3440,6 @@
           "desc": "대상의 현재 체력이 50% 이하면, 피해량 +50%\n[TeachersPreyRodion]을 보유한 대상 공격 시, 코인 위력 +1\n[WhenUse] 자신의 [AccelBullet]이 1 이상이면, 코인 위력 +1\n[EnemyKill] [TeachersPreyRodion]을 보유한 대상 처치 시, ‘처분’ 스킬 1개를 다음 턴에 사용할 스킬 목록에 추가함\n(이 효과로 추가된 ‘처분’ 스킬은 해당 효과를 발동하지 않음)\n[EnemyKill] [FullReload] (턴당 1회)",
           "coinlist": [
             {
-              
               "coindescs": [
                 {
                   "desc": "[SuperCoin]"
@@ -3600,6 +3591,296 @@
           "desc": "스킬의 모든 코인을 회피 성공할 시, 공격한 적에게 ‘세치오나투라 디 코닐리오’로 일방 공격함 (턴당 1회)\n자신의 [FutureEyeOnRodion] 수치 2당, 코인 위력 +1 (최대 4)\n10을 초과하는 [FutureEyeOnRodion] 수치 2당, 기본 위력 +1 (최대 4)\n[WhenUse] 자신의 [Breath] 횟수 3 증가 (턴당 1회)\n[OnSucceedEvade] [Breath] 2 얻음 (턴당 2회)\n<style=\"highlight\">[OnSucceedEvade] 정신력 3 회복 (턴당 2회)</style>\n[EndSkillAll] 자신의 [FutureEyeOnRodion] 2 감소",
           "coinlist": [
             {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "르투슈(Retouche)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 대상이 아군이면, [Charge] 횟수 3, [AttackUp] 1 부여\n[EndSkill] 대상이 아군이면 아래 효과 발동 (턴당 1회)\n- 자신의 최대 체력의 5%만큼 보호막 부여 (최소 1)\n- [NoirScissorShield] 1 부여\n- 대상이 [PersonalityCharge]이면, [Enhancement] 1 부여",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "르투슈(Retouche)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 대상이 아군이면, [Charge] 횟수 <style=\"highlight\">4</style>, [AttackUp] 1 부여\n[EndSkill] 대상이 아군이면 아래 효과 발동 (턴당 1회)\n- 자신의 최대 체력의 5%만큼 보호막 부여 (최소 1)\n- [NoirScissorShield] 1 부여\n- 대상이 [PersonalityCharge]이면, [Enhancement] 1 부여<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "르투슈(Retouche)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 대상이 아군이면, [Charge] 횟수 4, [AttackUp] 1 부여\n[EndSkill] 대상이 아군이면 아래 효과 발동 <style=\"highlight\">(턴당 2회)</style>\n- 자신의 최대 체력의 <style=\"highlight\">10%</style>만큼 보호막 부여 (최소 1)\n- [NoirScissorShield] 1 부여\n- 대상이 [PersonalityCharge]이면, [Enhancement] 2 부여",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "고정 그리고 패턴 따라 재단",
+          "desc": "[StartBattle] 자신을 제외한 편성 순서가 가장 빠른 아군 1명 (충전 인격 우선)에게 [AttackUp] 2, 자신의 최대 체력의 5%만큼 보호막 부여 (최소 1. 턴당 1회)\n- [PersonalityCharge]이면 [AttackUp] 1, 자신의 최대 체력의 5%만큼 보호막 추가 부여\n\n[WhenUse] 대상의 [Vibration] 위력이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeKhakiAlly] 횟수를 5 소모하여, 최종 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeKhakiAlly] 횟수 6 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "고정 그리고 패턴 따라 재단",
+          "desc": "[StartBattle] <style=\"highlight\">자신과</style> 자신을 제외한 편성 순서가 가장 빠른 아군 1명 (충전 인격 우선)에게 [AttackUp] 2, 자신의 최대 체력의 5%만큼 보호막 부여 (최소 1. 턴당 1회)\n- [PersonalityCharge]이면 [AttackUp] 1, 자신의 최대 체력의 5%만큼 보호막 추가 부여\n\n[WhenUse] 대상의 [Vibration] 위력이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeKhakiAlly] 횟수를 5 소모하여, 최종 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeKhakiAlly] 횟수 6 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "고정 그리고 패턴 따라 재단",
+          "desc": "[StartBattle] 자신과 자신을 제외한 편성 순서가 가장 빠른 아군 (충전 인격 우선) 1명, <style=\"highlight\">현재 체력 비율이 가장 낮은 아군 1명</style>에게 [AttackUp] 2, 자신의 최대 체력의 5%만큼 보호막 부여 (최소 1. 턴당 1회)\n- [PersonalityCharge]이면 [AttackUp] 1, 자신의 최대 체력의 5%만큼 보호막 추가 부여\n\n<style=\"highlight\">[WhenUse] 대상의 [Vibration] 위력 6당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [ChargeKhakiAlly] 횟수를 5 소모하여, 최종 위력 +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeKhakiAlly] 횟수 6 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 2 증가<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [AmberResistDown] 1 부여 (턴당 1회)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "쿠페 당 르 비에",
+          "desc": "자신의 [NoirScissorCut] 1당 피해량 +15% (최대 30%)\n\n[StartBattle] 자신을 제외한 편성 순서가 가장 빠른 아군 (충전 인격 우선) 1명, 현재 체력 비율이 가장 낮은 아군 1명에게 [NoirScissorShield] 1을 부여하고, 자신의 최대 체력의 5%만큼 보호막 부여 (최소 1. 턴당 1회)\n\n[WhenUse] 대상의 [Vibration] 위력이 6 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [ChargeKhakiAlly] 위력 3당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeKhakiAlly] 횟수를 5 소모하여, 최종 위력 +2\n\n[EndSkill] 자신의 [ChargeKhakiAlly] 횟수 5 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [NoirScissorAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirScissorAlly] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeKhakiAlly] 횟수가 5 이상이면, 5를 소모하여 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "쿠페 당 르 비에",
+          "desc": "자신의 [NoirScissorCut] 1당 피해량 <style=\"highlight\">+30% (최대 60%)</style>\n\n[StartBattle] 자신과 자신을 제외한 편성 순서가 가장 빠른 아군 (충전 인격 우선) 1명, 현재 체력 비율이 가장 낮은 아군 1명에게 [NoirScissorShield] 1을 부여하고, 자신의 최대 체력의 <style=\"highlight\">10%</style>만큼 보호막 부여 (최소 1. 턴당 1회)\n\n<style=\"highlight\">[WhenUse] 대상의 [Vibration] 위력 6당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] 자신의 [ChargeKhakiAlly] 위력 3당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeKhakiAlly] 횟수를 5 소모하여, 최종 위력 +2\n\n[EndSkill] 자신의 [ChargeKhakiAlly] 횟수 5 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 3 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [NoirScissorAlly] 1 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [NoirScissorAlly] 1 부여"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeKhakiAlly] 횟수가 5 이상이면, 5를 소모하여 [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "트리밍",
+          "desc": "[DuelCounter]\n[StartBattle] 자신의 [ChargeKhakiAlly] 횟수 5 증가 (턴당 2회)\n[StartBattle] 자신과 자신을 제외한 현재 체력 비율이 가장 낮은 아군 2명에게 자신의 최대 체력의 5%만큼 보호막 부여 (최소 1. 턴당 1회)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "트리밍",
+          "desc": "[DuelCounter]\n[StartBattle] 자신의 [ChargeKhakiAlly] 횟수 5 증가 (턴당 2회)\n[StartBattle] 자신과 자신을 제외한 현재 체력 비율이 가장 낮은 아군 2명에게 자신의 최대 체력의 <style=\"highlight\">10%</style>만큼 보호막 부여 (최소 1. 턴당 1회)\n\n<style=\"highlight\">[WhenUse] 자신의 [ChargeKhakiAlly] 횟수 5당 합 위력 +1 (최대 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 2 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "패턴 따기",
+          "desc": "[CantDuel]\n[WhenUse] 자신의 [ChargeKhakiAlly] 횟수 3 증가",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 자신의 [ChargeKhakiAlly] 위력이 3 이상이면, 이 코인 재사용 (스킬당 1회)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 횟수 1 증가"
+                },
+                {
+                  "desc": "[OnSucceedAttack] [NoirScissorAlly] 1 부여"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "오려내기",
+          "desc": "[CantDuel]\n[WhenUse] 자신의 [ChargeKhakiAlly] 위력 3당 최종 위력 +1 (최대 2)\n[WhenUse] 자신의 [ChargeKhakiAlly] 횟수 5 증가\n\n[EndSkill] 대상의 [NoirScissorAlly] 2 소모\n[EndSkill] [NoirScissorCut] 1 얻음",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Vibration] 3 부여"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소"
+                }
+              ]
+            }
           ]
         }
       ]

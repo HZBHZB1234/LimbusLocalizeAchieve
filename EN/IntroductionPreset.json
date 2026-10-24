@@ -730,7 +730,7 @@
     },
     {
       "id": "introduce_sentence_92",
-      "content": "{0} is(are) right before me..."
+      "content": "{0} (is/are) right before me..."
     },
     {
       "id": "introduce_word_93",
@@ -1354,7 +1354,7 @@
     },
     {
       "id": "introduce_sentence_170",
-      "content": "... I'm not doing a(an) {0} like this for you again."
+      "content": "... I'm not doing (a/an) {0} like this for you again."
     },
     {
       "id": "introduce_word_171",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "introduce_sentence_185",
-      "content": "Thou should have expected to find... a(an) {0} amongst the patrons, hm?"
+      "content": "Thou should have expected to find... (a/an) {0} amongst the patrons, hm?"
     },
     {
       "id": "introduce_word_186",
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "introduce_sentence_187",
-      "content": "Didn't you know? {0} are(is) nocturnal."
+      "content": "Didn't you know? {0} (is/are) nocturnal."
     },
     {
       "id": "introduce_word_188",
@@ -1698,7 +1698,7 @@
     },
     {
       "id": "introduce_sentence_213",
-      "content": "A poem's brushstroke becomes a {0} atop a dry inkstone."
+      "content": "A poem's brushstroke becomes (a/an) {0} atop a dry inkstone."
     },
     {
       "id": "introduce_word_214",
@@ -1746,7 +1746,7 @@
     },
     {
       "id": "introduce_sentence_219",
-      "content": "Hey now, that makes (a) {0}!"
+      "content": "Hey now, that makes (a/an) {0}!"
     },
     {
       "id": "introduce_word_220",
@@ -1866,7 +1866,7 @@
     },
     {
       "id": "introduce_sentence_234",
-      "content": "It's you... You are the {0} of this forest."
+      "content": "It's you... You are (the) {0} of this forest."
     },
     {
       "id": "introduce_word_235",
@@ -1882,7 +1882,7 @@
     },
     {
       "id": "introduce_sentence_236",
-      "content": "I'll fire into you (a) {0} that cannot be filled."
+      "content": "I'll fire into you (a/an) {0} that cannot be filled."
     },
     {
       "id": "introduce_word_237",
@@ -1906,7 +1906,7 @@
     },
     {
       "id": "introduce_sentence_239",
-      "content": "Let us run (a) {0}."
+      "content": "Let us run (a/an) {0}."
     },
     {
       "id": "introduce_word_240",
@@ -2042,7 +2042,7 @@
     },
     {
       "id": "introduce_sentence_256",
-      "content": "I come bearing a(an) {0}."
+      "content": "I come bearing (a/an) {0}."
     },
     {
       "id": "introduce_word_257",
@@ -2058,7 +2058,95 @@
     },
     {
       "id": "introduce_sentence_258",
-      "content": "A(an) {0}! A(an) {0} is here!"
+      "content": "(A/An) {0}! (A/An) {0} is here!"
+    },
+    {
+      "id": "introduce_word_259",
+      "content": "Commission(s)"
+    },
+    {
+      "id": "introduce_sentence_259",
+      "content": "Oh, sorry. We're prohibited from overbooking {0}~"
+    },
+    {
+      "id": "introduce_word_260",
+      "content": "Capture"
+    },
+    {
+      "id": "introduce_sentence_260",
+      "content": "{0} Protocol.... CONTINUE, CONTINUE! CONTINUE PROTOCOL EXECUTION!!"
+    },
+    {
+      "id": "introduce_word_261",
+      "content": "Le Noir"
+    },
+    {
+      "id": "introduce_sentence_261",
+      "content": "The aesthetics of {0} are rooted in temperance."
+    },
+    {
+      "id": "introduce_word_262",
+      "content": "Le Rouge"
+    },
+    {
+      "id": "introduce_sentence_262",
+      "content": "We'll have even more customers clamoring for the fashion only {0} can offer!"
+    },
+    {
+      "id": "introduce_word_263",
+      "content": "Fabric"
+    },
+    {
+      "id": "introduce_sentence_263",
+      "content": "If you're after quality {0}, you'll have to settle in for a wait."
+    },
+    {
+      "id": "introduce_word_264",
+      "content": "Hand"
+    },
+    {
+      "id": "introduce_sentence_264",
+      "content": "No! No, no! Stay away from me! Don't reach your {0} out to me!!"
+    },
+    {
+      "id": "introduce_word_265",
+      "content": "Phantasm"
+    },
+    {
+      "id": "introduce_sentence_265",
+      "content": "... And carry them into this hollow {0} of mine."
+    },
+    {
+      "id": "introduce_word_266",
+      "content": "Justice"
+    },
+    {
+      "id": "introduce_sentence_266",
+      "content": "Thou shalt make way in anticipation of my coming. Do this, and (thy/thine) {0} shan't fall to doubt."
+    },
+    {
+      "id": "introduce_word_267",
+      "content": "Ashen"
+    },
+    {
+      "id": "introduce_sentence_267",
+      "content": "Thus man has become null, leaving only (the) {0} behind."
+    },
+    {
+      "id": "introduce_word_268",
+      "content": "Blinding Glare"
+    },
+    {
+      "id": "introduce_sentence_268",
+      "content": "Sight the bullet on the sunspot... and take a clean shot through (the) {0}."
+    },
+    {
+      "id": "introduce_word_269",
+      "content": "Department Store"
+    },
+    {
+      "id": "introduce_sentence_269",
+      "content": "We—I—shall devour (this/these) {0}, so that none among you shall ever scrape an empty plate again."
     }
   ]
 }

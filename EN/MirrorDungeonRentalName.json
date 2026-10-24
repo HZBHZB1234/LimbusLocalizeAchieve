@@ -115,6 +115,34 @@
     {
       "id": 29,
       "content": "Charge, Rupture"
+    },
+    {
+      "id": 30,
+      "content": "Bleed"
+    },
+    {
+      "id": 31,
+      "content": "Poise, Pierce"
+    },
+    {
+      "id": 32,
+      "content": "Envy, Bleed"
+    },
+    {
+      "id": 33,
+      "content": "Charge"
+    },
+    {
+      "id": 34,
+      "content": "Charge"
+    },
+    {
+      "id": 35,
+      "content": "Tremor, Charge"
+    },
+    {
+      "id": 36,
+      "content": "Bleed"
     }
   ]
 }

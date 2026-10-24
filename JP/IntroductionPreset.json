@@ -2059,6 +2059,94 @@
     {
       "id": "introduce_sentence_258",
       "content": "{0}だ！{0}が来た！"
+    },
+    {
+      "id": "introduce_word_259",
+      "content": "依頼"
+    },
+    {
+      "id": "introduce_sentence_259",
+      "content": "{0}のオーバーブッキングは禁止されていますので～。"
+    },
+    {
+      "id": "introduce_word_260",
+      "content": "捕獲"
+    },
+    {
+      "id": "introduce_sentence_260",
+      "content": "{0}手順を続行、続行！このまま続行ォ！！"
+    },
+    {
+      "id": "introduce_word_261",
+      "content": "ル・ノワール"
+    },
+    {
+      "id": "introduce_sentence_261",
+      "content": "{0}の美学は節制から始まる。"
+    },
+    {
+      "id": "introduce_word_262",
+      "content": "ル・ルージュ"
+    },
+    {
+      "id": "introduce_sentence_262",
+      "content": "より多くのお客様が{0}のファッションに熱狂するように！"
+    },
+    {
+      "id": "introduce_word_263",
+      "content": "生地"
+    },
+    {
+      "id": "introduce_sentence_263",
+      "content": "上質な{0}が欲しいなら、待つ時間を持ってもらわないとね。"
+    },
+    {
+      "id": "introduce_word_264",
+      "content": "手"
+    },
+    {
+      "id": "introduce_sentence_264",
+      "content": "近づくな、僕に{0}を差し伸べるな！！"
+    },
+    {
+      "id": "introduce_word_265",
+      "content": "虚像"
+    },
+    {
+      "id": "introduce_sentence_265",
+      "content": "私の空っぽの{0}の中へ。"
+    },
+    {
+      "id": "introduce_word_266",
+      "content": "正義"
+    },
+    {
+      "id": "introduce_sentence_266",
+      "content": "道を開けよ。さすれば、そなたらの{0}を疑いはせぬ。"
+    },
+    {
+      "id": "introduce_word_267",
+      "content": "灰色"
+    },
+    {
+      "id": "introduce_sentence_267",
+      "content": "人は消え去り、ただ{0}のみが残らん。"
+    },
+    {
+      "id": "introduce_word_268",
+      "content": "眩しさ"
+    },
+    {
+      "id": "introduce_sentence_268",
+      "content": "弾丸は黒点に狙いを定め、{0}の中で貫け。"
+    },
+    {
+      "id": "introduce_word_269",
+      "content": "百貨店"
+    },
+    {
+      "id": "introduce_sentence_269",
+      "content": "僕たちは、僕は、{0}の全てを食らい尽くす。もう誰一人として飢えることのないように。"
     }
   ]
 }

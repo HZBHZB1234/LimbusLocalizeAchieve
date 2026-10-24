@@ -129,6 +129,10 @@
       "content": "스킵 하시겠습니까?"
     },
     {
+      "id": "mainui_story_continue_next_desc",
+      "content": "다음 화를 이어보시겠습니까?\n(초회 보상이 있다면 수령후 이어봄)"
+    },
+    {
       "id": "mainui_battleresult_reward",
       "content": "보상"
     },
@@ -1813,22 +1817,6 @@
       "content": "수령 목록에 클리어 하지 않은 챕터의\n스포일러가 될 수 있는 아나운서가\n포함되어 있습니다.\n\n보상을 수령하시겠습니까?"
     },
     {
-      "id": "select_all",
-      "content": "전체 선택"
-    },
-    {
-      "id": "deselect_all",
-      "content": "전체 해제"
-    },
-    {
-      "id": "story_voice_setting_ui_title",
-      "content": "스토리 보이스 관리"
-    },
-    {
-      "id": "story_voice_setting_ui_desc",
-      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
-    },
-    {
       "id": "vending_machine_item_available_date_label",
       "content": "{0}월 {1}일 {2} ({3}) 부터 자판기 교환 가능"
     },
@@ -2071,6 +2059,30 @@
     {
       "id": "formation_announcer_reset_desc",
       "content": "{0}을(를) 초기화하시겠습니까?"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_title",
+      "content": "경험치 채광-10 (참격)"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_open_day",
+      "content": "경험치 채광 10단계 (참격) 스테이지는 월요일, 화요일, 일요일에 개방됩니다."
+    },
+    {
+      "id": "mainui_exp_dungeon_17_title",
+      "content": "경험치 채광-10 (관통)"
+    },
+    {
+      "id": "mainui_exp_dungeon_17_open_day",
+      "content": "경험치 채광 10단계 (관통) 스테이지는 수요일, 목요일, 일요일에 개방됩니다."
+    },
+    {
+      "id": "mainui_exp_dungeon_18_title",
+      "content": "경험치 채광-10 (타격)"
+    },
+    {
+      "id": "mainui_exp_dungeon_18_open_day",
+      "content": "경험치 채광 10단계 (타격) 스테이지는 금요일, 토요일, 일요일에 개방됩니다."
     }
   ]
 }

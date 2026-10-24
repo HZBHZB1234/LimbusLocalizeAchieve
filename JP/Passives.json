@@ -1500,7 +1500,7 @@
     {
       "id": 1030901,
       "name": "ゴールデンタイム - 領収",
-      "desc": "ターン終了時、体力が10～20%残存しているなら、全体力の80%を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeRentalTwoPersonality]が解除される場合、次のターンに保有しているスキルスロットのうち1つの[Aggro]が8増加"
+      "desc": "ターン終了時、体力が10<noparse>～</noparse>20%残存しているなら、全体力の80%を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeRentalTwoPersonality]が解除される場合、次のターンに保有しているスキルスロットのうち1つの[Aggro]が8増加"
     },
     {
       "id": 1030921,
@@ -1510,7 +1510,7 @@
     {
       "id": 1090901,
       "name": "ゴールデンタイム - 対抗",
-      "desc": "ターン終了時、体力が16～20%残存しているなら、全体力の60%を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeSuspend]を保有する対象とマッチを進行するとき、マッチ威力 +2\n[TimeSuspend]を保有する敵にダメージを受けるとき、被ダメージ量 -10%"
+      "desc": "ターン終了時、体力が16<noparse>～</noparse>20%残存しているなら、全体力の60%を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeSuspend]を保有する対象とマッチを進行するとき、マッチ威力 +2\n[TimeSuspend]を保有する敵にダメージを受けるとき、被ダメージ量 -10%"
     },
     {
       "id": 1090921,
@@ -2002,7 +2002,7 @@
     {
       "id": 1011231,
       "name": "リウ方陣",
-      "desc": "精神力が最も低い味方2名がこのターンで精神力が減少した場合、ターン終了時に精神力を5回復\n- 回復対象が[Combustion]威力か回数を付与する基本スキルを保有しているなら、代わりに5～10回復"
+      "desc": "精神力が最も低い味方2名がこのターンで精神力が減少した場合、ターン終了時に精神力を5回復\n- 回復対象が[Combustion]威力か回数を付与する基本スキルを保有しているなら、代わりに5<noparse>～</noparse>10回復"
     },
     {
       "id": 1121102,
@@ -2297,7 +2297,7 @@
     {
       "id": 1111301,
       "name": "ゴールデンタイム - 共振",
-      "desc": "ターン終了時、体力が10～20%残存しているなら、全体力の80%を即回復。混乱状態を解除(戦闘につき1回)\n\n自分が[TimeRentalTwoPersonality]状態なら、自分のスキル最終威力 +1",
+      "desc": "ターン終了時、体力が10<noparse>～</noparse>20%残存しているなら、全体力の80%を即回復。混乱状態を解除(戦闘につき1回)\n\n自分が[TimeRentalTwoPersonality]状態なら、自分のスキル最終威力 +1",
       "summary": "[TimeRentalTwoPersonality]状態なら、スキル最終威力 +1"
     },
     {
@@ -2427,13 +2427,13 @@
     {
       "id": 1051301,
       "name": "「血をまとい、仮面を被り、血が命ずるがままに」",
-      "desc": "戦闘開始時、自分に[BloodArmorMeursault]があるなら数値によって下記の効果を得る\n- 3～ : [AttackUp]1, [DefenseUp]1\n- 4～ : 次のターンに[Agility]1\n\n[Laceration]を保有した敵に攻撃的中時、自分の体力が30%未満なら、自分の体力最大値の30%だけ体力を回復 (戦闘ごとに1回、小数点切り捨て)",
+      "desc": "戦闘開始時、自分に[BloodArmorMeursault]があるなら数値によって下記の効果を得る\n- 3<noparse>～</noparse> : [AttackUp]1, [DefenseUp]1\n- 4<noparse>～</noparse> : 次のターンに[Agility]1\n\n[Laceration]を保有した敵に攻撃的中時、自分の体力が30%未満なら、自分の体力最大値の30%だけ体力を回復 (戦闘ごとに1回、小数点切り捨て)",
       "summary": "条件満足時、自分の体力を最大値の30%回復"
     },
     {
       "id": 1051311,
       "name": "「血をまとい、仮面を被り、血が命ずるがままに」",
-      "desc": "戦闘開始時、自分に[BloodArmorMeursault]があるなら数値によって下記の効果を得る\n- 3～ : [AttackUp]<style=\"highlight\">2</style>, [DefenseUp]<style=\"highlight\">2</style>\n- 4～ : 次のターンに[Agility]<style=\"highlight\">2</style>,\n\n<style=\"highlight\">戦闘開始時、自分に[FocusOnActing]があるなら敵に攻撃的中時、[ParadeConcentration]を1付与 (1ターンにつき2回、E.G.Oスキルを含む)</style>\n\n[Laceration]を保有した敵に攻撃的中時、自分の体力が30%未満なら、自分の体力最大値の30%だけ体力を回復 (戦闘ごとに1回、小数点切り捨て)",
+      "desc": "戦闘開始時、自分に[BloodArmorMeursault]があるなら数値によって下記の効果を得る\n- 3<noparse>～</noparse> : [AttackUp]<style=\"highlight\">2</style>, [DefenseUp]<style=\"highlight\">2</style>\n- 4<noparse>～</noparse> : 次のターンに[Agility]<style=\"highlight\">2</style>,\n\n<style=\"highlight\">戦闘開始時、自分に[FocusOnActing]があるなら敵に攻撃的中時、[ParadeConcentration]を1付与 (1ターンにつき2回、E.G.Oスキルを含む)</style>\n\n[Laceration]を保有した敵に攻撃的中時、自分の体力が30%未満なら、自分の体力最大値の30%だけ体力を回復 (戦闘ごとに1回、小数点切り捨て)",
       "summary": "条件満足時、[ParadeConcentration]1を付与\n条件満足時、自分の体力を最大値の30%回復"
     },
     {
@@ -2549,7 +2549,7 @@
     {
       "id": 1041301,
       "name": "遊侠",
-      "desc": "敵が味方を攻撃し、その味方が死亡または体力が25%未満になると、当該攻撃終了時に鴻園の放浪武者 良秀が「加斥我<noparse>援</noparse>」でその敵を一方攻撃 (戦闘ごとに1回)\n- 鴻園の君主 ホンルは、発動回数制限を超過してこの効果を1回追加で発動可能\n\n「君・可・傍・良」パッシブ効果でで「おい、下がれ」を発動時、該当スキルのクリティカルダメージ量 +30%。自分を除く精神力が低い味方1名の精神力を2～4回復 (1ターンにつき1回。精神力が-40以下の味方を除く)",
+      "desc": "敵が味方を攻撃し、その味方が死亡または体力が25%未満になると、当該攻撃終了時に鴻園の放浪武者 良秀が「加斥我<noparse>援</noparse>」でその敵を一方攻撃 (戦闘ごとに1回)\n- 鴻園の君主 ホンルは、発動回数制限を超過してこの効果を1回追加で発動可能\n\n「君・可・傍・良」パッシブ効果で「おい、下がれ」を発動時、該当スキルのクリティカルダメージ量 +30%。自分を除く精神力が低い味方1名の精神力を2<noparse>～</noparse>4回復 (1ターンにつき1回。精神力が-40以下の味方を除く)",
       "summary": "見方が致命傷を受けると、攻撃者へスキル3を使用。常時パッシブ効果で発動するスキル1を強化"
     },
     {
@@ -3234,6 +3234,169 @@
       "desc": "速度が最も高い味方1名が[Charge]回数を得るか消耗するスキルを使用時、次のターンに[Agility]1を得る(1ターンにつき1回)",
       "summary": "",
       "flavor": ""
+    },
+    {
+      "id": 1061601,
+      "name": "草炎玉球",
+      "desc": "マッチ勝利時、対象に点穴があるなら、[DianxueHongLu]1を付与(1ターンにつき1回)\n\nターン終了時、自分の[Breath]威力5につき次のターンにて[Agility]1を得る(最大2)\n\nクリティカルダメージ量 +(対象の[Combustion]威力)% (最大15%)"
+    },
+    {
+      "id": 1061602,
+      "name": "立会いの下での決闘",
+      "desc": "ステージ初登場時、待機人員またはサポート人員として編成されたセンク協会所属味方人格の数だけ[DuelSousTemoinsEast]を得る(最大3, 死亡者を含む)\n\n基本攻撃スキルで最後に的中した対象へ、次のターンにて[DianxueHongLu]1を付与(1ターンにつき1回, 集中戦闘なら部位に付与)"
+    },
+    {
+      "id": 1061611,
+      "name": "草炎玉球",
+      "desc": "マッチ勝利時、対象に点穴があるなら、[DianxueHongLu]1を付与(1ターンにつき1回)\n\nターン終了時、自分の[Breath]威力<style=\"highlight\">3</style>につき次のターンにて[Agility]1を得る(最大2)\n\nクリティカルダメージ量 +(対象の[Combustion]威力)% (最大15%)\n<style=\"highlight\">- 対象の[DianxueHongLu]1につき、最大値が5%増加</style>"
+    },
+    {
+      "id": 1061621,
+      "name": "退路を融かしておきますね",
+      "desc": "速度が最も高い味方が[Combustion]または特殊火傷を保有した敵にマッチ勝利時、次のターンに[Binding]1を付与(1ターンにつき1回)\n- 対象の[Combustion]回数が4以下なら、追加でこのターンに対象の[Combustion]回数が1増加\n- 対象の[Combustion]回数が5以上なら、追加でこのターンに[Combustion]3を付与"
+    },
+    {
+      "id": 1041601,
+      "name": "饋還",
+      "desc": "敵に[VibrationExplosion]時、[VibrationExplosion]の混乱区間前進量 +15%\n- 自分の[ChargeNoirAlly]回数が12以上なら、代わりに[VibrationExplosion]時、自分の[ChargeNoirAlly]回数を1消耗して[VibrationExplosion]の混乱区間前進量 +30% (対象ごとに適用)\n\n自分にバリアがあるとき、敵から被撃時、\n該当する敵に[Vibration]威力2を付与 (敵ごとに1ターンにつき2回)",
+      "summary": "混乱区間前進量が増加",
+      "flavor": "ル・ノワールは、相手に強い振動を与えて揺さぶることで、その価値を崩壊させられると信じている。対象が激しく振動するほど、刻一刻と変化を経ていると考えるからであり、ル・ノワールの戦闘技術は、こうした方向性に基づいて構成された。\n\nそして、彼らは覚えてもいなければ経験もしていないだろうが、シーシュポス百貨店の外にも、同じ原理で作動し、発達した戦闘技術が存在する。"
+    },
+    {
+      "id": 1041602,
+      "name": "ル・ノワール ギャバジン生地",
+      "desc": "戦場に登場時、[NoirSuitAlly]25を得る\n\nターン開始時、自分の体力最大値の(([NoirSuitAlly] + [RealisationAlly]) ÷ 5)%だけバリアを得る",
+      "summary": "バリアを得る"
+    },
+    {
+      "id": 1041603,
+      "name": "ル・ノワール ギャバジン生地",
+      "desc": "戦場に登場時、[NoirSuitAlly]25を得る\n\nターン開始時、\n- 自分の体力最大値の(([NoirSuitAlly] + [RealisationAlly]) ÷ 5)%だけバリアを得る\n- [RealisationAlly]があるなら、「トリプル・スタンピード・ステッチング」が「ワンキック - クチュール・ミュルティプル」として適用される",
+      "summary": "バリアを得る"
+    },
+    {
+      "id": 1041604,
+      "name": "保存",
+      "desc": "戦闘中、累計で自分の[ChargeNoirAlly]回数を10消耗するたびに\n[ChargeNoirAlly]威力1を得る\n\nターン終了時、自分の[ChargeNoirAlly]威力が3未満なら、[ChargeNoirAlly]回数を全て消耗して\n(消耗した数値 × 5)だけ次のターンにバリアを得る\n\n自分の[ChargeNoirAlly]威力が3以上なら、[ChargeNoirAlly]回数が12未満のとき\n自分の基本スキルで獲得する[ChargeNoirAlly]回数の獲得量 +1\n\n基本攻撃スキル使用時、\n- 対象の[Vibration]威力が6以上なら、コイン威力 +1\n- 自分の[ChargeNoirAlly]威力が3以上なら、コイン威力 +1\n- ダメージ量 +(自分の[ChargeNoirAlly]威力 × 2)% (最大10%)\n・「トリプル・スタンピード・ステッチング」「ワンキック - クチュール・ミュルティプル」なら、\n代わりにダメージ量 +(自分の[ChargeNoirAlly]威力 × 4)% (最大20%)",
+      "summary": "保存回数が一定数値未満なら、獲得量が増加\n基本攻撃スキル使用時、コイン威力とダメージ量が増加"
+    },
+    {
+      "id": 1041621,
+      "name": "ル・ノワールの美徳と価値",
+      "desc": "[Charge]・特殊[Charge]を保有する味方のうち、編成順が最も早い味方1名が基本スキルを使用して[VibrationExplosion]で与える混乱区間前進量 +12.5%",
+      "summary": "振動爆発時、混乱区間前進量が増加\n被撃時、振動威力を付与"
+    },
+    {
+      "id": 1081601,
+      "name": "変化の揺籃",
+      "desc": "基本スキル使用時、自分の[ChargeRougeAlly]回数が10未満なら、マッチ威力 +2\n\n自分が[RougeIshmaelEclose]なら、基本スキル的中時に体力を最大値の8%だけ回復 (1ターンにつき5回)",
+      "flavor": "試着室とも呼ぶけれど、外ではこれを蛹や卵と呼ぶ方が正しいだろうね。\n中で自分の身体を溶かしたり潰したりしながら変化し、時が来たら殻を破って外へ出てくるんだろう。\nでも、まだ準備のできていないものを外から引き裂いてしまうと、悲しいことに壊れてしまうんだ。\nだから、この時期が一番脆くて、いつにも増して世話が必要なんだよ。"
+    },
+    {
+      "id": 1081602,
+      "name": "試着室の中へ…",
+      "desc": "戦闘中、累計で自分の[ChargeRougeAlly]回数を10消耗するたびに[ChargeRougeAlly]1を得る\n\n自分の基本スキルの体力減少効果では混乱状態にならず、体力が1未満に減少しない\n(体力が1の場合、基本スキル効果のうち体力消耗によって発動する効果の適用を受けられる)\n\nこの戦闘で体力が0になるダメージを受けたとき、そのダメージを受けず、即座に[RougeIshmaelCocoon]2を得て\n[RougeIshmaelCocoon]になる (戦闘ごとに1回)\n- 守備スキルの効果で[RougeIshmaelCocoon]になったなら、この効果はこの戦闘中発動しない\n\n[RougeIshmaelCocoon]になるとき、自分の体力最大値だけバリアを得る\n (この効果で得たバリアはターン終了時にも消えない)\n- [RougeIshmaelCocoon]が解除されるとき、上記効果で得たバリアは消える\n\n[RougeIshmaelCocoon]のとき、「声に従い、喜んで私の中へ」のみ使用可能 (E.G.Oスキルは使用不可)\n\nターン終了時に[RougeIshmaelCocoon]が0なら、[RougeIshmaelCocoon]が解除されて[RougeIshmaelEclose]になり、[ChargeRougeAlly]回数5を得る",
+      "flavor": "着替えるんです、もっと自分らしい姿に！"
+    },
+    {
+      "id": 1081621,
+      "name": "[ル・ルージュ・オートクチュール・アクトリス] - ローブ",
+      "desc": "編成順1番・2番の人格がパッシブ・スキル・コインの効果で回復する体力回復量 +20%\n\n色欲共鳴が完全共鳴なら、このターンの間、編成順1番・2番の人格がスキルでの被ダメージ量 -10%",
+      "flavor": "鏡世界の人格を原本そのままに上書きするのが難しいとき、役者だけのために仕立てられた形で服が作られ、その服が着せられる。\nオートクチュールは、ある種の映画的な再構成だ。かつていた存在を服へと置き換えて上書きし、役者はその存在に感情移入して没入し、演じる。映画を見る者は、それが演技ではなく実在であるという嘘を受け入れ、役者はその物語の中でだけはその存在となって原本を再現する。"
+    },
+    {
+      "id": 1091701,
+      "name": "お直し室の花ばさみの音",
+      "desc": "ターン終了時、自分の[ChargeKhaki]回数だけ、次のターンにバリアを得る\n自分の[ChargeKhaki]威力が2/3/5以上なら、基本スキルの最終威力+1/+2/+3",
+      "summary": "基本スキルの最終威力が増加[TabExplain]"
+    },
+    {
+      "id": 1091702,
+      "name": "漂流慣性",
+      "desc": "戦闘中、自分の[ChargeKhaki]回数を累計で10消耗するたびに[ChargeKhaki]威力を1得る\n\n自分以外の[NoirScissorShield]を持つ味方の攻撃終了時、対象へ「パターン起こし」を発動 (1ターンにつき1回)\n- [BeforeUse] 発動対象の[NoirScissorAlly]が2以上なら、代わりに「切り抜く」を発動 (1ターンにつき1回)",
+      "summary": "追加攻撃が発動"
+    },
+    {
+      "id": 1091721,
+      "name": "アン、オー・ボン・スィゾー",
+      "desc": "速度が最も高い味方1名の斬撃基本スキルダメージ量+10%",
+      "summary": "追加斬撃ダメージ",
+      "flavor": "はさみの中でも、大切なただ一挺をあなたにも。"
+    },
+    {
+      "id": 1031501,
+      "name": "黒き言約",
+      "desc": "戦闘終了時、自分に[OathFieldDonQuixote]があれば、次のターンに[Agility]1を得る\n\n自分の基本攻撃スキルでメインターゲットへの与ダメージ量 +(自分の[ChargeNoirAlly]威力 × 3)% (最大15%)",
+      "summary": "[OathFieldDonQuixote]があれば、次のターンに[Agility]を得る\n基本攻撃スキルでメインターゲットへの与ダメージ量が増加[TabExplain]",
+      "flavor": "あの方の声を聞いた。そして、あの方は約束された。この全てに意味があると。"
+    },
+    {
+      "id": 1031502,
+      "name": "マレウス・プロミッシオニス",
+      "desc": "ステージ初登場時、自分の[ChargeNoirAlly]回数が10増加し、自分以外のル・ノワール所属の味方人格の[Charge]回数が2増加\n\nスキル効果で[NoirNailDonQuixote]付与時、自分の[ChargeNoirAlly]回数が\n- 12以上なら、[NoirNailDonQuixote]の付与量 +1、自分の[ChargeNoirAlly]回数を4消耗\n- 12未満なら、自分の[ChargeNoirAlly]回数を2消耗\n- 足りなければ、代わりに[NoirNailDonQuixote]を付与しない\n- この効果によって、[NoirNailDonQuixote]を付与するスキルは[Charge]回数を消耗するスキルとして扱われる\n\n戦闘中、自分の[ChargeNoirAlly]回数を累計10消耗するたびに[ChargeNoirAlly]威力1を得る",
+      "summary": "[ChargeNoirAlly]回数とル・ノワール所属の味方の[Charge]回数が増加\n[NoirNailDonQuixote]の付与時に[ChargeNoirAlly]回数を消耗し、[ChargeNoirAlly]回数が一定以上なら付与量が増加\n[ChargeNoirAlly]回数を累計で消耗すると[ChargeNoirAlly]威力を得る",
+      "flavor": "金鎚は釘を刺す。金鎚が叩くのは釘だけだ。金鎚で打たれるものは釘なのだ。そう約束された。"
+    },
+    {
+      "id": 1031503,
+      "name": "保存の使命",
+      "desc": "ステージ初登場時、[NoirShieldUpDonQuixote]25を得る\n\n自分の[ChargeNoirAlly]回数を消耗するか、最大値を超えて得ると、(その数値 × 5)だけ[NoirShieldUpDonQuixote]を得る (1ターンにつき最大30)\n\nバリアがある味方人格の被撃時、自分が[NoirShieldUpDonQuixote]2を得る (1ターンにつき最大10)\n- その味方人格が[PersonalityCharge]なら、代わりに[NoirShieldUpDonQuixote]5を得る",
+      "summary": "[NoirShieldUpDonQuixote]を得る"
+    },
+    {
+      "id": 1031504,
+      "name": "神の意志と価値が我らと共にあらん…。",
+      "desc": "自分以外のル・ノワール所属の味方人格が敵へ攻撃を開始する前に、自分が「審判！」でメインターゲットを優先して一方攻撃する (1ターンにつき1回)\n\n基本スキルの最後のコイン開始時、(自分の[ChargeNoirAlly]威力 + 対象の[NoirNailDonQuixote]÷2)だけ、そのコインの最終威力が増加 (最大5)\n\n自分に[OathFieldDonQuixote]があれば、基本スキル1/2/3のマッチ威力 +1/+2/+3\n\n[NoirNailDonQuixote]がある対象に[VibrationExplosion]が発生すると、自分と、自分以外で[Charge]回数が最も少ない味方[PersonalityCharge]1名の[Charge]回数が2増加 (1ターンにつき2回)",
+      "summary": "ル・ノワール所属の味方が攻撃する前に「審判！」を使用\n基本スキルの最後のコインの最終威力が増加[TabExplain]\n[OathFieldDonQuixote]があれば、基本スキルのマッチ威力が増加[TabExplain]\n[NoirNailDonQuixote]がある対象に[VibrationExplosion]時、[Charge]回数が増加",
+      "flavor": "全てが不確かなこの世界で、我らを導き守るものはただ一つ、黒き神の御言葉。その御言葉が道となり、光となって我らを照らしたまえば、初めて我らに意味が与えられた。"
+    },
+    {
+      "id": 1031511,
+      "name": "黒き言約",
+      "desc": "戦闘終了時、自分に[OathFieldDonQuixote]があれば、次のターンに[Agility]2を得る\n\n自分の基本攻撃スキルでメインターゲットへの与ダメージ量 +(自分の[ChargeNoirAlly]威力 × 6)% (最大30%)",
+      "summary": "[OathFieldDonQuixote]があれば、次のターンに[Agility]を得る\n基本攻撃スキルでメインターゲットへの与ダメージ量が増加[TabExplain]",
+      "flavor": "あの方の声を聞いた。そして、あの方は約束された。この全てに意味があると。"
+    },
+    {
+      "id": 1031521,
+      "name": "陣形保存",
+      "desc": "戦闘開始時、戦場にいる味方[PersonalityCharge]1名につき、このターンに全ての味方[PersonalityCharge]の被ダメージ量 -2% (最小-10%)",
+      "summary": "味方の[PersonalityCharge]の被ダメージ量が減少"
+    },
+    {
+      "id": 1101602,
+      "name": "ラ・ジュイサンス・ファリック(la jouissance phallique)",
+      "desc": "[Laceration]発動時、自分の[ChargeRougeAlly]回数が1増加 (1ターンにつき最大10回)\n\n戦闘終了時、[BuffetSinclair]状態でなく、自分の[ChargeRougeAlly]回数が15以上なら、\n[ChargeRougeAlly]回数を全て消耗して、次のターンに[BuffetSinclair]3を得る\n- 精神力を(15を超えて消耗した回数 × 3)だけ回復 (最大15)\n\n[BuffetSinclair]消滅時、自分の[ChargeRougeAlly]回数を全て消耗して(消耗した回数×2)だけ体力を回復\n\n戦闘中に消耗した自分の[ChargeRougeAlly]回数の累計10につき、[ChargeRougeAlly]威力1を得る\n\n基本攻撃スキルとマッチ可能反撃スキルが、[Charge]回数を得るスキルとして扱われる",
+      "summary": "[Laceration]発動時、自分の[ChargeRougeAlly]回数が増加"
+    },
+    {
+      "id": 1101603,
+      "name": "幼年期の終り(la Fin de l'enfance)",
+      "desc": "以下の条件に応じて[HungrySinclair]を得る (1ターンにつき最大50)\n- 自分の[ChargeRougeAlly]回数消耗時、消耗した回数だけ得る\n- 自分の基本スキルで自分以外の味方の体力を回復すると、実際の回復量だけ得る\n- 味方の体力減少量の累計10につき1を得る\n- 自分以外のル・ルージュ所属の味方人格の基本攻撃的中時、2を得る\n- ターン終了時、自分以外のル・ルージュ所属の味方人格1名につき5を得る\n\nターン終了時、[TransformSinclair]がなく[HungrySinclair]が100以上なら、\n次のターン開始時、最も左にあるスロットの下段のスキルを「ラ・ヴォラシテ(la voracité)」に変更\n\n今回の戦闘で「ラ・ヴォラシテ(la voracité)」または「ラ・カストラシオン(la castration)」を初めて装着したときの戦闘開始時、[BuffetThirst]と[TransformSinclair]を得て、自分の混乱区間を除去\n- 装着していた基本スキルを[TransformSinclair]専用スキルに変更\n- 味方を指定していた基本スキルは、ランダムな敵へ一方攻撃\n- この効果で発動したスキルの攻撃終了時、[HungrySinclair]を全て消耗\n\nターン終了時、[TransformSinclair]があり、[HungrySinclair]が150なら、\n次のターン開始時、操作スロットに「ラ・ヴォラシテ(la voracité)」がない場合、基本スキル1つを「ラ・ヴォラシテ(la voracité)」に変更 (最も左にあるスロットの下段のスキルを優先)",
+      "summary": "条件に応じて[HungrySinclair]を得る",
+      "flavor": "幼年期の終りは誰が定めるのか？\n\n赤い子供は独り、旅路についた。記憶を辿り、懐かしみながら一人歩き、孤独に幼年期を見送る。"
+    },
+    {
+      "id": 1101604,
+      "name": "ラ・モワソン(la moisson)",
+      "desc": "自分の基本スキルの効果で味方の体力を消耗する際、その効果で対象が混乱したり、体力が1未満に減少することはない\n\n色欲共鳴が3以上なら、戦闘終了時に自分以外の味方(色欲共鳴 ÷ 3)名へ、次のターンに[BuffetThirst]を付与 (小数点切り上げ)\n- ル・ルージュ所属の味方を優先。編成順に付与\n\n味方に[SupportAlly]スキル使用時、行動可能なル・ルージュ所属の味方のうち、現体力が最も高い1名に[BuffetFriendShield]1を付与 (1ターンにつき1回)\n自分以外の味方の[PersonalityCharge]の基本攻撃終了時、メインターゲットが死亡していなければ、その敵に「ジュ・ヴゼド(je vous aide)」を使用 (1ターンにつき1回)",
+      "summary": "味方に[SupportAlly]スキル使用時、味方に[BuffetFriendShield]を付与\n色欲共鳴に応じて、味方に次のターンに[BuffetThirst]を付与"
+    },
+    {
+      "id": 1101614,
+      "name": "ラ・モワソン(la moisson)",
+      "desc": "自分の基本スキルの効果で味方の体力を消耗する際、その効果で対象が混乱したり、体力が1未満に減少することはない\n\n色欲共鳴が3以上なら、戦闘終了時に自分以外の味方(色欲共鳴 ÷ 3)名へ、次のターンに[BuffetThirst]を付与 (小数点切り上げ)\n- ル・ルージュ所属の味方を優先。編成順に付与\n- 自分に[TransformSinclair]があれば、付与対象の味方の人数 +1 (最大4名)\n\n自分に[TransformSinclair]がなければ、\n- 味方に[SupportAlly]スキル使用時、行動可能なル・ルージュ所属の味方のうち、現体力が最も高い1名に[BuffetFriendShield]1を付与 (1ターンにつき1回)\n- 自分以外の味方の[PersonalityCharge]の基本攻撃終了時、メインターゲットが死亡していなければ、その敵に「ジュ・ヴゼド(je vous aide)」を使用 (1ターンにつき1回)\n\n自分に[TransformSinclair]があれば、\n- [RougeFamilySinclair]を得る\n- 現在の戦闘場所で[DinnerField]を有効化\n- ターン終了時、次のターンに[BuffetThirst]を得る\n- 戦闘開始時、行動可能なル・ルージュ所属の味方のうち、現体力が最も高い1名に[BuffetFriendShield]を付与\n- 敵への基本攻撃スキルの攻撃終了時、メインターゲットの[BoneNailSinclair]の数値が5なら、「ラ・ドゥマンド(la demande)」を使用 (1ターンにつき1回)",
+      "summary": "味方に[SupportAlly]スキル使用時、味方に[BuffetFriendShield]を付与\n色欲共鳴に応じて、味方に次のターンに[BuffetThirst]を付与"
+    },
+    {
+      "id": 1101611,
+      "name": "レ・プヴォワール・ドゥ・ラ・ヴィ(les pouvoirs de la vie)",
+      "desc": "ル・ルージュ所属の味方がダメージで混乱すると、その味方に「ル・マンク・ア・エートル(le manque-à-être)」を使用 (1ターンにつき1回、強制混乱を除く)\n\n自分に[TransformSinclair]がなければ、\n- ル・ルージュ所属でない味方がダメージで混乱すると、その味方に「ル・マンク・ア・エートル(le manque-à-être)」を使用 (戦闘につき1回、強制混乱を除く)\n\n自分に[TransformSinclair]があれば、\n- 自分以外のル・ルージュ所属の味方人格が体力0になるダメージを受けたとき、体力が1未満に減少せず、最大体力の50%だけ体力を回復 (小数点切り上げ、人格ごとに戦闘につき1回)"
+    },
+    {
+      "id": 1101621,
+      "name": "暴食",
+      "desc": "戦闘開始時、体力が最も低い味方1名に[AttackUp]2を付与\nその味方は攻撃スキル終了時、自分の最大体力の5%だけ体力を回復 (最小1、1ターンにつき1回)"
     }
   ]
 }
