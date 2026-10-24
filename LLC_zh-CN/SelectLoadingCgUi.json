@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "ui_settings_popup_tab_title_change_lobby_cg",
+      "content": "设置插图"
+    },
+    {
+      "id": "ui_loading_cg_tab_personality",
+      "content": "人格插图"
+    },
+    {
+      "id": "ui_loading_cg_tab_story",
+      "content": "故事插图"
+    },
+    {
+      "id": "ui_loading_cg_selected_count",
+      "content": "选择"
+    },
+    {
+      "id": "ui_loading_cg_random_toggle",
+      "content": "随机选定"
+    },
+    {
+      "id": "ui_loading_cg_random_warning",
+      "content": "随机选定后将无法单独选择插图。"
+    },
+    {
+      "id": "ui_loading_cg_max_count_warning",
+      "content": "最多可选择{0}张插图。"
+    },
+    {
+      "id": "ui_loading_cg_chapter_title",
+      "content": "{0}章"
+    },
+    {
+      "id": "ui_loading_cg_chapter_lock",
+      "content": "通关{0}后解锁"
+    },
+    {
+      "id": "ui_loading_cg_cancel",
+      "content": "取消"
+    },
+    {
+      "id": "ui_loading_cg_apply",
+      "content": "更换"
+    },
+    {
+      "id": "ui_loading_cg_random_confirm",
+      "content": "已有选择的插图。\n确定要取消所选插图\n更改为随机指定加载插图吗？"
+    },
+    {
+      "id": "tutorial_loading_cg_01",
+      "content": "更换加载插图"
+    },
+    {
+      "id": "tutorial_loading_cg_02",
+      "content": "人格以及剧情插图都可选择并切换为加载插图。"
+    },
+    {
+      "id": "tutorial_loading_cg_03",
+      "content": "筛选"
+    },
+    {
+      "id": "tutorial_loading_cg_04",
+      "content": "可设置特定关键词，筛选显示心仪插图。"
+    },
+    {
+      "id": "tutorial_loading_cg_05",
+      "content": "确认所选插图"
+    },
+    {
+      "id": "tutorial_loading_cg_06",
+      "content": "可在此确认目前所选插图。最多可选择10张插图。"
+    },
+    {
+      "id": "tutorial_loading_cg_07",
+      "content": "随机指定插图"
+    },
+    {
+      "id": "tutorial_loading_cg_08",
+      "content": "若启用随机指定插图功能，则会随机从您解锁的插图中选择并显示为加载界面。"
+    }
+  ]
+}

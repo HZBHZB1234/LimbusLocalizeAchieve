@@ -2983,7 +2983,7 @@
       "simpleDesc": [
         {
           "abilityID": 9110,
-          "simpleDesc": "若符合条件，则随机对1名敌方单位造成怠惰伤害"
+          "simpleDesc": "若符合条件，则下回合随机对1名敌方单位造成怠惰伤害"
         }
       ]
     },
@@ -2994,7 +2994,7 @@
       "simpleDesc": [
         {
           "abilityID": 19110,
-          "simpleDesc": "若符合条件，则随机对1名敌方单位造成怠惰伤害"
+          "simpleDesc": "若符合条件，则下回合随机对1名敌方单位造成怠惰伤害"
         }
       ]
     },
@@ -3005,7 +3005,7 @@
       "simpleDesc": [
         {
           "abilityID": 29110,
-          "simpleDesc": "若符合条件，则随机对1名敌方单位造成怠惰伤害"
+          "simpleDesc": "若符合条件，则下回合随机对1名敌方单位造成怠惰伤害"
         }
       ]
     },
@@ -3106,7 +3106,7 @@
       "simpleDesc": [
         {
           "abilityID": 9114,
-          "simpleDesc": "若符合条件，则随机使其他敌方单位增加[Vibration]强度1/3的[Vibration]强度"
+          "simpleDesc": "若符合条件，则下回合随机使其他敌方单位增加[Vibration]强度1/3的[Vibration]强度"
         },
         {
           "abilityID": 91141,

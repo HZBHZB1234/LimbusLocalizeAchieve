@@ -2067,6 +2067,14 @@
     {
       "id": "introduce_sentence_259",
       "content": "我们禁止超额预定{0}哦~。"
+    },
+    {
+      "id": "introduce_word_260",
+      "content": "捕获"
+    },
+    {
+      "id": "introduce_sentence_260",
+      "content": "{0}流程继续、继续！继续进行！！！"
     }
   ]
 }

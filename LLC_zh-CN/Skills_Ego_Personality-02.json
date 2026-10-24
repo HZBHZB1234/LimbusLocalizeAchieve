@@ -53,6 +53,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "9章2节",
+          "abName": "人皮预言者",
+          "desc": "<style=\"highlight\">使用本技能所消耗的暴食E.G.O资源减少1个</style>\n[BeforeAttack] 若<style=\"highlight\">最大共鸣数</style>不低于4，则使本技能的攻击容量+1\n若<style=\"highlight\">最大共鸣数</style>不低于6，则使本技能的攻击容量额外+1\n\n<style=\"highlight\">[BeforeAttack] 全体目标与自身的[Combustion]强度之和每有1级，使本技能造成的伤害+5%(最多+100%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 对目标施加5层[DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 目标每带有2级[Combustion]强度，将其转化为1层[DefenseDown] (<style=\"highlight\">最多转化5层，该效果不会使目标的[Combustion]强度降至1级以下)\n- 若目标的[Combustion]强度不足，则可转化自身超过30级的[Combustion]强度以代替</style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -114,6 +135,33 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] 目标每带有2级[Combustion]强度，将其转化为1层防御等级降低 (最多转化10层)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "9章2节",
+          "abName": "人皮预言者",
+          "desc": "[CantIdentify]\n随机指定目标\n<style=\"highlight\">使用本技能所消耗的暴食E.G.O资源减少1个</style>\n[BeforeAttack] 若<style=\"highlight\">最大共鸣数</style>不低于4，则使本技能的攻击容量+1\n若<style=\"highlight\">最大共鸣数</style>不低于6，则使本技能的攻击容量额外+1\n\n<style=\"highlight\">[BeforeAttack] 全体目标与自身的[Combustion]强度之和每有1级，使本技能造成的伤害+6%(最多+120%)\n[DefeatDuel] 使本技能的基础威力-10</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] </style>下回合对目标施加2层[Binding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加4级[Combustion]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 对目标施加5层[DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 目标每带有2级[Combustion]强度，将其转化为1层[DefenseDown] (<style=\"highlight\">最多转化5层，该效果不会使目标的[Combustion]强度降至1级以下)\n- 若目标的[Combustion]强度不足，则可转化自身超过30级的[Combustion]强度以代替</style>"
                 }
               ]
             }

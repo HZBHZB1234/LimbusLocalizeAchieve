@@ -879,6 +879,196 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2121011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迁居申请",
+          "abName": "Kqe-1j-23",
+          "desc": "满足以下条件时，使本技能的硬币威力增加(最多+3)\n- 主要目标每带有6级[Combustion]强度，使本技能的硬币威力+1\n- 使本技能的硬币威力+(自身的[Charge]强度-1)\n[BeforeAttack] 令本技能增加的[Combustion]强度额外+(自身的[Charge]强度-1)级(最多+2)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[Charge](最多7层)\n[BeforeAttack] 消耗自身最多15层[Charge]，每消耗1层[Charge]，使本技能造成的伤害+1%(最多+15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Combustion]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标带有[IDMicroChip]或[Binding]，则对其施加2层[Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[Binding]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "迁居申请",
+          "abName": "Kqe-1j-23",
+          "desc": "满足以下条件时，使本技能的硬币威力增加(最多+3)\n- 主要目标每带有6级[Combustion]强度，使本技能的硬币威力+1\n- 使本技能的硬币威力+(自身的[Charge]强度-1)\n[BeforeAttack] 令本技能增加的[Combustion]强度额外+(自身的[Charge]强度-1)级(最多+2)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[Charge](最多7层)\n<style=\"highlight\">- 若自身的[Charge]层数不高于3层，则使自身额外获得3层[Charge]</style>\n[BeforeAttack] 消耗自身最多15层[Charge]，每消耗1层[Charge]，使本技能造成的伤害+<style=\"highlight\">2</style>%(最多+<style=\"highlight\">30</style>%)\n<style=\"highlight\">[EndSkill] 若本技能的攻击前效果消耗了15层[Charge]，则使自身获得5层[Charge]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[Combustion]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标带有[IDMicroChip]或[Binding]，则对其施加2层[Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身获得2层[Charge]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[IDMicroChip]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[Binding]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "迁居申请",
+          "abName": "Kqe-1j-23",
+          "desc": "满足以下条件时，使本技能的硬币威力增加(最多+3)\n- 主要目标每带有6级[Combustion]强度，使本技能的硬币威力+1\n- 使本技能的硬币威力+(自身的[Charge]强度-1)\n[BeforeAttack] 令本技能增加的[Combustion]强度额外+(自身的[Charge]强度-1)级(最多+2)\n[BeforeAttack] 使自身获得(最大共鸣数+1)层[Charge](最多7层)\n- 若自身的[Charge]层数不高于3层，则使自身额外获得3层[Charge]\n[BeforeAttack] 消耗自身最多15层[Charge]，每消耗1层[Charge]，使本技能造成的伤害+<style=\"highlight\">3</style>%(最多+<style=\"highlight\">45</style>%)\n[EndSkill] 若本技能的攻击前效果消耗了15层[Charge]，则使自身获得5层[Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Combustion]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标带有[IDMicroChip]或[Binding]，则对其施加2层[Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[Binding]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2121021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "迁居申请",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\n随机指定目标\n满足以下条件时，使本技能的硬币威力增加(最多+3)\n- 主要目标每带有6级[Combustion]强度，使本技能的硬币威力+1\n- 使本技能的硬币威力+(自身的[Charge]强度-1)\n[BeforeAttack] 使自身获得(最大共鸣数+3)层[Charge](最多10层)\n[BeforeAttack] 使本技能造成的伤害+(自身的[Charge]强度与层数之和-1)%(最多+20%)\n[EnemyKill] 使自身获得4层[Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[Binding]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "迁居申请",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\n随机指定目标\n满足以下条件时，使本技能的硬币威力增加(最多+3)\n- 主要目标每带有6级[Combustion]强度，使本技能的硬币威力+1\n- 使本技能的硬币威力+(自身的[Charge]强度-1)\n[BeforeAttack] 使自身获得(最大共鸣数+3)层[Charge](最多10层)\n[BeforeAttack] 使本技能造成的伤害+(自身的[Charge]强度与层数之和-1)×<style=\"highlight\">2</style>%(最多+<style=\"highlight\">40</style>%)\n[EnemyKill] \n- 使自身获得4层[Charge]\n<style=\"highlight\">- 下回合使自身获得1层[AttackDmgUp](每回合最多1次)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[Binding]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] 消耗自身最多8层[Charge]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若本硬币消耗了[Charge]层数，则对目标造成本硬币最终伤害量(消耗的[Charge]层数×5)%的嫉妒伤害(最少5%，最多40%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "迁居申请",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\n随机指定目标\n满足以下条件时，使本技能的硬币威力增加(最多+3)\n- 主要目标每带有6级[Combustion]强度，使本技能的硬币威力+1\n- 使本技能的硬币威力+(自身的[Charge]强度-1)\n[BeforeAttack] 使自身获得(最大共鸣数+3)层[Charge](最多10层)\n[BeforeAttack] 使本技能造成的伤害+(自身的[Charge]强度与层数之和-1)×<style=\"highlight\">3</style>%(最多+<style=\"highlight\">60</style>%)\n[EnemyKill] \n- 使自身获得4层[Charge]\n- 下回合使自身获得1层[AttackDmgUp](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 下回合对目标施加1层[Binding]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] 消耗自身最多8层[Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若本硬币消耗了[Charge]层数，则对目标造成本硬币最终伤害量(消耗的[Charge]层数×5)%的嫉妒伤害(最少5%，最多40%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

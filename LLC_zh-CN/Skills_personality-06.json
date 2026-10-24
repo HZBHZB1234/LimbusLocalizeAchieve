@@ -3572,7 +3572,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Combustion]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 下回合对目标施加2层[DefenseDown](每回合最多2次)"
+                  "desc": "[CriticalOnSucceedAttack] 对目标施加2层[DefenseDown](每回合最多2次)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标带有[DianxueHongLu]，则重复使用本硬币(每个技能最多1次)"
@@ -3612,7 +3612,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 下回合对目标施加2层[DefenseDown](每回合最多2次)<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] 对目标施加2层[DefenseDown](每回合最多2次)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标带有[DianxueHongLu]，则重复使用本硬币(每个技能最多1次)<style=\"highlight\"></style>"
