@@ -569,7 +569,7 @@
         {
           "level": 1,
           "name": "螺旋型扭曲场",
-          "desc": "[CanDuelGuard] \n[StartBattle] 使贾环与仇甫获得30点护盾\n[WinDuel] 使贾环与仇甫获得30点护盾",
+          "desc": "[CanDuelGuard]\n[StartBattle] 使贾环与仇甫获得30点护盾\n[WinDuel] 使贾环与仇甫获得30点护盾",
           "coinlist": [
             {
               "coindescs": [
@@ -986,7 +986,7 @@
         {
           "level": 1,
           "name": "全黑仙丸-酉-守备",
-          "desc": "[CanDuelGuard] \n[WhenUse] 若目标的[Laceration]与[Burst]强度之和不低于5级，则使本技能的硬币威力+2\n[WhenUse] 使自身恢复8点理智值\n[WhenUse] 使自身增加3级[Breath]强度并使自身获得2层[Breath]",
+          "desc": "[CanDuelGuard]\n[WhenUse] 若目标的[Laceration]与[Burst]强度之和不低于5级，则使本技能的硬币威力+2\n[WhenUse] 使自身恢复8点理智值\n[WhenUse] 使自身增加3级[Breath]强度并使自身获得2层[Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1156,7 +1156,7 @@
         {
           "level": 1,
           "name": "徒劳无益的挣扎…！",
-          "desc": "[CanDuelGuard] \n[WinDuel] 使贾母恢复15点理智值。若贾母的理智值低于0点，则改为恢复30点理智值。",
+          "desc": "[CanDuelGuard]\n[WinDuel] 使贾母恢复15点理智值。若贾母的理智值低于0点，则改为恢复30点理智值。",
           "coinlist": [
             {
               "coindescs": [
@@ -1395,7 +1395,7 @@
         {
           "level": 1,
           "name": "我会安分守己",
-          "desc": "[CanDuelGuard] \n[WinDuel] 使贾母恢复15点理智值。若贾母的理智值低于0点，则改为恢复30点理智值。",
+          "desc": "[CanDuelGuard]\n[WinDuel] 使贾母恢复15点理智值。若贾母的理智值低于0点，则改为恢复30点理智值。",
           "coinlist": [
             {
               "coindescs": [

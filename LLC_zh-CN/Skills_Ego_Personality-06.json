@@ -1012,7 +1012,7 @@
           "level": 1,
           "name": "宁作吾",
           "abName": "令",
-          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得2层[Breath]\n[BeforeAttack] 若自身带有[Cianjing]或[SeniorCianjing]，则使本技能的硬币威力+1\n[EndSkill] 使自身获得5层[Cianjing]\n- 若自身带有[Cianjing]或[SeniorCianjing]，则消耗所有[Cianjing]与[SeniorCianjing]并使自身获得5层[SeniorCianjing] ",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得2层[Breath]\n[BeforeAttack] 若自身带有[Cianjing]或[SeniorCianjing]，则使本技能的硬币威力+1\n[EndSkill] 使自身获得5层[Cianjing]\n- 若自身带有[Cianjing]或[SeniorCianjing]，则消耗所有[Cianjing]与[SeniorCianjing]并使自身获得5层[SeniorCianjing]",
           "coinlist": [
             {
               "coindescs": [
@@ -1059,7 +1059,7 @@
           "level": 3,
           "name": "宁作吾",
           "abName": "令",
-          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身增加<style=\"highlight\">3</style>级[Breath]强度并使自身获得<style=\"highlight\">3</style>层[Breath]\n[BeforeAttack] 若自身带有[Cianjing]或[SeniorCianjing]，则使本技能的<style=\"highlight\">攻击容量+1，基础威力+1</style>，硬币威力+1\n[EndSkill] 使自身获得5层[Cianjing]\n- 若自身带有[Cianjing]或[SeniorCianjing]，则消耗所有[Cianjing]与[SeniorCianjing]并使自身获得5层[SeniorCianjing] ",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身增加<style=\"highlight\">3</style>级[Breath]强度并使自身获得<style=\"highlight\">3</style>层[Breath]\n[BeforeAttack] 若自身带有[Cianjing]或[SeniorCianjing]，则使本技能的<style=\"highlight\">攻击容量+1，基础威力+1</style>，硬币威力+1\n[EndSkill] 使自身获得5层[Cianjing]\n- 若自身带有[Cianjing]或[SeniorCianjing]，则消耗所有[Cianjing]与[SeniorCianjing]并使自身获得5层[SeniorCianjing]",
           "coinlist": [
             {
               "coindescs": [
@@ -1106,7 +1106,7 @@
           "level": 4,
           "name": "宁作吾",
           "abName": "令",
-          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身增加<style=\"highlight\">4</style>级[Breath]强度并使自身获得<style=\"highlight\">4</style>层[Breath]\n[BeforeAttack] 若自身带有[Cianjing]或[SeniorCianjing]，则使本技能的攻击容量<style=\"highlight\">+2</style>，基础威力<style=\"highlight\">+2</style>，硬币威力<style=\"highlight\">+2</style>\n[EndSkill] 使自身获得5层[Cianjing]\n- 若自身带有[Cianjing]或[SeniorCianjing]，则消耗所有[Cianjing]与[SeniorCianjing]并使自身获得5层[SeniorCianjing] ",
+          "desc": "[CantIdentify]\n随机指定目标\n[WhenUse] 使自身增加<style=\"highlight\">4</style>级[Breath]强度并使自身获得<style=\"highlight\">4</style>层[Breath]\n[BeforeAttack] 若自身带有[Cianjing]或[SeniorCianjing]，则使本技能的攻击容量<style=\"highlight\">+2</style>，基础威力<style=\"highlight\">+2</style>，硬币威力<style=\"highlight\">+2</style>\n[EndSkill] 使自身获得5层[Cianjing]\n- 若自身带有[Cianjing]或[SeniorCianjing]，则消耗所有[Cianjing]与[SeniorCianjing]并使自身获得5层[SeniorCianjing]",
           "coinlist": [
             {
               "coindescs": [

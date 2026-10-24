@@ -6,11 +6,11 @@
     },
     {
       "id": "ui_loading_cg_tab_personality",
-      "content": "<font=\\\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\\\">人格画像</font>"
+      "content": "人格插图"
     },
     {
       "id": "ui_loading_cg_tab_story",
-      "content": "<font=\\\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\\\">故事画像</font>"
+      "content": "故事插图"
     },
     {
       "id": "ui_loading_cg_selected_count",

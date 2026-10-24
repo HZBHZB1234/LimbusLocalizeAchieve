@@ -1690,7 +1690,7 @@
                   "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[Combustion] "
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[Combustion]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"

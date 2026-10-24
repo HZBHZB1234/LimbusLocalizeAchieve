@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "渴火",
-          "desc": "[StartBattle] 使自身增加7级[Combustion]强度并对自身施加1层[Combustion]\n[BeforeUse] 若自身的[Combustion] 强度不低于30级，则改为使用“红艳煞 最大感应【劣化侵蚀】”\n自身每带有5级[Combustion]强度，使本技能造成的伤害+12.5%(最多+50%)\n[WhenUse] 自身的[Combustion]强度与目标的[Combustion]强度之和每有10点，使本技能的基础威力+1(最多+2)\n[WhenUse] 自身每失去30%体力，使本技能的硬币威力+1(最多+2)",
+          "desc": "[StartBattle] 使自身增加7级[Combustion]强度并对自身施加1层[Combustion]\n[BeforeUse] 若自身的[Combustion]强度不低于30级，则改为使用“红艳煞 最大感应【劣化侵蚀】”\n自身每带有5级[Combustion]强度，使本技能造成的伤害+12.5%(最多+50%)\n[WhenUse] 自身的[Combustion]强度与目标的[Combustion]强度之和每有10点，使本技能的基础威力+1(最多+2)\n[WhenUse] 自身每失去30%体力，使本技能的硬币威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
