@@ -1,0 +1,54 @@
+name: Auto Sync
+
+on:
+  schedule:
+    # 每天 14:17 北京时间（UTC+8）；在周四游戏更新窗口（10:00-13:00）之后，可当天追上最新生肉
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      # 生肉：请求 status API（与 LCTA_auto_update 相同的数据源）获取最新 token，
+      # 下载 localize_{en,jp,kr}.zip 并镜像同步到 EN/ JP/ KR/（详见 scripts/update_raw.py）
+      - name: Sync game raw text
+        id: raw
+        run: python scripts/update_raw.py
+
+      # 原文先于译文提交
+      - name: Commit RAW update
+        if: steps.raw.outcome == 'success' && steps.raw.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add EN JP KR .github/state/raw_state.json
+          git commit -m "Auto RAW Update - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+
+      # 译文：脚本内部按时间从旧到新逐个 release 同步并提交（一个 release 一个 commit），
+      # 生肉失败时不阻塞译文同步（详见 scripts/sync_translation.py）
+      - name: Sync upstream translation
+        id: cooked
+        if: success() || failure()
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/sync_translation.py
+
+      - name: Push
+        if: steps.raw.outputs.changed == 'true' || steps.cooked.outputs.changed == 'true'
+        run: git push
