@@ -63,7 +63,7 @@
     {
       "id": 9003,
       "name": "尘归尘",
-      "desc": "战斗开始时，若全体敌方单位(或所有异想体部位)都带有[Combustion]或特殊烧伤，则使全体敌方单位(或所有异想体部位)增加2级[Combustion]强度。",
+      "desc": "战斗开始时，若全体敌方单位(若是异想体，则改为所有部位)都带有[Combustion]或特殊烧伤，则使全体敌方单位(若是异想体，则改为所有部位)增加2级[Combustion]强度。",
       "simpleDesc": [
         {
           "abilityID": 9003,
@@ -74,7 +74,7 @@
     {
       "id": 19003,
       "name": "尘归尘+",
-      "desc": "战斗开始时，<style=\"upgradeHighlight\">使带有[Combustion]或特殊烧伤的全体敌方单位(或所有异想体部位)增加2级[Combustion]强度</style>。",
+      "desc": "战斗开始时，<style=\"upgradeHighlight\">使带有[Combustion]或特殊烧伤的全体敌方单位(若是异想体，则改为所有部位)增加2级[Combustion]强度</style>。",
       "simpleDesc": [
         {
           "abilityID": 19003,
@@ -85,7 +85,7 @@
     {
       "id": 29003,
       "name": "尘归尘++",
-      "desc": "战斗开始时，<style=\"upgradeHighlight\">使全体敌方单位(或所有异想体部位)增加3级[Combustion]强度</style>。",
+      "desc": "战斗开始时，<style=\"upgradeHighlight\">使全体敌方单位(若是异想体，则改为所有部位)增加3级[Combustion]强度</style>。",
       "simpleDesc": [
         {
           "abilityID": 29003,
@@ -406,7 +406,7 @@
     {
       "id": 9016,
       "name": "绿光果实",
-      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加[Vibration]强度时，随机使全体敌方单位(或所有异想体部位)增加共计4级[Vibration]强度。",
+      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加[Vibration]强度时，随机使全体敌方单位(若是异想体，则改为所有部位)增加共计4级[Vibration]强度。",
       "simpleDesc": [
         {
           "abilityID": 9016,
@@ -417,7 +417,7 @@
     {
       "id": 19016,
       "name": "绿光果实+",
-      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加[Vibration]强度时，随机使全体敌方单位(或所有异想体部位)增加共计<style=\"upgradeHighlight\">6级[Vibration]强度</style>。",
+      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加[Vibration]强度时，随机使全体敌方单位(若是异想体，则改为所有部位)增加共计<style=\"upgradeHighlight\">6级[Vibration]强度</style>。",
       "simpleDesc": [
         {
           "abilityID": 19016,
@@ -428,7 +428,7 @@
     {
       "id": 29016,
       "name": "绿光果实++",
-      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加[Vibration]强度时，随机使全体敌方单位(或所有异想体部位)增加共计<style=\"upgradeHighlight\">8级[Vibration]强度</style>。",
+      "desc": "使用暴食技能对未陷入混乱的敌方单位造成伤害，或通过技能效果增加[Vibration]强度时，随机使全体敌方单位(若是异想体，则改为所有部位)增加共计<style=\"upgradeHighlight\">8级[Vibration]强度</style>。",
       "simpleDesc": [
         {
           "abilityID": 29016,
@@ -454,7 +454,7 @@
     {
       "id": 9018,
       "name": "玫瑰王冠",
-      "desc": "回合开始时，随机使1名敌方单位(或所有异想体部位)增加4级[Burst]强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位增加2级[Burst]强度。",
+      "desc": "回合开始时，随机使1名敌方单位(若是异想体，则改为所有部位)增加4级[Burst]强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位增加2级[Burst]强度。",
       "simpleDesc": [
         {
           "abilityID": 9018,
@@ -469,7 +469,7 @@
     {
       "id": 19018,
       "name": "玫瑰王冠+",
-      "desc": "回合开始时，随机使<style=\"upgradeHighlight\">2名敌方单位</style>(或所有异想体部位)增加4级[Burst]强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位<style=\"upgradeHighlight\">增加3级[Burst]强度</style>。",
+      "desc": "回合开始时，随机使<style=\"upgradeHighlight\">2名敌方单位</style>(若是异想体，则改为所有部位)增加4级[Burst]强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位<style=\"upgradeHighlight\">增加3级[Burst]强度</style>。",
       "simpleDesc": [
         {
           "abilityID": 19018,
@@ -484,7 +484,7 @@
     {
       "id": 29018,
       "name": "玫瑰王冠++",
-      "desc": "回合开始时，随机使<style=\"upgradeHighlight\">3名敌方单位</style>(或所有异想体部位)增加4级[Burst]强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位<style=\"upgradeHighlight\">增加4级[Burst]强度</style>。",
+      "desc": "回合开始时，随机使<style=\"upgradeHighlight\">3名敌方单位</style>(若是异想体，则改为所有部位)增加4级[Burst]强度。\n\n激活暴食完全共鸣时，在战斗开始时使全体敌方单位<style=\"upgradeHighlight\">增加4级[Burst]强度</style>。",
       "simpleDesc": [
         {
           "abilityID": 29018,
@@ -737,7 +737,7 @@
     {
       "id": 9031,
       "name": "辉光变动仪",
-      "desc": "关卡的首个回合开始时，使全体敌方单位(或所有异想体部位)增加4级[Vibration]强度，并对其施加4层[Vibration]。\n\n使用嫉妒技能造成伤害时，使目标增加2级[Vibration]强度。",
+      "desc": "关卡的首个回合开始时，使全体敌方单位(若是异想体，则改为所有部位)增加4级[Vibration]强度，并对其施加4层[Vibration]。\n\n使用嫉妒技能造成伤害时，使目标增加2级[Vibration]强度。",
       "simpleDesc": [
         {
           "abilityID": 9031,
@@ -752,7 +752,7 @@
     {
       "id": 19031,
       "name": "辉光变动仪+",
-      "desc": "<style=\"upgradeHighlight\">波次的首个回合开始时</style>，使全体敌方单位(或所有异想体部位)增加4级[Vibration]强度，并对其施加4层[Vibration]。\n\n使用嫉妒技能造成伤害时，使目标增加2级[Vibration]强度。",
+      "desc": "<style=\"upgradeHighlight\">波次的首个回合开始时</style>，使全体敌方单位(若是异想体，则改为所有部位)增加4级[Vibration]强度，并对其施加4层[Vibration]。\n\n使用嫉妒技能造成伤害时，使目标增加2级[Vibration]强度。",
       "simpleDesc": [
         {
           "abilityID": 19031,
@@ -767,7 +767,7 @@
     {
       "id": 29031,
       "name": "辉光变动仪++",
-      "desc": "波次的首个回合开始时，使全体敌方单位(或所有异想体部位)<style=\"upgradeHighlight\">增加5级[Vibration]强度，并对其施加5层[Vibration]。</style>\n\n使用嫉妒技能造成伤害时，使目标<style=\"upgradeHighlight\">增加3级[Vibration]强度。</style>",
+      "desc": "波次的首个回合开始时，使全体敌方单位(若是异想体，则改为所有部位)<style=\"upgradeHighlight\">增加5级[Vibration]强度，并对其施加5层[Vibration]。</style>\n\n使用嫉妒技能造成伤害时，使目标<style=\"upgradeHighlight\">增加3级[Vibration]强度。</style>",
       "simpleDesc": [
         {
           "abilityID": 29031,
@@ -1308,7 +1308,7 @@
     {
       "id": 9050,
       "name": "红染棉花",
-      "desc": "关卡的首个回合开始时，使全体敌方单位增加1级[Laceration]强度并对其施加15层[Laceration]。(若是异想体，则对所有部位造成此效果。)\n\n回合开始时，带有[Laceration]的敌方单位在本回合减少(其[Laceration]强度/3)级攻击等级与防御等级。([Laceration]强度积累至30级时效果最高)",
+      "desc": "关卡的首个回合开始时，使全体敌方单位(若是异想体，则改为所有部位)增加1级[Laceration]强度并对其施加15层[Laceration]。\n\n回合开始时，带有[Laceration]的敌方单位在本回合减少(其[Laceration]强度/3)级攻击等级与防御等级。([Laceration]强度积累至30级时效果最高)",
       "simpleDesc": [
         {
           "abilityID": 9050,
@@ -1323,7 +1323,7 @@
     {
       "id": 19050,
       "name": "红染棉花+",
-      "desc": "<style=\"upgradeHighlight\">波次的首个回合开始时</style>，使全体敌方单位<style=\"upgradeHighlight\">增加2级[Laceration]强度</style>并对其施加15层[Laceration]。(若是异想体，则对所有部位造成此效果。)\n\n回合开始时，带有[Laceration]的敌方单位在本回合减少(其[Laceration]强度/3)级攻击等级与防御等级。([Laceration]强度积累至30级时效果最高)",
+      "desc": "<style=\"upgradeHighlight\">波次的首个回合开始时</style>，使全体敌方单位<style=\"upgradeHighlight\">(若是异想体，则改为所有部位)增加2级[Laceration]强度</style>并对其施加15层[Laceration]。\n\n回合开始时，带有[Laceration]的敌方单位在本回合减少(其[Laceration]强度/3)级攻击等级与防御等级。([Laceration]强度积累至30级时效果最高)",
       "simpleDesc": [
         {
           "abilityID": 19050,
@@ -1338,7 +1338,7 @@
     {
       "id": 29050,
       "name": "红染棉花++",
-      "desc": "波次的首个回合开始时，使全体敌方单位<style=\"upgradeHighlight\">增加4级[Laceration]强度并对其施加20层[Laceration]。</style>(若是异想体，则对所有部位造成此效果。)\n\n回合开始时，带有[Laceration]的敌方单位在本回合减少<style=\"upgradeHighlight\">(其[Laceration]强度/2)级攻击等级与防御等级。</style>([Laceration]强度积累至30级时效果最高)",
+      "desc": "波次的首个回合开始时，使全体敌方单位<style=\"upgradeHighlight\">(若是异想体，则改为所有部位)增加4级[Laceration]强度并对其施加20层[Laceration]。</style>\n\n回合开始时，带有[Laceration]的敌方单位在本回合减少<style=\"upgradeHighlight\">(其[Laceration]强度/2)级攻击等级与防御等级。</style>([Laceration]强度积累至30级时效果最高)",
       "simpleDesc": [
         {
           "abilityID": 29050,
@@ -1499,7 +1499,7 @@
     {
       "id": 9055,
       "name": "暴雨",
-      "desc": "回合开始时，使全体敌方单位(或所有异想体部位)增加(当前回合数×2)级[Vibration]强度并对其施加2层[Vibration]。\n\n回合结束时，使全体敌方单位(或所有异想体部位)[VibrationExplosion]。",
+      "desc": "回合开始时，使全体敌方单位(若是异想体，则改为所有部位)增加(当前回合数×2)级[Vibration]强度并对其施加2层[Vibration]。\n\n回合结束时，使全体敌方单位(若是异想体，则改为所有部位)[VibrationExplosion]。",
       "simpleDesc": [
         {
           "abilityID": 9055,
@@ -1514,7 +1514,7 @@
     {
       "id": 19055,
       "name": "暴雨+",
-      "desc": "回合开始时，使全体敌方单位(或所有异想体部位)<style=\"upgradeHighlight\">增加(3+当前回合数×2)级[Vibration]强度并对其施加3层[Vibration]。</style>\n\n回合结束时，使全体敌方单位(或所有异想体部位)[VibrationExplosion]。",
+      "desc": "回合开始时，使全体敌方单位(若是异想体，则改为所有部位)<style=\"upgradeHighlight\">增加(3+当前回合数×2)级[Vibration]强度并对其施加3层[Vibration]。</style>\n\n回合结束时，使全体敌方单位(若是异想体，则改为所有部位)[VibrationExplosion]。",
       "simpleDesc": [
         {
           "abilityID": 19055,
@@ -1529,7 +1529,7 @@
     {
       "id": 29055,
       "name": "暴雨++",
-      "desc": "回合开始时，使全体敌方单位(或所有异想体部位)<style=\"upgradeHighlight\">增加(5+当前回合数×2)级[Vibration]强度</style>并对其施加3层[Vibration]。\n\n回合结束时，<style=\"upgradeHighlight\">使全体敌方单位(或所有异想体部位)[VibrationExplosion]2次</style>。",
+      "desc": "回合开始时，使全体敌方单位(若是异想体，则改为所有部位)<style=\"upgradeHighlight\">增加(5+当前回合数×2)级[Vibration]强度</style>并对其施加3层[Vibration]。\n\n回合结束时，<style=\"upgradeHighlight\">使全体敌方单位(若是异想体，则改为所有部位)[VibrationExplosion]2次</style>。",
       "simpleDesc": [
         {
           "abilityID": 29055,
@@ -2269,7 +2269,7 @@
     {
       "id": 9083,
       "name": "月之记忆",
-      "desc": "全体敌方单位(异想体则为所有部位)的物理抗性及罪孽抗性全部变为“致命”。",
+      "desc": "全体敌方单位(若是异想体，则改为所有部位)的物理抗性及罪孽抗性全部变为“致命”。",
       "simpleDesc": [
         {
           "abilityID": 9083,
@@ -2354,7 +2354,7 @@
     {
       "id": 9088,
       "name": "镇魂",
-      "desc": "回合开始时，若拥有增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的攻击技能的人格不低于5名，则在本场战斗期间触发该效果。(不包括E.G.O技能，不包括待命人员)\n\n回合开始时，对全体敌方单位(或异想体的所有部位)施加6层[Combustion]并随机使全体敌方单位增加共计15级[Combustion]强度。(每个波次最多1次)\n\n使增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的加算硬币技能的最终威力+1，硬币威力+1，使目标增加的[Combustion]强度额外+1级，对目标施加的[Combustion]层数额外+1层。\n- 减算硬币技能改为基础威力+(4/硬币数)，而非硬币威力(最少+1，向下取整)\n\n增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的技能拼点胜利时，使目标敌方单位增加(剩余硬币数+1)级[Combustion]强度",
+      "desc": "回合开始时，若拥有增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的攻击技能的人格不低于5名，则在本场战斗期间触发该效果。(不包括E.G.O技能，不包括待命人员)\n\n回合开始时，对全体敌方单位(若是异想体，则改为所有部位)施加6层[Combustion]并随机使全体敌方单位增加共计15级[Combustion]强度。(每个波次最多1次)\n\n使增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的加算硬币技能的最终威力+1，硬币威力+1，使目标增加的[Combustion]强度额外+1级，对目标施加的[Combustion]层数额外+1层。\n- 减算硬币技能改为基础威力+(4/硬币数)，而非硬币威力(最少+1，向下取整)\n\n增加[Combustion]强度，施加[Combustion]层数或施加特殊烧伤的技能拼点胜利时，使目标敌方单位增加(剩余硬币数+1)级[Combustion]强度",
       "simpleDesc": [
         {
           "abilityID": 9088,
@@ -2493,7 +2493,7 @@
     {
       "id": 9093,
       "name": "荧光灯",
-      "desc": "回合结束时，若有敌方单位或异想体部位带有[Burst]，则下回合随机使1名友方单位获得1层[AttackDmgUp]或1层[Agility]。触发(带有[Burst]的敌方单位或异想体部位数量+1)次。",
+      "desc": "回合结束时，若有敌方单位或异想体部位带有[Burst]，则下回合随机使1名友方单位获得1层[AttackDmgUp]或1层[Agility]。触发(带有[Burst]的敌方单位(若是异想体，则改为所有部位)数量+1)次。",
       "simpleDesc": [
         {
           "abilityID": 9093,
@@ -2504,7 +2504,7 @@
     {
       "id": 19093,
       "name": "荧光灯+",
-      "desc": "回合结束时，若有敌方单位或异想体部位带有[Burst]，则下回合随机使1名友方单位获得1层[AttackDmgUp]或1层[Agility]。<style=\"upgradeHighlight\">触发(带有[Burst]的敌方单位或异想体部位数量+3)次</style>。",
+      "desc": "回合结束时，若有敌方单位或异想体部位带有[Burst]，则下回合随机使1名友方单位获得1层[AttackDmgUp]或1层[Agility]。<style=\"upgradeHighlight\">触发(带有[Burst]的敌方单位(若是异想体，则改为所有部位)数量+3)次</style>。",
       "simpleDesc": [
         {
           "abilityID": 19093,
@@ -2515,7 +2515,7 @@
     {
       "id": 29093,
       "name": "荧光灯++",
-      "desc": "回合结束时，若有敌方单位或异想体部位带有[Burst]，则下回合随机使1名友方单位<style=\"upgradeHighlight\">获得1层[AttackDmgUp]与1层[Agility]。</style>触发(带有[Burst]的敌方单位或异想体部位数量+3)次。",
+      "desc": "回合结束时，若有敌方单位或异想体部位带有[Burst]，则下回合随机使1名友方单位<style=\"upgradeHighlight\">获得1层[AttackDmgUp]与1层[Agility]。</style>触发(带有[Burst]的敌方单位(若是异想体，则改为所有部位)数量+3)次。",
       "simpleDesc": [
         {
           "abilityID": 29093,
@@ -2545,7 +2545,7 @@
     {
       "id": 9095,
       "name": "破碎罗盘",
-      "desc": "波次的首个回合开始时，随机对全体敌方单位(或所有异想体部位)施加共计(5+敌方单位数量×3)层[Sinking]。（若是异想体，仅其本体算作1名敌方单位）",
+      "desc": "波次的首个回合开始时，随机对全体敌方单位(若是异想体，则改为所有部位)施加共计(5+敌方单位数量×3)层[Sinking]。（若是异想体，仅其本体算作1名敌方单位）",
       "simpleDesc": [
         {
           "abilityID": 9095,
@@ -2556,7 +2556,7 @@
     {
       "id": 19095,
       "name": "破碎罗盘+",
-      "desc": "波次的首个回合开始时，随机对全体敌方单位(或所有异想体部位)施加共计<style=\"upgradeHighlight\">(10+敌方单位数量×3)层[Sinking]</style>。(若是异想体，仅其本体算作1名敌方单位)",
+      "desc": "波次的首个回合开始时，随机对全体敌方单位(若是异想体，则改为所有部位)施加共计<style=\"upgradeHighlight\">(10+敌方单位数量×3)层[Sinking]</style>。(若是异想体，仅其本体算作1名敌方单位)",
       "simpleDesc": [
         {
           "abilityID": 19095,
@@ -2567,7 +2567,7 @@
     {
       "id": 29095,
       "name": "破碎罗盘++",
-      "desc": "波次的首个回合开始时，随机对全体敌方单位(或所有异想体部位)施加共计<style=\"upgradeHighlight\">(10+敌方单位数量×4)层[Sinking]</style>。(若是异想体，仅其本体算作1名敌方单位)",
+      "desc": "波次的首个回合开始时，随机对全体敌方单位(若是异想体，则改为所有部位)施加共计<style=\"upgradeHighlight\">(10+敌方单位数量×4)层[Sinking]</style>。(若是异想体，仅其本体算作1名敌方单位)",
       "simpleDesc": [
         {
           "abilityID": 29095,

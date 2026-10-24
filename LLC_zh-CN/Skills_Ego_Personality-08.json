@@ -819,7 +819,7 @@
           "level": 1,
           "name": "涌潮悲歌",
           "abName": "斯卡蒂",
-          "desc": "若本技能仅指定1名目标，则使本技能的硬币威力+2，造成的伤害+100%(若是集中遭遇战，则以本体判定)\n[WhenUse] 若主要目标的[Sinking]强度不低于4级，则使本技能的拼点威力+1\n[BeforeAttack] 若主要目标的忧郁抗性高于1，则每相差0.1，使本技能造成的伤害+2%(最多+10%)\n[BeforeAttack] 若忧郁共鸣数不低于2，则每有1点忧郁共鸣数，使本技能造成的伤害+5%(最多+20%)\n[EndSkill] 若击杀不低于1名目标，则随机对2名敌方单位造成(每个目标的[Sinking]强度/2)点忧郁伤害(最多15点。优先按[Sinking]强度由高到低对目标造成伤害)",
+          "desc": "若本技能仅指定1名目标，则使本技能的硬币威力+2，造成的伤害+100%(若是集中遭遇战，则改为以本体判定)\n[WhenUse] 若主要目标的[Sinking]强度不低于4级，则使本技能的拼点威力+1\n[BeforeAttack] 若主要目标的忧郁抗性高于1，则每相差0.1，使本技能造成的伤害+2%(最多+10%)\n[BeforeAttack] 若忧郁共鸣数不低于2，则每有1点忧郁共鸣数，使本技能造成的伤害+5%(最多+20%)\n[EndSkill] 若击杀不低于1名目标，则随机对2名敌方单位造成(每个目标的[Sinking]强度/2)点忧郁伤害(最多15点。优先按[Sinking]强度由高到低对目标造成伤害)",
           "coinlist": [
             {
               "coindescs": [
@@ -866,7 +866,7 @@
           "level": 3,
           "name": "涌潮悲歌",
           "abName": "斯卡蒂",
-          "desc": "若本技能仅指定1名目标，则使本技能的硬币威力+2，造成的伤害+100%(若是集中遭遇战，则以本体判定)\n[WhenUse] 若主要目标的[Sinking]强度不低于4级，则使本技能的拼点威力+1\n[BeforeAttack] 若主要目标的忧郁抗性高于1，则每相差0.1，使本技能造成的伤害+<style=\"highlight\">3</style>%(最多+<style=\"highlight\">15</style>%)\n[BeforeAttack] 若忧郁共鸣数不低于2，则每有1点忧郁共鸣数，使本技能造成的伤害+<style=\"highlight\">8</style>%(最多+<style=\"highlight\">32</style>%)\n[EndSkill] 若击杀不低于1名目标，则随机对2名敌方单位造成(每个目标的[Sinking]强度/2)点忧郁伤害(最多15点。优先按[Sinking]强度由高到低对目标造成伤害)",
+          "desc": "若本技能仅指定1名目标，则使本技能的硬币威力+2，造成的伤害+100%(若是集中遭遇战，则改为以本体判定)\n[WhenUse] 若主要目标的[Sinking]强度不低于4级，则使本技能的拼点威力+1\n[BeforeAttack] 若主要目标的忧郁抗性高于1，则每相差0.1，使本技能造成的伤害+<style=\"highlight\">3</style>%(最多+<style=\"highlight\">15</style>%)\n[BeforeAttack] 若忧郁共鸣数不低于2，则每有1点忧郁共鸣数，使本技能造成的伤害+<style=\"highlight\">8</style>%(最多+<style=\"highlight\">32</style>%)\n[EndSkill] 若击杀不低于1名目标，则随机对2名敌方单位造成(每个目标的[Sinking]强度/2)点忧郁伤害(最多15点。优先按[Sinking]强度由高到低对目标造成伤害)",
           "coinlist": [
             {
               "coindescs": [
@@ -913,7 +913,7 @@
           "level": 4,
           "name": "涌潮悲歌",
           "abName": "斯卡蒂",
-          "desc": "若本技能仅指定1名目标，则使本技能的硬币威力+2，造成的伤害+100%(若是集中遭遇战，则以本体判定)\n[WhenUse] 主要目标<style=\"highlight\">每带有4级[Sinking]强度，使本技能的拼点威力+1(最多+2)</style>\n[BeforeAttack] 若主要目标的忧郁抗性高于1，则每相差0.1，使本技能造成的伤害+<style=\"highlight\">5</style>%(最多+<style=\"highlight\">20</style>%)\n[BeforeAttack] 若忧郁共鸣数不低于2，则每有1点忧郁共鸣数，使本技能造成的伤害+<style=\"highlight\">10</style>%(最多+<style=\"highlight\">40</style>%)\n[EndSkill] 若击杀不低于1名目标，则随机对2名敌方单位造成(每个目标的[Sinking]强度/2)点忧郁伤害(最多15点。优先按[Sinking]强度由高到低对目标造成伤害)",
+          "desc": "若本技能仅指定1名目标，则使本技能的硬币威力+2，造成的伤害+100%(若是集中遭遇战，则改为以本体判定)\n[WhenUse] 主要目标<style=\"highlight\">每带有4级[Sinking]强度，使本技能的拼点威力+1(最多+2)</style>\n[BeforeAttack] 若主要目标的忧郁抗性高于1，则每相差0.1，使本技能造成的伤害+<style=\"highlight\">5</style>%(最多+<style=\"highlight\">20</style>%)\n[BeforeAttack] 若忧郁共鸣数不低于2，则每有1点忧郁共鸣数，使本技能造成的伤害+<style=\"highlight\">10</style>%(最多+<style=\"highlight\">40</style>%)\n[EndSkill] 若击杀不低于1名目标，则随机对2名敌方单位造成(每个目标的[Sinking]强度/2)点忧郁伤害(最多15点。优先按[Sinking]强度由高到低对目标造成伤害)",
           "coinlist": [
             {
               "coindescs": [

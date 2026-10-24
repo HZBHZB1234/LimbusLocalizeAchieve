@@ -10087,7 +10087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有符咒 ，则对目标施加1层破裂 "
+                  "desc": "[OnSucceedAttack] 若目标带有[Talisman]，则对目标施加1层破裂 "
                 }
               ]
             }
@@ -10108,7 +10108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有符咒 ，则对目标施加3层破裂 "
+                  "desc": "[OnSucceedAttack] 若目标带有[Talisman]，则对目标施加3层破裂 "
                 }
               ]
             }

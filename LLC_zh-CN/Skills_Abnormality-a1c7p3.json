@@ -299,7 +299,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标带有[AffectionTeddy]，则消耗目标的[AffectionTeddy]并对其施加相应层数的诅咒 与[NailPersonality](最多消耗4层)"
+                  "desc": "[OnSucceedAttack] 若目标带有[AffectionTeddy]，则消耗目标的[AffectionTeddy]并对其施加相应层数的[Curse]与[NailPersonality](最多消耗4层)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目标的[Curse]层数不低于4层，则消耗其4层[Curse]并对其施加1层[CursePackage]"

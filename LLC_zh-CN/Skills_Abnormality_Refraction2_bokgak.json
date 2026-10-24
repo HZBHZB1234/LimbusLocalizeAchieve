@@ -271,7 +271,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的混乱阈值前移相当于自身[Breath]强度的数值"
+                  "desc": "[OnSucceedAttack] 使目标的混乱阈值前移相当于自身[Breath]强度的数值"
                 }
               ]
             },
@@ -306,7 +306,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若自身的[Breath]强度不低于5级，则使目标的混乱阈值前移本硬币伤害量的50%"
+                  "desc": "[OnSucceedAttack] 若自身的[Breath]强度不低于5级，则使目标的混乱阈值前移本硬币伤害量的50%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使所有部位增加8级[Breath]强度并使所有部位获得4层[Breath]"

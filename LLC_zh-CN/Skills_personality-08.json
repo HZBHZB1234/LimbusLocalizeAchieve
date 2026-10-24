@@ -1951,7 +1951,7 @@
         {
           "level": 4,
           "name": "光斩",
-          "desc": "[CantDuel]\n本技能不会触发守备技能，且不会因外部效果而重复使用\n\n[WhenUse] 若自身的[HanafudaCombo]强度低于3级，则取消本技能，并在下回合使自身获得2层[Enhancement]\n[WhenUse] 若自身的[HanafudaCombo]强度不低于3级，则根据其强度触发以下效果：\n- 每1级，使本技能造成的伤害+10%\n- 不低于4级，使本技能的基础威力+1\n- 5级，最后一枚重复使用的硬币命中时，使目标[VibrationExplosion]2次，并使其减少1层[Vibration]\n[EndSkillAll] 解除自身所有[HanafudaCombo]\n[EndSkillAll] 下回合根据自身持有的基础攻击技能，使自身的组札转化为随机一种对应的组札（每回合最多1次）\n[EndSkillAll] 根据本技能未使用的硬币数，下回合使自身增加相应的[HanafudaCombo]强度<style=\"highlight\"></style>",
+          "desc": "[CantDuel]\n本技能不会触发守备技能，且不会因外部效果而重复使用\n\n[WhenUse] 若自身的[HanafudaCombo]强度低于3级，则取消本技能，并在下回合使自身获得2层[Enhancement]\n[WhenUse] 若自身的[HanafudaCombo]强度不低于3级，则根据其强度触发以下效果：\n- 每1级，使本技能造成的伤害+10%\n- 不低于4级，使本技能的基础威力+1\n- 5级，最后一枚重复使用的硬币命中时，使目标[VibrationExplosion]2次，并使其减少1层[Vibration]\n[EndSkillAll] 解除自身所有[HanafudaCombo]\n[EndSkillAll] 下回合根据自身持有的基础攻击技能，使自身的组札转化为随机一种对应的组札(每回合最多1次)\n[EndSkillAll] 根据本技能未使用的硬币数，下回合使自身增加相应的[HanafudaCombo]强度<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [

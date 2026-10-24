@@ -64,7 +64,7 @@
         {
           "level": 1,
           "name": "硬血强化斩击",
-          "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的基础威力+1\n自身每带有1层硬化血液 ，使本技能造成的伤害+5%(最多+25%)\n[EndSkill] 消耗所有[HardenedBlood]与[BloodScissor]",
+          "desc": "[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的基础威力+1\n自身每带有1层[HardenedBlood]，使本技能造成的伤害+5%(最多+25%)\n[EndSkill] 消耗所有[HardenedBlood]与[BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
@@ -157,7 +157,7 @@
         {
           "level": 1,
           "name": "现在还能参加活动！",
-          "desc": "[WhenUse] 消耗最多50层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层染血的剪刃 \n[WhenUse] 若本技能未消耗[BloodDinner]，则使自身增加5级[Laceration]强度并使自身获得1层硬化血液 \n[WhenUse] 若目标的[Laceration]强度不低于5级，则使本技能硬币威力+1",
+          "desc": "[WhenUse] 消耗最多50层[BloodDinner]，每消耗10层[BloodDinner]，使自身获得1层[BloodScissor]\n[WhenUse] 若本技能未消耗[BloodDinner]，则使自身增加5级[Laceration]强度并使自身获得1层[HardenedBlood]\n[WhenUse] 若目标的[Laceration]强度不低于5级，则使本技能硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -183,7 +183,7 @@
         {
           "level": 1,
           "name": "别着急",
-          "desc": "[WhenUse] 若目标的[Laceration]强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 自身每带有1层染血的剪刃 ，使本技能拼点威力+1(最多+3)\n自身每带有1层硬化血液 ，使本技能造成的伤害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 ",
+          "desc": "[WhenUse] 若目标的[Laceration]强度不低于5级，则使本技能的硬币威力+1\n[WhenUse] 自身每带有1层[BloodScissor]，使本技能拼点威力+1(最多+3)\n自身每带有1层[HardenedBlood]，使本技能造成的伤害+7%(最多+35%)\n[EndSkill] 消耗所有[HardenedBlood]",
           "coinlist": [
             {
               "coindescs": [
@@ -348,7 +348,7 @@
         {
           "level": 1,
           "name": "反击",
-          "desc": "[WhenUse] 若自身的染血之手 层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的硬化血液 层数不低于3层，则使本技能的硬币威力+1",
+          "desc": "[WhenUse] 若自身的[BloodyHand]层数不低于1层，则使本技能的基础威力+1\n[WhenUse] 若自身的[HardenedBlood]层数不低于3层，则使本技能的硬币威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -448,7 +448,7 @@
         {
           "level": 1,
           "name": "永远的幸福王国拉·曼却领！",
-          "desc": "[WhenUse] 若[BloodDinner]低于40层，则使自身增加20级[Laceration]强度并对自身施加2层[Laceration]，立即触发自身的[Laceration]2次，随后使自身的[Laceration]层数减少2层\n[EndSkill] 消耗40层[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
+          "desc": "[WhenUse] 若[BloodDinner]低于40层，则使自身增加20级[Laceration]强度并对自身施加2层[Laceration]，立即触发自身的[Laceration]2次，随后使自身的[Laceration]层数减少2层\n[EndSkill] 消耗40层[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]",
           "coinlist": [
             {
               "coindescs": [
@@ -480,7 +480,7 @@
         {
           "level": 1,
           "name": "闪避",
-          "desc": "[WhenUse] 若自身的庆典的热潮 层数不低于5层，则使本技能的最终威力+2\n[StartBattle] 使自身获得3层庆典的热潮 \n[OnDefeatEvade] 使自身失去3层庆典的热潮 ",
+          "desc": "[WhenUse] 若自身的[FestivalFever]层数不低于5层，则使本技能的最终威力+2\n[StartBattle] 使自身获得3层[FestivalFever]\n[OnDefeatEvade] 使自身失去3层[FestivalFever]",
           "coinlist": [
             {}
           ]

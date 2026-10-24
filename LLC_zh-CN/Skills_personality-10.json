@@ -335,7 +335,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加决斗宣告-辛克莱 "
+                  "desc": "[OnSucceedAttack] 对目标施加[DuelDeclaration_Sinclair]"
                 }
               ]
             },
@@ -357,7 +357,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加决斗宣告-辛克莱 "
+                  "desc": "[OnSucceedAttack] 对目标施加[DuelDeclaration_Sinclair]"
                 }
               ]
             },

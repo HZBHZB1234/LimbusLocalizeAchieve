@@ -385,7 +385,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加决斗宣告-奥提斯 "
+                  "desc": "[OnSucceedAttack] 对目标施加[DuelDeclaration_Outis]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使速度值最低的2名友方单位在下回合获得1层迅捷 "
@@ -405,7 +405,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加决斗宣告-奥提斯 "
+                  "desc": "[OnSucceedAttack] 对目标施加[DuelDeclaration_Outis]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使速度值最低的2名友方单位在下回合获得2层迅捷 "
