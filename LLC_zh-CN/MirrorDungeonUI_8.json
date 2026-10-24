@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "mirror_dungeon_progress_text_8",
+      "content": "西西弗之镜 第{0}层"
+    },
+    {
+      "id": "mirror_dungeon_start_buff_Panel_title_md8",
+      "content": "西西弗的星之恩惠"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked_8",
+      "content": "通关第9章后解锁。"
+    },
+    {
+      "id": "mirrordungeon_theme_hard_blocked_short_8",
+      "content": "通关第9章"
+    },
+    {
+      "id": "mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_110",
+      "content": "该主题卡包将在以下条件达成后解锁：通关9.5-26与第10章。"
+    },
+    {
+      "id": "mirrordungeon_theme_pack_blocked_short_110",
+      "content": "通关9.5-26与第10章"
+    }
+  ]
+}

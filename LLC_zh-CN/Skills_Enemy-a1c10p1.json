@@ -311,7 +311,7 @@
           "level": 1,
           "name": "翻寻",
           "desc": "若目标的[Laceration]强度不低于6级，则使本技能的最终威力+1",
-          "flavor": "理应会有的…理应会有什么东西才对…",
+          "flavor": "理应会有的……理应会有什么东西才对……",
           "coinlist": [
             {
               "coindescs": [
@@ -419,7 +419,7 @@
           "level": 1,
           "name": "翻寻",
           "desc": "若目标的[Laceration]强度不低于6级，则使本技能的最终威力+1",
-          "flavor": "理应会有的…理应会有什么东西才对…",
+          "flavor": "理应会有的……理应会有什么东西才对……",
           "coinlist": [
             {
               "coindescs": [

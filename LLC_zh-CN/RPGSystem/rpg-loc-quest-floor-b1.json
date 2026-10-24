@@ -6,11 +6,11 @@
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "进入B1F美食广场"
+          "goalDescription1": "进入B1F食品区"
         },
         {
           "index": 1,
-          "goalDescription1": "美食广场进入对话"
+          "goalDescription1": "食品区进入对话"
         }
       ]
     },
@@ -61,7 +61,7 @@
     {
       "key": "Q-1005",
       "title": "前往屠夫处",
-      "description": "从副主厨处了解到了关于B1F经理屠夫的事。前往屠夫处去问问他如何获得黄金之茧吧。",
+      "description": "从副主厨处了解到了关于B1F的楼层经理屠夫的事。前往屠夫处去问问他如何获得黄金之茧吧。",
       "steps": [
         {
           "index": 0,

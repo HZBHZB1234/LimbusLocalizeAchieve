@@ -46,12 +46,12 @@
     },
     {
       "key": "Q-2004",
-      "title": "与B2F 楼层经理对话",
+      "title": "与B2F楼层经理交谈",
       "description": "安全地抵达了线团之巢。见到了B2F的楼层经理。向他询问能否用黄金之茧制作黄金线团吧。",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "与B2F 楼层经理交谈"
+          "goalDescription1": "与B2F楼层经理交谈"
         }
       ]
     },
@@ -99,7 +99,7 @@
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "寻找待命中的黑派"
+          "goalDescription1": "寻找等待中的黑派"
         }
       ]
     },

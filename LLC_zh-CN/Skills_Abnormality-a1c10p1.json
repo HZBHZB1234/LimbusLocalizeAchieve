@@ -1880,7 +1880,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "噗…呼…",
+          "name": "吱…唔…",
           "desc": "[WhenUse] 主要目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] 若主要目标未带有[Laceration]，则使本技能造成的伤害-80%并使本技能的所有硬币转化为[SuperCoin]</u></b></mark></color>",
           "coinlist": [
             {

@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_58_1",
+      "dlg": "……啊，现在必须说话吗？……为什么？……声援吗。知道了。加油……！"
+    },
+    {
+      "id": "announcer_cheer_58_2",
+      "dlg": "我……一直很饿，但是每次看到你们，我都会把它忘掉。为什么会这样？"
+    },
+    {
+      "id": "announcer_specialcheer_58_1",
+      "dlg": "异乡人们，身上的衣服在一点点染红。就像红派的衣服一样。……从现在开始，你们要成为我的追随者了吗？"
+    },
+    {
+      "id": "announcer_specialcheer_58_2",
+      "dlg": "那是在，叹气……是吗？在痛苦的时候才会叹气。你们……很累吧。"
+    },
+    {
+      "id": "announcer_enemy_break_58_1",
+      "dlg": "摇摇晃晃的……是因为……很痛吗？"
+    },
+    {
+      "id": "announcer_ally_break_58_1",
+      "dlg": "为什么要像那样站着不动？唔……脚痛吗？\n……虽然讨厌等待……但我会等着的。"
+    },
+    {
+      "id": "announcer_killenemy_58_1",
+      "dlg": "死了的话就不能动吗……？为什么……？不对，还能站起来的……因为我讨厌就那么结束。"
+    },
+    {
+      "id": "announcer_ally_dead_58_1",
+      "dlg": "不动了。唔……应该也不会感觉到痛了。我们很快就能在泉再见面的。"
+    },
+    {
+      "id": "announcer_enemy_adv_58_1",
+      "dlg": "……一个又一个，大家都不动了。要是大家都停下，是不是就只剩我一个了？"
+    },
+    {
+      "id": "announcer_ally_adv_58_1",
+      "dlg": "那边正在喷血，你们却一脸轻松地把它切下来了。\n……啊，这就叫做“翻新”吗？"
+    },
+    {
+      "id": "announcer_ally_advex_58_1",
+      "dlg": "好惊人。我完全没想到……会变成这样。果然……异乡人们很强呢。"
+    },
+    {
+      "id": "announcer_danger_58_1",
+      "dlg": "好像……很快就会结束了。而且，结束之后可能谁也不会留下……\n可是我想要我们在结束的时候也待在一起。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_58_1",
+      "dlg": "……翻涌着。摇荡着。很快……就会喷涌出来。……还是躲开比较好？"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_58_1",
+      "dlg": "我，知道这个。是游戏对吧？定好规则，然后一起玩的那个。我也想玩。"
+    },
+    {
+      "id": "announcer_advatk_physical_58_1",
+      "dlg": "发出了皮肤被撕裂的悦耳声音。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_58_1",
+      "dlg": "……我，正在举手呢。我又有想问的事情了。……为什么，要做出那种选择？"
+    },
+    {
+      "id": "announcer_advatk_attr_58_1",
+      "dlg": "为我……唱歌的那个人说过。穿着好皮革做成的衣服活动的话……会发出很悦耳的声音。……好像真的是这样。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_58_1",
+      "dlg": "发出了皮革被压烂的声音。……我讨厌的声音。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_58_1",
+      "dlg": "看上去就像是吃了很多东西一样精神。可是在我看着的这段时间里，那边明明什么都没吃。\n……难道还有其他摄取的方法吗？"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_58_1",
+      "dlg": "那边好像饿了……有气无力，摇摇晃晃的。我也，肚子饿了。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_58_1",
+      "dlg": "……既然有吃的，不是可以分给我一点吗。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_58_1",
+      "dlg": "你们……好像不是很好。是饿了吗？唔，我没有能分给你们的东西。\n……我也有些饿了。"
+    },
+    {
+      "id": "announcer_enemy_destroy_58_1",
+      "dlg": "啊，有什么掉下来了。这就是……被“料理”了吗？像咕扭那样。"
+    },
+    {
+      "id": "announcer_enemy_destroy_58_2",
+      "dlg": "那个……不是食物吗？为什么大家都不吃？\n都不吃的话……我来吃。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_58_1",
+      "dlg": "看上去……很痛。疼痛，明明不是好东西。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_58_2",
+      "dlg": "我，不想要你们受伤。虽然不追随我的声音……但你们是会好好听我说话的异乡人，所以我希望你们能听我说的话，不要受伤。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_58_1",
+      "dlg": "像这样，一直，前进就好了。因为我必须爬得更高。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_58_2",
+      "dlg": "那边是……沉落了吗？可是也没有别的办法了。那边不沉落的话，就会是你们……沉下去。"
+    },
+    {
+      "id": "announcer_multikillenemy_58_1",
+      "dlg": "全都倒下了。从近处的这些，到远处的那些。……原来你们也会这么做。"
+    },
+    {
+      "id": "announcer_battle_win_58_1",
+      "dlg": "结束了。往上面走就好。\n……你们，到了上面也会和我待在一起吧？"
+    },
+    {
+      "id": "announcer_battle_defeat_58_1",
+      "dlg": "……别担心。你们还能再次站起来的。"
+    },
+    {
+      "id": "announcer_equip_58_1",
+      "dlg": "这是，什么？……明白了。必须成为声音才行吗。\n我的名字是……吱咿。应该是吱咿。在这里说的话，你们能听得见吗？"
+    }
+  ]
+}

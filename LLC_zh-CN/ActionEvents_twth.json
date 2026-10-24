@@ -29,7 +29,7 @@
       "options": [
         {
           "message": "拿走。",
-          "messageDesc": "色欲优势判定 成功时，获得1件泛用E.G.O饰品"
+          "messageDesc": "色欲优势判定 成功时，获得1件流血E.G.O饰品"
         },
         {
           "message": "不去拿。",
@@ -65,7 +65,7 @@
       "options": [
         {
           "message": "拿走。",
-          "messageDesc": "色欲优势判定 成功时，获得1件泛用E.G.O饰品"
+          "messageDesc": "色欲优势判定 成功时，获得1件流血E.G.O饰品"
         },
         {
           "message": "不去拿。",

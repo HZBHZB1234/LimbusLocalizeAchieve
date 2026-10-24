@@ -1,0 +1,122 @@
+{
+  "dataList": [
+    {
+      "id": 9284,
+      "name": "过时的红派服饰",
+      "desc": "友方单位通过基础攻击技能的技能或硬币效果恢复体力时，使恢复的体力+50%(每回合最多3次，向下取整)\n\n[高级定制::红派精品店 以实玛利专属]\n若高级定制::红派 赤红之神 辛克莱与自身同时在场，则回合开始时使自身获得1层[RougeIshmaelCocoon]并进入[RougeIshmaelCocoon]状态(每场战斗最多1次)\n- 若被动“进入<noparse>更衣室</noparse>…”的“本场战斗中，自身受到使自身体力降至0点的伤害时，无视该伤害，并立即使自身获得2层[RougeIshmaelCocoon]并进入[RougeIshmaelCocoon]状态(每场战斗最多1次)”效果触发，则专属效果不会触发\n- 若专属效果触发，则被动的“进入<noparse>更衣室</noparse>…”的“本场战斗中，自身受到使自身体力降至0点的伤害时，无视该伤害，并立即使自身获得2层[RougeIshmaelCocoon]并进入[RougeIshmaelCocoon]状态(每场战斗最多1次)”效果不会触发",
+      "simpleDesc": [
+        {
+          "abilityID": 9284,
+          "simpleDesc": "立即进入[RougeIshmaelCocoon]状态"
+        },
+        {
+          "abilityID": 92841,
+          "simpleDesc": "额外恢复体力"
+        }
+      ]
+    },
+    {
+      "id": 9285,
+      "name": "碳酸饮料",
+      "desc": "本回合不低于1次试图通过自身的技能或硬币效果恢复体力的罪人在下回合使其技能造成的伤害+10%并获得(该回合试图恢复量/10)层[AttackUp](最多6层，向下取整)\n\n若场上有与自身属于同一阵营的人格，则使自身获得层数相当于除自身以外与自身属于同一阵营的人格通过以上效果获得的[AttackUp]层数一半的[AttackUp](最少1层，每回合最多3层，向下取整)",
+      "simpleDesc": [
+        {
+          "abilityID": 9285,
+          "simpleDesc": "造成的伤害增加[TabExplain]，获得[AttackUp]"
+        }
+      ]
+    },
+    {
+      "id": 9286,
+      "name": "黑派品牌世家休闲裤",
+      "desc": "[Charge]强度不低于2级的友方单位触发[VibrationExplosion]时，触发以下效果\n- 对目标造成(自身的[Charge]强度与层数之积)点嫉妒伤害(每个技能最多2次，每次最多100点)\n- 若通过以上效果造成了2次嫉妒伤害，则下回合对目标施加3层[Binding]\n\n友方单位通过技能触发[VibrationExplosion]时，下回合使其获得(其[Charge]强度/3)层[AttackUp](每回合最多5层，向下取整)",
+      "simpleDesc": [
+        {
+          "abilityID": 9286,
+          "simpleDesc": "造成嫉妒伤害并施加[Binding]"
+        },
+        {
+          "abilityID": 92861,
+          "simpleDesc": "获得[AttackUp]"
+        }
+      ]
+    },
+    {
+      "id": 9287,
+      "name": "黑派玛丽珍鞋",
+      "desc": "战斗开始时带有的护盾最高的人格攻击命中时，对目标造成相当于该人格现存护盾50%的怠惰伤害(每个技能最多2次，每次最多100点，向下取整)\n- 若带有的护盾相同的人格不低于2名，则按编队顺序适用\n\n若该人格为[PersonalityCharge]，则改为造成相当于其护盾100%的怠惰伤害(每个技能最多3次，每次最多100点，向下取整)",
+      "simpleDesc": [
+        {
+          "abilityID": 9287,
+          "simpleDesc": "根据护盾相应造成怠惰伤害"
+        }
+      ]
+    },
+    {
+      "id": 9288,
+      "name": "裁缝之王的直针",
+      "desc": "回合开始时，若没有敌方单位带有[SewingKingMark]，则随机对1名敌方单位施加[SewingKingMark](若是集中遭遇战，则以部位判定)",
+      "simpleDesc": [
+        {
+          "abilityID": 9288,
+          "simpleDesc": "施加[SewingKingMark]，阵亡时造成固定伤害"
+        }
+      ]
+    },
+    {
+      "id": 9289,
+      "name": "软骨",
+      "desc": "消耗[Charge]层数或特殊[Charge]的技能造成的伤害+(自身的[Charge]强度×2)%(最多+10%)\n\n回合结束时，若本回合自身消耗了[Charge]层数或特殊[Charge]，则下回合使自身获得1层[Agility]\n\n若目标的速度值低于自身，则使自身的拼点威力+1\n- 若自身属于西西弗，则改为最终威力+1",
+      "simpleDesc": [
+        {
+          "abilityID": 9289,
+          "simpleDesc": "造成的伤害，拼点威力与最终威力增加[TabExplain]，获得[Agility]"
+        }
+      ]
+    },
+    {
+      "id": 9290,
+      "name": "毛毯",
+      "desc": "本回合装备了守备技能的人格受到来自敌方单位攻击的伤害-20%\n- 战斗结束时，若自身为[PersonalityCharge]，则下回合使自身获得2层[AttackUp]\n- 战斗结束时，若自身属于西西弗，则下回合使自身获得1层[ResultEnhancement]",
+      "simpleDesc": [
+        {
+          "abilityID": 9290,
+          "simpleDesc": "受到的伤害减少[TabExplain]，获得[AttackUp]或[ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9291,
+      "name": "饰花剪刀",
+      "desc": "[第1顺位友方单位专属]\n\n属于西西弗的人格或[PersonalityCharge]基础技能的最后一枚硬币命中时，对主要目标造成相当于该硬币最终伤害量5%的斩击伤害(每个技能最多1次)",
+      "simpleDesc": [
+        {
+          "abilityID": 9291,
+          "simpleDesc": "对主要目标造成斩击伤害[TabExplain]"
+        }
+      ]
+    },
+    {
+      "id": 19291,
+      "name": "饰花剪刀+",
+      "desc": "[第1顺位友方单位专属]\n\n属于西西弗的人格或[PersonalityCharge]基础技能的最后一枚硬币命中时，对主要目标造成相当于该硬币最终伤害量<style=\"upgradeHighlight\">10%</style>的斩击伤害(每个技能最多1次)",
+      "simpleDesc": [
+        {
+          "abilityID": 19291,
+          "simpleDesc": "对主要目标造成斩击伤害[TabExplain]"
+        }
+      ]
+    },
+    {
+      "id": 29291,
+      "name": "饰花剪刀++",
+      "desc": "[第1顺位友方单位专属]\n\n属于西西弗的人格或[PersonalityCharge]基础技能的最后一枚硬币命中时，对主要目标造成相当于该硬币最终伤害量<style=\"upgradeHighlight\">15%</style>的斩击伤害(每个技能最多1次)",
+      "simpleDesc": [
+        {
+          "abilityID": 29291,
+          "simpleDesc": "对主要目标造成斩击伤害[TabExplain]"
+        }
+      ]
+    }
+  ]
+}

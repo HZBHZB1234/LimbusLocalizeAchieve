@@ -1578,7 +1578,7 @@
         {
           "level": 1,
           "name": "享乐(la jouissance)",
-          "desc": "可无视速度值与本技能拼点\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>场上每有1名红派 高级工作人员，使自身恢复15点理智值并使本技能的拼点威力+2</u></b></mark></color>\n[WhenUse] 若全体红派 高级工作人员均<color=#ff6000><mark=#ff000040><b><u>处于阵亡状态</u></b></mark></color>，则使本技能的拼点威力-3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>对自身施加1层[BuffetDream]。</u></b></mark></color>使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，\n[EndSkill] 使主要目标的[BuffetScruple]转化为[BuffetResolve]",
+          "desc": "可无视速度值与本技能拼点\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>场上每有1名红派 高级工作人员，使自身恢复15点理智值并使本技能的拼点威力+2</u></b></mark></color>\n[WhenUse] 若全体红派 高级工作人员均<color=#ff6000><mark=#ff000040><b><u>处于阵亡状态</u></b></mark></color>，则使本技能的拼点威力-3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>对自身施加1层[BuffetDream]，</u></b></mark></color>使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱。\n[EndSkill] 使主要目标的[BuffetScruple]转化为[BuffetResolve]",
           "coinlist": [
             {
               "coindescs": [
@@ -1867,7 +1867,7 @@
         {
           "level": 1,
           "name": "享乐(la jouissance)",
-          "desc": "可无视速度值与本技能拼点\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>若主要目标带有[BuffetScruple]</u></b></mark></color>，则使自身失去20点理智值并使本技能的硬币威力-3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>对自身施加1层[BuffetDream]。</u></b></mark></color>使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱，\n[EndSkill] 使主要目标的[BuffetScruple]转化为[BuffetResolve]",
+          "desc": "可无视速度值与本技能拼点\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>若主要目标带有[BuffetScruple]</u></b></mark></color>，则使自身失去20点理智值并使本技能的硬币威力-3\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>对自身施加1层[BuffetDream]，</u></b></mark></color>使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱。\n[EndSkill] 使主要目标的[BuffetScruple]转化为[BuffetResolve]",
           "coinlist": [
             {
               "coindescs": [
@@ -1914,7 +1914,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "父系隐喻(la métaphore paternelle)",
+          "name": "父性隐喻(la métaphore paternelle)",
           "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n本技能在本回合最后使用\n[EndSkill] 使自身恢复体力上限25%的体力",
           "coinlist": [
             {

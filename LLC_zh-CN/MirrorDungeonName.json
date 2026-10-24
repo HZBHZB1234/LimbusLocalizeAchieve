@@ -79,6 +79,18 @@
     {
       "id": "mirrordungeon_name_7_1",
       "content": "名与蛛之镜 [HARD]"
+    },
+    {
+      "id": "mirrordungeon_name_8",
+      "content": "西西弗之镜"
+    },
+    {
+      "id": "mirrordungeon_name_8_0",
+      "content": "西西弗之镜[NORMAL]"
+    },
+    {
+      "id": "mirrordungeon_name_8_1",
+      "content": "西西弗之镜[HARD]"
     }
   ]
 }

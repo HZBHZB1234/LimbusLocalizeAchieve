@@ -2396,6 +2396,797 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "驱力(la pulsion)",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] 使自身获得5层[ChargeRougeAlly]\n- 若目标为友方单位，则使自身额外获得5层[ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 若目标为友方单位，则触发以下效果(每回合最多2次)\n- 使目标恢复其体力上限10%的体力\n· 若目标属于红派，则改为消耗其体力上限20%的体力并使其获得2层[ResultEnhancement]\n- 使目标恢复10点理智值\n· 若目标理智值为最大值，则改为使其获得4层[Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "驱力(la pulsion)",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] 目标每带有4级[Laceration]强度，使本技能的拼点威力+1(最多+2)</style>\n[WhenUse] 使自身获得5层[ChargeRougeAlly]\n- 若目标为友方单位，则使自身额外获得5层[ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 若目标为友方单位，则触发以下效果(每回合最多2次)\n- 使目标恢复其体力上限10%的体力\n· 若目标属于红派，则改为消耗其体力上限20%的体力并使其获得2层[ResultEnhancement]\n- 使目标恢复10点理智值\n· 若目标理智值为最大值，则改为使其获得4层[Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "驱力(la pulsion)",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] 使本技能的攻击容量+(自身的[ChargeRougeAlly]强度-1)(最多+2)\n- 优先指定属于红派的友方单位为次要目标，按现存体力比例由低到高指定目标</style>\n\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的拼点威力+1(最多+2)\n[WhenUse] 使自身获得5层[ChargeRougeAlly]\n- 若目标为友方单位，则使自身额外获得5层[ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 若目标为友方单位，则触发以下效果(每回合最多2次)\n<style=\"highlight\">- 使目标恢复其体力上限(10+自身的[ChargeRougeAlly]强度)%的体力(最多15%)</style>\n· 若目标属于红派，则改为消耗其体力上限20%的体力并使其获得2层[ResultEnhancement]\n<style=\"highlight\">- 使目标恢复(10+自身的[ChargeRougeAlly]强度)点理智值(最多15点)</style>\n· 若目标理智值为最大值，则改为使其获得4层[Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我来帮忙(je vous aide)",
+          "desc": "[CantDuel]\n本技能不会触发守备技能\n\n若自身处于[BuffetSinclair]状态，则使本技能造成的伤害+50%\n[WhenUse] 使自身获得5层[HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "我来帮忙(je vous aide)",
+          "desc": "[CantDuel]\n本技能不会触发守备技能\n\n若自身处于[BuffetSinclair]状态，则使本技能造成的伤害+50%\n<style=\"highlight\">[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+4)</style>\n[WhenUse] 使自身获得5层[HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "我来帮忙(je vous aide)",
+          "desc": "[CantDuel]\n本技能不会触发守备技能\n\n若自身处于[BuffetSinclair]状态，则使本技能造成的伤害+50%\n<style=\"highlight\">目标每失去1%的体力，使本技能造成的伤害+5%(最多+100%)</style>\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+4)\n[WhenUse] 使自身获得5层[HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 对目标施加1层[ScarletTakeDamageUp](每回合最多1次)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101606,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "自我排泄(je m'expulse)",
+          "desc": "[TransformSinclair]专用技能\n[WhenUse] 使自身获得3层[ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "自我排泄(je m'expulse)",
+          "desc": "[TransformSinclair]专用技能\n<style=\"highlight\">[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1</style>\n[WhenUse] 使自身获得3层[ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 对目标施加2层[BoneNailSinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "食欲(l'appétit)",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] 使自身获得3层[ChargeRougeAlly]\n[WhenUse] 若目标为友方单位，则在触发本技能第1枚硬币效果后结束本技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 若目标为友方单位，则触发以下效果\n- 使目标获得1层[BuffetThirst]\n- 若目标为[PersonalityCharge]，则使其获得4层[Charge]\n- 若目标属于红派，则消耗其体力上限10%的体力并使其获得2层[AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "食欲(l'appétit)",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] 自身每带有3层[ChargeRougeAlly]，使本技能的拼点威力+1(最多+3)</style>\n[WhenUse] 使自身获得3层[ChargeRougeAlly]\n[WhenUse] 若目标为友方单位，则在触发本技能第1枚硬币效果后结束本技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 若目标为友方单位，则触发以下效果\n- 使目标获得1层[BuffetThirst]\n- 若目标为[PersonalityCharge]，则使其获得4层[Charge]\n- 若目标属于红派，则消耗其体力上限10%的体力并使其获得2层[AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "食欲(l'appétit)",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] 自身每带有2级[ChargeRougeAlly]强度，使本技能的攻击容量+1(最多+2)\n- 优先指定属于红派的友方单位为次要目标，按现存体力比例由高到低指定目标</style>\n\n[WhenUse] 自身每带有3层[ChargeRougeAlly]，使本技能的拼点威力+1(最多+3)\n[WhenUse] 使自身获得3层[ChargeRougeAlly]\n[WhenUse] 若目标为友方单位，则在触发本技能第1枚硬币效果后结束本技能",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 若目标为友方单位，则触发以下效果\n<style=\"highlight\">- 使目标获得1层[ParryingResultUp]与1层[BuffetThirst]</style>\n- 若目标为[PersonalityCharge]，则使其获得4层[Charge]\n- 若目标属于红派，则消耗其体力上限10%的体力并使其获得2层[AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101607,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "自我卑贱化(je m'abjecte)",
+          "desc": "[TransformSinclair]专用技能\n[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1\n\n[BeforeAttack] 消耗除自身以外的2名友方单位体力上限15%的体力\n- 优先指定属于红派的友方单位，按现存体力比例由高到低指定目标\n- 每消耗了1名友方单位的体力，使本技能造成的伤害+15%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]\n- 若自身处于[BuffetSinclair]状态，则改为施加2层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[ScarletTakeDamageUp](每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "自我卑贱化(je m'abjecte)",
+          "desc": "[TransformSinclair]专用技能\n<style=\"highlight\">[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1</style>\n[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1\n\n[BeforeAttack] 消耗除自身以外的2名友方单位体力上限15%的体力\n- 优先指定属于红派的友方单位，按现存体力比例由高到低指定目标\n- 每消耗了1名友方单位的体力，使本技能造成的伤害+15%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]\n- 若自身处于[BuffetSinclair]状态，则改为施加2层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[ScarletTakeDamageUp](每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101608,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "要求(la demande)",
+          "desc": "[CantDuel]\n[TransformSinclair]专用技能\n本技能不会触发守备技能\n\n目标每带有3级[Laceration]强度，使本技能造成的伤害+5%(最多+30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 解除目标所有[BoneNailSinclair]并在下回合对其施加1层[ScarletTakeDamageUp](每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "要求(la demande)",
+          "desc": "[CantDuel]\n[TransformSinclair]专用技能\n本技能不会触发守备技能\n\n目标每带有3级[Laceration]强度，使本技能造成的伤害+5%(最多+30%)\n<style=\"highlight\">[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 解除目标所有[BoneNailSinclair]并在下回合对其施加<style=\"highlight\">2</style>层[ScarletTakeDamageUp](每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "赤红洗礼(le baptême rouge)",
+          "desc": "[StartBattle] 消耗除自身以外的2名友方单位体力上限15%的体力并使其获得3层[AttackUp]\n- 在现存体力不低于50%的友方单位中按现存体力由高到低指定\n- 属于红派的友方单位现存体力不低于2点时，无视其体力优先指定，且改为消耗其体力上限25%的体力并使其额外获得1层[Enhancement]\n\n[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1\n\n[WhenUse] 若自身处于[BuffetSinclair]状态，则使本技能的所有硬币转化为[SuperCoin]\n- 若自身的[ChargeRougeAlly]层数不低于10层，则消耗最多10层[ChargeRougeAlly]并使本技能的攻击容量+2，硬币威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "赤红洗礼(le baptême rouge)",
+          "desc": "[StartBattle] 消耗除自身以外的2名友方单位体力上限15%的体力并使其获得3层[AttackUp]\n- 在现存体力不低于50%的友方单位中按现存体力由高到低指定\n- 属于红派的友方单位现存体力不低于2点时，无视其体力优先指定，且改为消耗其体力上限25%的体力并使其额外获得1层[Enhancement]\n\n<style=\"highlight\">[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)</style>\n[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1\n\n[WhenUse] 若自身处于[BuffetSinclair]状态，则使本技能的所有硬币转化为[SuperCoin]\n- 若自身的[ChargeRougeAlly]层数不低于10层，则消耗最多10层[ChargeRougeAlly]并使本技能的攻击容量+2，硬币威力+1\n<style=\"highlight\">[WhenUse] 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身获得3层[HungrySinclair]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Laceration]强度"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身获得3层[HungrySinclair]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身获得3层[HungrySinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101609,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "存在的缺失(le manque-à-être)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n本技能不会因外部效果而重复使用\n\n[WhenUse] 下回合对自身施加5层[Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 解除目标的混乱"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "存在的缺失(le manque-à-être)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n本技能不会因外部效果而重复使用",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] 解除目标的混乱"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndCoin] 使目标恢复其体力上限15%的体力</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101610,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "贪求(la voracité)",
+          "desc": "[TransformSinclair]专用技能\n回合开始时，若自身的[HungrySinclair]层数为150层，则使本技能转化为“阉割(la castration)”(每回合最多1次)\n\n[WhenUse] 若自身处于[BuffetSinclair]状态，则使本技能的所有硬币转化为[SuperCoin]\n- 若自身的[ChargeRougeAlly]层数不低于10层，则消耗最多10层[ChargeRougeAlly]并使本技能的攻击容量+2，硬币威力+1\n\n[BeforeAttack] 消耗除自身以外的3名友方单位体力上限15%的体力\n· 优先指定属于红派的友方单位，按现存体力由高到低指定\n· 每消耗1名友方单位的体力，使本技能造成的伤害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "贪求(la voracité)",
+          "desc": "[TransformSinclair]专用技能\n回合开始时，若自身的[HungrySinclair]层数为150层，则使本技能转化为“阉割(la castration)”(每回合最多1次)\n\n<style=\"highlight\">[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1</style>\n\n[WhenUse] 若自身处于[BuffetSinclair]状态，则使本技能的所有硬币转化为[SuperCoin]\n- 若自身的[ChargeRougeAlly]层数不低于10层，则消耗最多10层[ChargeRougeAlly]并使本技能的攻击容量+2，硬币威力+1\n<style=\"highlight\">[WhenUse] 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)</style> \n\n[BeforeAttack] 消耗除自身以外的3名友方单位体力上限15%的体力\n· 优先指定属于红派的友方单位，按现存体力由高到低指定\n· 每消耗1名友方单位的体力，使本技能造成的伤害+10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101611,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "阉割(la castration)",
+          "desc": "[TransformSinclair]专用技能\n[BeforeUse] 若自身的[HungrySinclair]层数低于150层，则使本技能转化为“贪求(la voracité)”\n\n[StartBattle] 消耗除自身以外属于红派的全体友方人格现存体力50%的体力并使其获得3层[BuffetSinclair]\n\n[WhenUse] 主要目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1\n[EndSkill] 消耗所有[HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 解除目标所有[BoneNailSinclair]并在下回合对其施加层数相当于解除的[BoneNailSinclair]层数的[ScarletTakeDamageUp](最多3层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "阉割(la castration)",
+          "desc": "[TransformSinclair]专用技能\n[BeforeUse] 若自身的[HungrySinclair]层数低于150层，则使本技能转化为“贪求(la voracité)”\n\n[StartBattle] 消耗除自身以外属于红派的全体友方人格现存体力50%的体力并使其获得3层[BuffetSinclair]\n\n[WhenUse] 主要目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3级，则使本技能的硬币威力+1\n<style=\"highlight\">[WhenUse] 若自身处于[BuffetSinclair]状态，则使本技能的硬币威力+1\n[WhenUse] 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+50%(若是集中遭遇战，则改为以部位判定)</style>\n\n[EndSkill] 消耗所有[HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则本技能的攻击容量每高于目标数1点，对该目标额外施加1层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 解除目标所有[BoneNailSinclair]并在下回合对其施加层数相当于解除的[BoneNailSinclair]层数的[ScarletTakeDamageUp](最多3层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] 消耗自身最多15层[ChargeRougeAlly]并使本硬币造成的伤害+(消耗的[ChargeRougeAlly]层数×3)%</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 触发目标的[Laceration]1次，并使其[Laceration]层数减少1层<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "逃离(la fuite)",
+          "desc": "[StartBattle] 若自身未带有[BuffetSinclair]且自身的[ChargeRougeAlly]层数低于15层，则消耗自身体力上限(15-现存[ChargeRougeAlly]层数)%的体力并使自身获得至15层[ChargeRougeAlly](每回合最多1次)\n\n[OnSucceedEvade] 使自身获得2层[ChargeRougeAlly](每回合最多2次)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "逃离(la fuite)",
+          "desc": "[StartBattle] 若自身未带有[BuffetSinclair]且自身的[ChargeRougeAlly]层数低于15层，则消耗自身体力上限(15-现存[ChargeRougeAlly]层数)%的体力并使自身获得至15层[ChargeRougeAlly](每回合最多1次)\n\n[OnSucceedEvade] 使自身获得2层[ChargeRougeAlly](每回合最多2次)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101612,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "护卫(la garde)",
+          "desc": "[CanDuelGuard]\n本技能仅视作使用者的<noparse>援护防御</noparse>\n若使用者使用本技能时受到攻击，则使高级定制::红派 赤红之神 辛克莱获得2层[HungrySinclair]\n\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101613,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "一元特征(le trait unaire)",
+          "desc": "[DuelCounter]\n[TransformSinclair]专用技能\n[StartBattle] 若自身未带有[BuffetSinclair]且自身的[ChargeRougeAlly]层数低于15层，则消耗自身体力上限(15-现存[ChargeRougeAlly]层数)%的体力并使自身获得至15层[ChargeRougeAlly](每回合最多1次)\n\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "一元特征(le trait unaire)",
+          "desc": "[DuelCounter]\n[TransformSinclair]专用技能\n[StartBattle] 若自身未带有[BuffetSinclair]且自身的[ChargeRougeAlly]层数低于15层，则消耗自身体力上限(15-现存[ChargeRougeAlly]层数)%的体力并使自身获得至15层[ChargeRougeAlly](每回合最多1次)\n\n[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n<style=\"highlight\">[WhenUse] 若自身的[ChargeRougeAlly]强度不低于3/5级，则使本技能的硬币威力+1/+2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[BoneNailSinclair]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身处于[BuffetSinclair]状态，则对目标施加1层[BoneNailSinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

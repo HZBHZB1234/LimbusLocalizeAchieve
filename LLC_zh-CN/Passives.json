@@ -3362,6 +3362,41 @@
       "name": "阵型保存",
       "desc": "战斗开始时，场上每有1名友方[PersonalityCharge]，使全体友方[PersonalityCharge]受到的伤害-2%(最多-10%)",
       "summary": "友方[PersonalityCharge]受到的伤害减少"
+    },
+    {
+      "id": 1101602,
+      "name": "阳具享乐(la jouissance phallique)",
+      "desc": "触发[Laceration]时，使自身获得1层[ChargeRougeAlly](每回合最多10次)\n\n战斗结束时，若自身的[ChargeRougeAlly]层数不低于15层，且自身未处于[BuffetSinclair]状态，\n则消耗所有[ChargeRougeAlly]层数并在下回合使自身获得3层[BuffetSinclair]\n- 使自身恢复(消耗的超过15层的[ChargeRougeAlly]层数×3)点理智值(最多15点)\n\n[BuffetSinclair]解除时，消耗自身所有[ChargeRougeAlly]层数并使自身恢复(消耗的[ChargeRougeAlly]层数×2)点体力\n\n本场战斗中，每当自身累计消耗10层[ChargeRougeAlly]时，使自身增加1级[ChargeRougeAlly]强度\n\n自身的基础攻击技能与可拼点反击技能视作获得[Charge]层数的技能",
+      "summary": "触发[Laceration]时，使自身获得[ChargeRougeAlly]层数"
+    },
+    {
+      "id": 1101603,
+      "name": "童年的终结(La Fin de l'enfance)",
+      "desc": "根据以下条件使自身获得[HungrySinclair](每回合最多50层)\n- 自身消耗[ChargeRougeAlly]层数时，获得层数相当于消耗的[ChargeRougeAlly]层数的[HungrySinclair]\n- 自身的基础技能使除自身以外的友方单位恢复体力时，获得层数相当于实际恢复量的[HungrySinclair]\n- 友方单位每累计失去10点体力，获得1层[HungrySinclair]\n- 除自身以外属于红派的友方人格基础攻击命中时，获得2层[HungrySinclair]\n- 回合结束时，每有1名除自身以外属于红派的友方人格在场，获得5层[HungrySinclair]\n\n回合结束时，若自身的[HungrySinclair]层数不低于100层，且自身未带有[TransformSinclair]，则下回合开始时使仪表盘最左侧行动槽下方一行的技能转化为“贪求(la voracité)”\n\n本场战斗中自身首次装备了“贪求(la voracité)”或“阉割(la castration)”的战斗开始时，使自身获得[BuffetThirst]与[TransformSinclair]，并移除自身的混乱阈值\n- 使自身装备的所有基础技能转化为[TransformSinclair]专属技能\n- 指定友方单位为目标的基础技能改为随机对敌方单位进行单方面攻击\n- 通过以上效果使用的技能攻击后，消耗所有[HungrySinclair]\n\n回合结束时，若自身的[HungrySinclair]层数为150层，自身带有[TransformSinclair]，且下回合开始时仪表盘上不存在“贪求(la voracité)”，则使自身的1个基础技能转化为“贪求(la voracité)”(优先转化仪表盘最左侧行动槽下方一行的技能)",
+      "summary": "根据条件获得[HungrySinclair]",
+      "flavor": "谁来决定幼年期的结束？\n\n赤红的孩子独自踏上了旅程。追寻着记忆，带着思念独自前行，孤独地目送幼年期的离去。"
+    },
+    {
+      "id": 1101604,
+      "name": "收获(la moisson)",
+      "desc": "自身的基础技能效果消耗友方单位的体力时，该效果不会使目标陷入混乱或体力低于1点\n\n战斗结束时，若色欲共鸣数不低于3，则下回合使除自身以外的(色欲共鸣数/3)名友方单位获得[BuffetThirst](向上取整)\n- 优先使属于红派的友方单位获得，按编队顺序获得\n\n自身对友方单位使用[SupportAlly]技能时，使可行动且属于红派的友方单位中现存体力最高的1名友方单位获得1层[BuffetFriendShield](每回合最多1次)\n除自身以外的友方[PersonalityCharge]基础攻击后，若其未击杀主要目标，则对该敌方单位使用“我来帮忙(je vous aide)”(每回合最多1次)",
+      "summary": "对友方单位使用[SupportAlly]技能时，使其获得[BuffetFriendShield]\n根据色欲共鸣数，下回合使友方单位获得[BuffetThirst]"
+    },
+    {
+      "id": 1101614,
+      "name": "收获(la moisson)",
+      "desc": "自身的基础技能效果消耗友方单位的体力时，该效果不会使目标陷入混乱或体力低于1点\n\n战斗结束时，若色欲共鸣数不低于3，则下回合使除自身以外的(色欲共鸣数/3)名友方单位获得[BuffetThirst](向上取整)\n- 优先使属于红派的友方单位获得，按编队顺序获得\n- 若自身带有[TransformSinclair]，则额外使1名友方单位获得(最多4名)\n\n若自身未带有[TransformSinclair]\n- 自身对友方单位使用[SupportAlly]技能时，使可行动且属于红派的友方单位中现存体力最高的1名友方单位获得1层[BuffetFriendShield](每回合最多1次)\n- 除自身以外的友方[PersonalityCharge]基础攻击后，若其未击杀主要目标，则对该敌方单位使用“我来帮忙(je vous aide)”(每回合最多1次)\n\n若自身带有[TransformSinclair]\n- 使自身获得[RougeFamilySinclair]\n- 激活当前场所的[DinnerField]\n- 回合结束时，下回合使自身获得[BuffetThirst]\n- 战斗开始时，使可行动且属于红派的友方单位中现存体力最高的1名友方单位获得1层[BuffetFriendShield]\n- 目标为敌方单位的基础攻击技能结束后，若主要目标的[BoneNailSinclair]层数为5层，对该敌方单位使用“要求(la demande)”(每回合最多1次)",
+      "summary": "对友方单位使用[SupportAlly]技能时，使其获得[BuffetFriendShield]\n根据色欲共鸣数，下回合使友方单位获得[BuffetThirst]"
+    },
+    {
+      "id": 1101611,
+      "name": "生之权能(les pouvoirs de la vie)",
+      "desc": "属于红派的友方单位因受到伤害而陷入混乱时，对其使用“存在的缺失(le manque-à-être)”(每回合最多1次，不包括强制混乱)\n\n若自身未带有[TransformSinclair]\n- 不属于红派的友方单位因受到伤害而陷入混乱时，对其使用“存在的缺失(le manque-à-être)”(每场战斗最多1次，不包括强制混乱)\n\n若自身带有[TransformSinclair]\n- 除自身以外属于红派的友方人格受到使其体力降至0点的伤害时，其体力不会低于1点，并使其恢复其体力上限50%的体力(向上取整，每名人格每场战斗最多1次)"
+    },
+    {
+      "id": 1101621,
+      "name": "贪食",
+      "desc": "战斗开始时，使现存体力最低的友方单位获得2层[AttackUp]\n该友方单位的攻击技能结束时，使其恢复其体力上限5%的体力(最少1点，每回合最多1次)"
     }
   ]
 }

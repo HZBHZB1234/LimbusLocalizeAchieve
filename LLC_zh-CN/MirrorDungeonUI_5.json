@@ -202,7 +202,7 @@
     },
     {
       "id": "mirror_dungeon_progress_text_5",
-      "content": "梦中之镜第{0}层"
+      "content": "梦中之镜 第{0}层"
     },
     {
       "id": "mirror_dungeon_progress_awaiting_reward_claim",
