@@ -1,0 +1,115 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "快速探索2F",
+      "description": "我们又一次来到了2F。和上次一样，没办法立刻进入。总之先迅速查看四周吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2003",
+      "title": "进入奢侈品馆",
+      "description": "看守大门的人不在了。是情况变了吗？进去看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "进入奢侈品馆"
+        }
+      ]
+    },
+    {
+      "key": "Q2004",
+      "title": "进入奢侈品馆 2",
+      "description": "奢侈品馆里满是黑派的尸体。进入更深处看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "进入奢侈品馆深处"
+        }
+      ]
+    },
+    {
+      "key": "Q2005",
+      "title": "进入奢侈品馆 3",
+      "description": "和上次一样，看到了红派建造的入口。进去看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从入口进入奢侈品馆"
+        }
+      ]
+    },
+    {
+      "key": "Q2008",
+      "title": "观察摇篮",
+      "description": "红派的品牌总监说，摇篮中沉睡的东西即将苏醒，所以想请求我们待在它身边。先到摇篮前看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "观察摇篮"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "把碎片靠近摇篮"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "让摇篮吃掉碎片"
+        },
+        {
+          "index": 3,
+          "goalDescription1": "救出摇篮里的孩子"
+        }
+      ]
+    },
+    {
+      "key": "Q2008A",
+      "title": "与从摇篮里出来的孩子交谈",
+      "description": "从摇篮里出来的是个小孩子模样的生物。与其交谈看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与从摇篮里出来的孩子交谈"
+        }
+      ]
+    },
+    {
+      "key": "Q2008B",
+      "title": "抓住逃跑的孩子",
+      "description": "从摇篮里出来的孩子一看到我们就开始逃跑。抓住后再与其交谈看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "抓住从摇篮里跑出来的东西"
+        }
+      ]
+    },
+    {
+      "key": "Q2009",
+      "title": "离开奢侈品馆",
+      "description": "从摇篮里出来的孩子貌似开始跟着我们了。虽然似乎因为害怕而和我们保持着距离……总之先离开奢侈品馆吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开奢侈品馆"
+        }
+      ]
+    },
+    {
+      "key": "Q2010",
+      "title": "前往4F",
+      "description": "获得了不可动摇者的脊椎。由于不清楚后面会发生什么，所以能获取的东西最好还是都入手比较好。在这一层已经没有需要做的事了，前往4F吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往4F"
+        }
+      ]
+    }
+  ]
+}

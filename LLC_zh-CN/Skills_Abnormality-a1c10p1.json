@@ -1393,7 +1393,7 @@
         {
           "level": 1,
           "name": "出于慈悲，我会帮你去除掉其中一条。",
-          "flavor": "你难道不想知道，当你见到黑派的品牌经理时，他会作何反应吗？",
+          "flavor": "你难道不想知道，当你见到黑派的品牌经理时，她会作何反应吗？",
           "desc": "可无视速度值与本技能拼点\n[WhenUse] 若自身带有[NoirSuit]，则每带有30层[NoirSuit]，使本技能的拼点威力+1(最多+3)\n[WhenUse] 若自身带有[Realisation]，则每带有2层[Realisation]，使本技能造成的伤害+1%(最多+50%)\n[WhenUse]\n- 若自身的[ChargeNoir]层数不低于10层，则消耗10层[ChargeNoir]并使本技能的硬币威力+2\n- 若自身的[ChargeNoir]层数低于10层，则使自身获得5层[ChargeNoir]\n[DefeatDuel]\n- 使本技能造成的伤害-50%\n- 使自身的混乱阈值前移(自身的[DefenseUp]层数)",
           "coinlist": [
             {
@@ -2067,7 +2067,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "滚…开…",
+          "name": "离我…远点…",
           "desc": "[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WinDuel] 使自身获得3层[ChargeRouge]",
           "coinlist": [
             {

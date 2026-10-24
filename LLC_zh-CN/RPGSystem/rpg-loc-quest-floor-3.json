@@ -128,7 +128,7 @@
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "清理3名被魅惑的黑派"
+          "goalDescription1": "击败3名被魅惑的黑派"
         },
         {
           "index": 1,
@@ -214,29 +214,29 @@
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "楼层经理战斗开始通知"
+          "goalDescription1": "楼层经理战斗开始"
         }
       ]
     },
     {
       "key": "Q3016H1",
-      "title": "楼层经理打击1",
+      "title": "（内部）楼层经理打击 1",
       "description": "0901追加",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "楼层经理打击1次"
+          "goalDescription1": "（内部）楼层经理打击 1"
         }
       ]
     },
     {
       "key": "Q3016H2",
-      "title": "楼层经理打击2",
+      "title": "（内部）楼层经理打击 2",
       "description": "0901追加",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "楼层经理打击2次"
+          "goalDescription1": "（内部）楼层经理打击 2"
         }
       ]
     }

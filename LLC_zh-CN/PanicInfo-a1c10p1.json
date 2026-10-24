@@ -31,12 +31,6 @@
       "panicDescription": "回合开始时，对自身施加1层[Reduction]与1层[AttackDmgDown]"
     },
     {
-      "id": 1109,
-      "panicName": "反复死亡",
-      "lowMoraleDescription": "使自身获得3层[Protection]",
-      "panicDescription": "使自身获得5层[Protection]"
-    },
-    {
       "id": 1121,
       "panicName": "分裂",
       "lowMoraleDescription": "防御等级-3，攻击等级+3\n与带有的[BloodyMucus]层数为5层的目标进行拼点时，使自身的拼点威力+2",

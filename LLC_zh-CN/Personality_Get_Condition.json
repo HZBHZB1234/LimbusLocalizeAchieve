@@ -1399,6 +1399,14 @@
     {
       "id": "10816_getCondition_gacksung",
       "content": "高级定制::红派精品店 以实玛利 3阶段同步完成"
+    },
+    {
+      "id": "10917_getCondition_normal",
+      "content": "高级定制::改衣室 罗佳 获得时"
+    },
+    {
+      "id": "10917_getCondition_gacksung",
+      "content": "高级定制::改衣室 罗佳 3阶段同步完成"
     }
   ]
 }

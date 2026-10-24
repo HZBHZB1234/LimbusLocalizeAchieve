@@ -13,6 +13,14 @@
       "text": "要移动至哪一层？"
     },
     {
+      "key": "FloorMoveUnboughtConfirmDesc",
+      "text": "本层还有未购买的道具。\n要移动到其他楼层吗？"
+    },
+    {
+      "key": "FloorMoveUnboughtDontShowAgain",
+      "text": "不再显示此弹窗"
+    },
+    {
       "key": "DialogueSkipConfirmDesc",
       "text": "要跳过剧情吗？"
     },
@@ -58,7 +66,7 @@
     },
     {
       "key": "Item_QuestMark",
-      "text": "重要物品"
+      "text": "重要道具"
     },
     {
       "key": "Item_Suffix_Disabled",
@@ -122,7 +130,7 @@
     },
     {
       "key": "Shop_SelectedItem_None",
-      "text": "请选择要购买的物品。"
+      "text": "请选择要购买的道具。"
     },
     {
       "key": "Shop_Item_Stock",
@@ -142,11 +150,11 @@
     },
     {
       "key": "Log_ItemAcquired",
-      "text": "获得物品：{0} x{1}"
+      "text": "获得道具：{0} x{1}"
     },
     {
       "key": "Log_ItemAcquiredKeyItem",
-      "text": "获得物品：<color=#{2}>{0} x{1}</color>"
+      "text": "获得道具：<color=#{2}>{0} x{1}</color>"
     },
     {
       "key": "Log_CurrencyEarned",
@@ -185,10 +193,6 @@
       "text": "目标进度：{0}"
     },
     {
-      "key": "Log_PlayerHit",
-      "text": "受到的攻击：{0}"
-    },
-    {
       "key": "Log_BattleResultSync",
       "text": "战斗结果反馈（{0}）：HP {1}/{2}，MP {3}/{4}"
     },
@@ -214,19 +218,7 @@
     },
     {
       "key": "Log_NpcDefeated",
-      "text": "{0}被击败（{1}点伤害）"
-    },
-    {
-      "key": "Log_NpcDefeatedWeakness",
-      "text": "{0}被击败（{1}点弱点攻击伤害）"
-    },
-    {
-      "key": "Log_DamageDealt",
-      "text": "对{0}造成了{1}点伤害"
-    },
-    {
-      "key": "Log_DamageDealtWeakness",
-      "text": "对{0}造成了{1}点弱点攻击伤害"
+      "text": "{0}被击败"
     },
     {
       "key": "Log_PlayerDead",
@@ -266,7 +258,7 @@
     },
     {
       "key": "ProgressPopup_Suicide",
-      "text": "用护手\n自杀"
+      "text": "返回\n泉"
     },
     {
       "key": "ProgressPopup_EnemyAttackIndication",
@@ -349,6 +341,14 @@
       "text": "所有记录"
     },
     {
+      "key": "LogPopup_Tab_Story",
+      "text": "剧情记录"
+    },
+    {
+      "key": "LogPopup_Tab_System",
+      "text": "系统记录"
+    },
+    {
       "key": "Setting_Tab_Sisyphus",
       "text": "西西弗"
     },
@@ -365,6 +365,46 @@
       "text": "死亡场景遮挡"
     },
     {
+      "key": "Setting_Sisyphus_LightMode",
+      "text": "光照模式"
+    },
+    {
+      "key": "Setting_Sisyphus_Brightness",
+      "text": "亮度调整"
+    },
+    {
+      "key": "Setting_Sisyphus_BrightnessCeiling",
+      "text": "亮度上限"
+    },
+    {
+      "key": "Setting_Sisyphus_MoveAssist",
+      "text": "移动方向修正"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelay",
+      "text": "奔跑缓冲时间"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadWalkStart",
+      "text": "行走触发半径"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunKeep",
+      "text": "奔跑维持半径"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunStart",
+      "text": "奔跑触发半径"
+    },
+    {
+      "key": "Setting_Sisyphus_TurnAssist",
+      "text": "移动转向辅助"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelayValue",
+      "text": "{0}秒"
+    },
+    {
       "key": "Setting_Sisyphus_Move",
       "text": "移动"
     },
@@ -378,7 +418,7 @@
     },
     {
       "key": "Setting_Sisyphus_GauntletSuicide",
-      "text": "用护手自杀"
+      "text": "返回泉"
     },
     {
       "key": "Setting_Sisyphus_Attack",

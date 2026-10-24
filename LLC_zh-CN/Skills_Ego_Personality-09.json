@@ -911,6 +911,268 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "镜反射触觉",
+          "abName": "迷失的心",
+          "desc": "自身的[Breath]强度与主要目标的[Vibration]强度之和每有6级，使本技能的拼点威力+1(最多+2)\n[BeforeAttack] 使自身增加(2+最大共鸣数)级[Breath]强度(最多8级)\n[BeforeAttack] 使自身获得2层[Breath]\n[EndSkill] 随机对攻击的全体敌方单位施加共计(1+最大共鸣数)层[EmpathicDistressAlly]，每次施加1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "镜反射触觉",
+          "abName": "迷失的心",
+          "desc": "自身的[Breath]强度与主要目标的[Vibration]强度之和每有6级，使本技能的拼点威力+1(最多+<style=\"highlight\">3</style>)\n[BeforeAttack] 使自身增加(<style=\"highlight\">3</style>+最大共鸣数)级[Breath]强度(最多8级)\n[BeforeAttack] 使自身获得<style=\"highlight\">3</style>层[Breath]\n[EndSkill] 随机对攻击的全体敌方单位施加共计(1+最大共鸣数)层[EmpathicDistressAlly]，每次施加1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "镜反射触觉",
+          "abName": "迷失的心",
+          "desc": "自身的[Breath]强度与主要目标的[Vibration]强度之和每有6级，使本技能的拼点威力+1(最多+<style=\"highlight\">4</style>)\n[BeforeAttack] 使自身增加(<style=\"highlight\">4</style>+最大共鸣数)级[Breath]强度(最多8级)\n[BeforeAttack] 使自身获得<style=\"highlight\">4</style>层[Breath]\n[EndSkill] 随机对攻击的全体敌方单位施加共计(1+最大共鸣数)层[EmpathicDistressAlly]，每次施加1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "镜反射触觉",
+          "abName": "迷失的心",
+          "desc": "[CantIdentify]\n随机指定目标\n自身的[Breath]强度与主要目标的[Vibration]强度之和每有6级，使本技能的拼点威力+1(最多+2)\n[BeforeAttack] 使自身增加(2+最大共鸣数)级[Breath]强度(最多10级)\n[BeforeAttack] 使自身获得2层[Breath]\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-4(最多-12)\n[BeforeAttack] 若自身的[Breath]层数不低于10层，则消耗自身4层[Breath]并使本技能暴击时对主要目标造成的伤害+20%\n[EndSkill] 随机对攻击的全体敌方单位施加共计(1+最大共鸣数)层[EmpathicDistressAlly]，每次施加1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "镜反射触觉",
+          "abName": "迷失的心",
+          "desc": "[CantIdentify]\n随机指定目标\n自身的[Breath]强度与主要目标的[Vibration]强度之和每有6级，使本技能的拼点威力+1(最多+<style=\"highlight\">3</style>)\n[BeforeAttack] 使自身增加(<style=\"highlight\">3</style>+最大共鸣数)级[Breath]强度(最多10级)\n[BeforeAttack] 使自身获得<style=\"highlight\">3</style>层[Breath]\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-4(最多-12)\n[BeforeAttack] 若自身的[Breath]层数不低于10层，则消耗自身4层[Breath]并使本技能暴击时对主要目标造成的伤害+<style=\"highlight\">30</style>%\n[EndSkill] 随机对攻击的全体敌方单位施加共计(1+最大共鸣数)层[EmpathicDistressAlly]，每次施加1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级[Vibration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 对目标施加1层[Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "镜反射触觉",
+          "abName": "迷失的心",
+          "desc": "[CantIdentify]\n随机指定目标\n自身的[Breath]强度与主要目标的[Vibration]强度之和每有6级，使本技能的拼点威力+1(最多+<style=\"highlight\">4</style>)\n[BeforeAttack] 使自身增加(<style=\"highlight\">4</style>+最大共鸣数)级[Breath]强度(最多10级)\n[BeforeAttack] 使自身获得<style=\"highlight\">4</style>层[Breath]\n[BeforeAttack] 本技能每有1枚硬币被摧毁，使本技能的基础威力-4(最多-12)\n[BeforeAttack] 若自身的[Breath]层数不低于10层，则消耗自身4层[Breath]并使本技能暴击时对主要目标造成的伤害+<style=\"highlight\">40</style>%\n[EndSkill] 随机对攻击的全体敌方单位施加共计(1+最大共鸣数)层[EmpathicDistressAlly]，每次施加1层(最多5层)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">5</style>级[Vibration]强度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]  若目标的[Vibration]层数不低于4层，则使其[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">2</style>层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

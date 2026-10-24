@@ -31,7 +31,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "纵斩",
+          "name": "挑斩",
           "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的基础威力+1(最多+2)",
           "coinlist": [
             {

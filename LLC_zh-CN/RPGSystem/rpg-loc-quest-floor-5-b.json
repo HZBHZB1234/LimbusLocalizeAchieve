@@ -1,0 +1,150 @@
+{
+  "dataList": [
+    {
+      "key": "Q5001",
+      "title": "调查5F",
+      "description": "我们终于和吱咿一起抵达了5F。还不知道这里到底有什么，总之先四处走走看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查位于5F走廊的门"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "听听克罗默的话"
+        }
+      ]
+    },
+    {
+      "key": "Q5011",
+      "title": "？？？",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "？？？"
+        }
+      ]
+    },
+    {
+      "key": "Q5002",
+      "title": "前往B1F",
+      "description": "据说想进入5F，我们的美德仍然不足。必须让吱咿穿上用黄金皮革制作的寿衣。前往地下貌似能找到了可以加工皮革的人。去地下看看吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "触碰5F的帷幕。"
+        }
+      ]
+    },
+    {
+      "key": "Q5004",
+      "title": "前往5F深处",
+      "description": "吱咿穿上了管制员制成的黄金皮革的衣服。但吃掉咕扭的事似乎让它的心情不太好。现在前往5F吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往5F深处"
+        },
+        {
+          "index": 1,
+          "goalDescription2": "击败蜂拥而至的东西"
+        }
+      ]
+    },
+    {
+      "key": "Q5008",
+      "title": "（内部）面对堵路的黑派",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "遇到堵路的黑派"
+        }
+      ]
+    },
+    {
+      "key": "Q5006",
+      "title": "（内部）突破黑派团体",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "消灭9个黑派店员[阳光]",
+          "goalDescription2": "消灭7个黑派警卫",
+          "goalDescription3": "消灭3个黑派当代服饰馆店员",
+          "goalDescription4": "消灭2个黑派品牌世家店员",
+          "goalDescription5": "消灭2个黑派品牌世家"
+        }
+      ]
+    },
+    {
+      "key": "Q5007",
+      "title": "前往位于5F深处的帷幕",
+      "description": "我们消灭了5F蜂拥而至的敌人。现在前往5F深处，触碰帷幕吧。既然吱咿穿着黄金寿衣，情况应该会和之前有所不同。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "触碰5F的帷幕。",
+          "goalDescription2": ""
+        }
+      ]
+    },
+    {
+      "key": "Q5003",
+      "title": "击杀黑派品牌经理",
+      "description": "打倒堵住去路的黑派品牌经理吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "打倒黑派品牌经理"
+        }
+      ]
+    },
+    {
+      "key": "Q5005",
+      "title": "观察自助餐",
+      "description": "茧裂开了。\n见证自助餐最终会变成什么模样吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "见证自助餐最后会变成什么"
+        }
+      ]
+    },
+    {
+      "key": "Q5009",
+      "title": "前往餐厅内",
+      "description": "我们平安进入了阻隔在5F中的帷幕。在那之中能看到正在进食的庞大存在。总之先避开敌人，前往更深处吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往餐厅内"
+        }
+      ]
+    },
+    {
+      "key": "Q5010",
+      "title": "从蜂拥而至的黑派中保护茧",
+      "description": "吱咿说它太困了。原地睡下的吱咿变成了茧的模样。盯上茧的黑派们从四面八方蜂拥而至，保护好吱咿吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从蜂拥而至的黑派中保护茧"
+        }
+      ]
+    },
+    {
+      "key": "Q5012",
+      "title": "击败黑之丝",
+      "description": "打倒堵住去路的黑之丝吧。",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "击败黑之丝"
+        }
+      ]
+    }
+  ]
+}

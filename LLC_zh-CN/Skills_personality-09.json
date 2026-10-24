@@ -3594,6 +3594,296 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1091701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "修衣(Retouche)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 若目标为友方单位，则使其获得3层[Charge]与1层[AttackUp]\n[EndSkill] 若目标为友方单位，则触发以下效果(每回合最多1次)\n- 使目标获得自身体力上限5%的护盾(最低1点)\n- 使目标获得1层[NoirScissorShield]\n- 若目标属于[PersonalityCharge]，则使其获得1层[Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "修衣(Retouche)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 若目标为友方单位，则使其获得<style=\"highlight\">4</style>层[Charge]与1层[AttackUp]\n[EndSkill] 若目标为友方单位，则触发以下效果(每回合最多1次)\n- 使目标获得自身体力上限5%的护盾(最低1点)\n- 使目标获得1层[NoirScissorShield]\n- 若目标属于[PersonalityCharge]，则使其获得1层[Enhancement]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "修衣(Retouche)",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] 若目标为友方单位，则使其获得4层[Charge]与1层[AttackUp]\n[EndSkill] 若目标为友方单位，则触发以下效果<style=\"highlight\">(每回合最多2次)</style>\n- 使目标获得自身体力上限<style=\"highlight\">10%</style>的护盾(最低1点)\n- 使目标获得1层[NoirScissorShield]\n- 若目标属于[PersonalityCharge]，则使其获得2层[Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "固定，并沿纸样裁切",
+          "desc": "[StartBattle] 使除自身以外最先编入的1名其他友方单位(优先指定[PersonalityCharge])获得2层[AttackUp]与自身体力上限5%的护盾(最少1点；每回合最多1次)\n- 若该友方单位为[PersonalityCharge]，则使其额外获得1层[AttackUp]与自身体力上限5%的护盾\n\n[WhenUse] 若目标的[Vibration]强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 消耗自身5层[ChargeKhakiAlly]并使本技能的最终威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得6层[ChargeKhakiAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "固定，并沿纸样裁切",
+          "desc": "[StartBattle] 使<style=\"highlight\">自身与</style>除自身以外最先编入的1名其他友方单位(优先指定[PersonalityCharge])获得2层[AttackUp]与自身体力上限5%的护盾(最少1点；每回合最多1次)\n- 若该友方单位为[PersonalityCharge]，则使其额外获得1层[AttackUp]与自身体力上限5%的护盾\n\n[WhenUse] 若目标的[Vibration]强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 消耗自身5层[ChargeKhakiAlly]并使本技能的最终威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得6层[ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标获得2层[Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "固定，并沿纸样裁切",
+          "desc": "[StartBattle] 使自身，除自身以外最先编入的1名其他友方单位(优先指定[PersonalityCharge])<style=\"highlight\">与现存体力比例最低的1名友方单位</style>获得2层[AttackUp]与自身体力上限5%的护盾(最少1点；每回合最多1次)\n- 若该友方单位为[PersonalityCharge]，则使其额外获得1层[AttackUp]与自身体力上限5%的护盾\n\n<style=\"highlight\">[WhenUse] 目标每带有6级[Vibration]强度，使本技能的硬币威力+1(最多+2)</style>\n[WhenUse] 消耗自身5层[ChargeKhakiAlly]并使本技能的最终威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得6层[ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标获得2层[Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[AmberResistDown](每回合最多1次)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "斜裁",
+          "desc": "自身每带有1层[NoirScissorCut]，使本技能造成的伤害+15%(最多+30%)\n\n[StartBattle] 使除自身以外最先编入的1名友方单位(优先指定[PersonalityCharge])与现存体力比例最低的1名友方单位获得1层[NoirScissorShield]与自身体力上限5%的护盾(最低1点；每回合最多1次)\n\n[WhenUse] 若目标的[Vibration]强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 自身每带有3级[ChargeKhakiAlly]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 消耗自身5层[ChargeKhakiAlly]并使本技能的最终威力+2\n\n[EndSkill] 使自身获得5层[ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeKhakiAlly]层数不低于5层，则消耗5层[ChargeKhakiAlly]，使目标[VibrationExplosion]并使目标的[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "斜裁",
+          "desc": "自身每带有1层[NoirScissorCut]，使本技能造成的伤害<style=\"highlight\">+30%(最多+60%)</style>\n\n[StartBattle] 使自身，除自身以外最先编入的1名友方单位(优先指定[PersonalityCharge])与现存体力比例最低的1名友方单位获得1层[NoirScissorShield]与自身体力上限<style=\"highlight\">10%</style>的护盾(最低1点；每回合最多1次)\n\n<style=\"highlight\">[WhenUse] 目标每带有6级[Vibration]强度，使本技能的硬币威力+1(最多+2)</style>\n[WhenUse] 自身每带有3级[ChargeKhakiAlly]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 消耗自身5层[ChargeKhakiAlly]并使本技能的最终威力+2\n\n[EndSkill] 使自身获得5层[ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeKhakiAlly]层数不低于5层，则消耗5层[ChargeKhakiAlly]，使目标[VibrationExplosion]并使目标的[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "镶边",
+          "desc": "[DuelCounter]\n[StartBattle] 使自身获得5层[ChargeKhakiAlly](每回合最多2次)\n[StartBattle] 使自身与除自身以外现存体力比例最低的2名友方单位获得自身体力上限5%的护盾(最低1点；每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "镶边",
+          "desc": "[DuelCounter]\n[StartBattle] 使自身获得5层[ChargeKhakiAlly](每回合最多2次)\n[StartBattle] 使自身与除自身以外现存体力比例最低的2名友方单位获得自身体力上限<style=\"highlight\">10%</style>的护盾(最低1点；每回合最多1次)\n\n<style=\"highlight\">[WhenUse] 自身每带有5层[ChargeKhakiAlly]，使本技能的拼点威力+1(最多+4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "纸样制作",
+          "desc": "[CantDuel]\n[WhenUse] 使自身获得3层[ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeKhakiAlly]强度不低于3级，则重复使用本硬币(每个技能最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加1层[NoirScissorAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "剪下",
+          "desc": "[CantDuel]\n[WhenUse] 自身每带有3级[ChargeKhakiAlly]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 使自身获得5层[ChargeKhakiAlly]\n\n[EndSkill] 消耗目标2层[NoirScissorAlly]\n[EndSkill] 使自身获得1层[NoirScissorCut]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
