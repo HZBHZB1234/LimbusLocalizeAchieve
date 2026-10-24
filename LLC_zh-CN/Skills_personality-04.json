@@ -3418,6 +3418,379 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1041601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "真是肮脏",
+          "desc": "[StartBattle] 若自身的[ChargeNoirAlly]强度不低于3级，[ChargeNoirAlly]层数不低于12层，\n则消耗6层[ChargeNoirAlly]并使自身获得体力上限5%的护盾(每回合最多2次)\n[WhenUse] 若自身的[ChargeNoirAlly]层数低于10层，则使自身获得1层[ChargeNoirAlly]\n[WhenUse] 消耗最多15层[RealisationAlly]\n- 使本技能的拼点威力+1\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数×3)%(最多+45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "真是肮脏",
+          "desc": "[StartBattle] 若自身的[ChargeNoirAlly]强度不低于3级，[ChargeNoirAlly]层数不低于12层，\n则消耗6层[ChargeNoirAlly]并使自身获得体力上限5%的护盾(每回合最多2次)\n[WhenUse] 若自身的[ChargeNoirAlly]层数低于10层，则使自身获得<style=\"highlight\">2</style>层[ChargeNoirAlly]\n[WhenUse] 消耗最多15层[RealisationAlly]\n- 使本技能的拼点威力+1\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数×3)%(最多+45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">4</style>层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "真是肮脏",
+          "desc": "[StartBattle] 若自身的[ChargeNoirAlly]强度不低于3级，[ChargeNoirAlly]层数不低于12层，\n则消耗6层[ChargeNoirAlly]并使自身获得体力上限5%的护盾(每回合最多2次)\n[WhenUse] 若自身的[ChargeNoirAlly]层数低于<style=\"highlight\">12</style>层，则使自身获得2层[ChargeNoirAlly]\n<style=\"highlight\">[WhenUse] 若自身的[NoirSuitAlly]层数不低于50层，\n则使本技能的拼点威力+1，造成的伤害+30%</style>\n[WhenUse] 消耗最多15层[RealisationAlly]\n<style=\"highlight\">- 使本技能的最终威力+1</style>\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数×3)%(最多+45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">5</style>层[ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "来试穿看看",
+          "desc": "[WhenUse]\n- 若自身的[ChargeNoirAlly]层数不低于12层，则消耗6层[ChargeNoirAlly]并使本技能的拼点威力+1，造成的伤害+10%\n- 使自身获得2层[ChargeNoirAlly]\n[WhenUse] 消耗最多20层[RealisationAlly]\n- 使本技能的拼点威力+1\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数)%(最多+20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得(自身的[ChargeNoirAlly]强度+1)层[ChargeNoirAlly](最多4层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加1层[Vibration]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "来试穿看看",
+          "desc": "[WhenUse]\n- 若自身的[ChargeNoirAlly]层数不低于12层，则消耗6层[ChargeNoirAlly]并使本技能的拼点威力+1，造成的伤害+10%\n- 使自身获得2层[ChargeNoirAlly]\n[WhenUse] 消耗最多20层[RealisationAlly]\n- 使本技能的拼点威力+1\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数)%(最多+20%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得(自身的[ChargeNoirAlly]强度+1)层[ChargeNoirAlly](最多<style=\"highlight\">6</style>层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加1层[Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于3级，则使目标[VibrationExplosion]，并使目标的[Vibration]层数减少1层</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "来试穿看看",
+          "desc": "[WhenUse]\n- 若自身的[ChargeNoirAlly]层数不低于12层，\n则消耗6层[ChargeNoirAlly]并使本技能的<style=\"highlight\">最终威力+1</style>，造成的伤害<style=\"highlight\">+20%</style>\n- 使自身获得<style=\"highlight\">4</style>层[ChargeNoirAlly]\n<style=\"highlight\">[WhenUse] 若自身的[NoirSuitAlly]层数不低于50层，则使本技能造成的伤害+15%</style>\n[WhenUse] 消耗最多20层[RealisationAlly]\n<style=\"highlight\">- 使本技能的最终威力+1</style>\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数)%(最多+20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得(自身的[ChargeNoirAlly]强度+<style=\"highlight\">3</style>)层[ChargeNoirAlly](最多6层)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加<style=\"highlight\">2</style>层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于3级，则使目标[VibrationExplosion]，并使目标的[Vibration]层数减少1层<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "三线印花缝纫",
+          "desc": "[WhenUse]\n- 若自身的[ChargeNoirAlly]层数不低于10层，则消耗最多20层[ChargeNoirAlly]\n并使本技能造成的伤害+(消耗的[ChargeNoirAlly]层数)%(最多+20%)\n- 使自身获得3层[ChargeNoirAlly]\n[WhenUse] 自身每带有40层[NoirSuitAlly]，使本技能的拼点威力+1，造成的伤害+10%(分别最多+2，+20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬币造成的伤害+(自身的[NoirSuitAlly]层数/2)%(最多+50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于3级，则使目标[VibrationExplosion]，并使目标的[Vibration]层数减少1层"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "三线印花缝纫",
+          "desc": "<style=\"highlight\">[StartBattle] 使自身获得20层[NoirSuitAlly](每回合最多1次)</style>\n[WhenUse]\n- 若自身的[ChargeNoirAlly]层数不低于10层，则消耗最多20层[ChargeNoirAlly]\n并使本技能造成的伤害+(消耗的[ChargeNoirAlly]层数)%(最多+20%)\n- 使自身获得<style=\"highlight\">5</style>层[ChargeNoirAlly]\n[WhenUse] 自身每带有<style=\"highlight\">30</style>层[NoirSuitAlly]，使本技能的拼点威力+1，造成的伤害<style=\"highlight\">+20%</style><style=\"highlight\">(分别最多+3，+60%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">5</style>层[ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级[Vibration]强度并对其施加<style=\"highlight\">3</style>层[Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "使本硬币造成的伤害+(<style=\"highlight\">自身的[NoirSuitAlly]层数</style>)%(最多+<style=\"highlight\">100%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于3级，则使目标[VibrationExplosion]<style=\"highlight\">2次</style>，并使目标的[Vibration]层数减少<style=\"highlight\">2</style>层"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "混账顾客！商品不都起皱了吗！",
+          "desc": "[DuelCounter]\n[StartBattle]\n- 若自身的[NoirSuitAlly]层数不低于60层，则下回合使该效果转化为[RealisationAlly]\n- 若自身的[RealisationAlly]层数低于60层，则下回合使该效果转化为[NoirSuitAlly]\n[WhenUse] 使自身获得2层[ChargeNoirAlly](每回合最多2次)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Vibration]强度(每回合最多2次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "混账顾客！商品不都起皱了吗！",
+          "desc": "[DuelCounter]\n[StartBattle]\n- 若自身的[NoirSuitAlly]层数不低于60层，\n则下回合使该效果转化为[RealisationAlly]\n- 若自身的[RealisationAlly]层数低于60层，\n则下回合使该效果转化为[NoirSuitAlly]\n<style=\"highlight\">[BeforeUse] 若自身的[RealisationAlly]层数不低于60层，\n则改为使用“单踢-多样定制时装”(每回合最多1次)\n- 触发该效果后，攻击后消耗所有[RealisationAlly]</style>\n[WhenUse] 使自身获得2层[ChargeNoirAlly](每回合最多2次)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Vibration]强度(每回合最多2次)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "混账顾客！商品不都起皱了吗！",
+          "desc": "[DuelCounter]\n[StartBattle]\n- 若自身的[NoirSuitAlly]层数不低于60层，\n则下回合使该效果转化为[RealisationAlly]\n- 若自身的[RealisationAlly]层数低于60层，\n则下回合使该效果转化为[NoirSuitAlly]\n[BeforeUse] 若自身的[RealisationAlly]层数不低于60层，\n则改为使用“单踢-多样定制时装”(每回合最多1次)\n- 触发该效果后，攻击后消耗所有[RealisationAlly]\n<style=\"highlight\">[WhenUse] 若自身的[ChargeNoirAlly]强度不低于3/5级，则使本技能的硬币威力+1/+2</style>\n[WhenUse] 使自身获得2层[ChargeNoirAlly](每回合最多2次)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">2</style>级[Vibration]强度(每回合最多2次)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "单踢-多样定制时装",
+          "desc": "[WhenUse]\n- 消耗自身最多20层[ChargeNoirAlly]\n并使本技能造成的伤害+(消耗的[ChargeNoirAlly]层数)%(最多+20%)\n- 使自身获得3层[ChargeNoirAlly]\n[WhenUse] 消耗最多60层[RealisationAlly]\n- 若消耗的[RealisationAlly]层数不低于60层，则使本技能的最终威力+1\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数/3)%(最多+20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度并对其施加3层[Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于3级，则使目标[VibrationExplosion]，并使目标的[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于2级，则使目标[VibrationExplosion]，并使目标的[Vibration]层数减少1层"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成本硬币最终伤害量10%的突刺伤害"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "单踢-多样定制时装",
+          "desc": "[WhenUse]\n- 消耗自身最多20层[ChargeNoirAlly]\n并使本技能造成的伤害+(消耗的[ChargeNoirAlly]层数)%(最多+20%)\n- 使自身获得<style=\"highlight\">5</style>层[ChargeNoirAlly]\n[WhenUse] 消耗最多60层[RealisationAlly]\n- <style=\"highlight\">每消耗30层</style>[RealisationAlly]，使本技能的最终威力+1<style=\"highlight\">(最多+2)</style>\n- 使本技能造成的伤害+(消耗的[RealisationAlly]层数/3)%(最多+20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得<style=\"highlight\">5</style>层[ChargeNoirAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度并对其施加3层[Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于3级，则使目标[VibrationExplosion]，并使目标的[Vibration]层数减少1层<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若自身的[ChargeNoirAlly]强度不低于2级，则使目标[VibrationExplosion]，并使目标的[Vibration]层数减少1层<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 对目标造成本硬币最终伤害量10%的突刺伤害</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标造成本硬币最终伤害量<style=\"highlight\">15%</style>的突刺伤害"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

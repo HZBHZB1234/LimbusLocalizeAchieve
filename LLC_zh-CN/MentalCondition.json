@@ -124,6 +124,16 @@
       "id": "OnEndAttackMp",
       "add": "攻击结束后，增加{0}",
       "min": "攻击结束后，减少{0}"
+    },
+    {
+      "id": "OnGiveNegativeBuffStackToEnemy",
+      "add": "每使敌方单位增加{0}级负面状态强度，理智值增加{1}点",
+      "min": "每使敌方单位增加{0}级负面状态强度，理智值减少{1}点"
+    },
+    {
+      "id": "OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent",
+      "add": "与速度值低于自身的敌方单位拼点失败后根据拼点次数按比例增加\n<size=95%>（增加量：基础值为{0}，从第二次拼点起，每次拼点增加{1}%）</size>",
+      "min": "与速度值低于自身的敌方单位拼点失败后根据拼点次数按比例减少\n<size=95%>（减少量：基础值为{0}，从第二次拼点起，每次拼点增加{1}%）</size>"
     }
   ]
 }

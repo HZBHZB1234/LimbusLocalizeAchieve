@@ -68,7 +68,7 @@
                   "desc": "[OnSucceedAttack] 下回合对目标施加2层[Binding]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合对目标施加2层防御等级降低 "
+                  "desc": "[OnSucceedAttack] 下回合对目标施加2层[AttackDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]"

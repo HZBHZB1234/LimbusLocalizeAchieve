@@ -89,6 +89,10 @@
       "content": "服务器发生错误。\n请稍后再试。"
     },
     {
+      "id": "serverstate_server_busy",
+      "content": "当前服务器繁忙。\n请稍后重试。"
+    },
+    {
       "id": "forcequit_content",
       "content": "游戏无法运行。\n即将关闭游戏。"
     },

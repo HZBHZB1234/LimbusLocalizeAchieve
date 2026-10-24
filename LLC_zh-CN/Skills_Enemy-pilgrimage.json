@@ -50,7 +50,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "下砸",
+          "name": "猛砸",
           "desc": "若目标的[Sinking]强度不低于6级，则使本技能的拼点威力+1\n[StartBattle] 若现存体力不高于33%，则使本技能的所有硬币转化为[SuperCoin]",
           "coinlist": [
             {

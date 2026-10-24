@@ -2002,7 +2002,7 @@
     },
     {
       "id": "introduce_sentence_251",
-      "content": "……不存在无法投下阴影之日光，因此，我亦甘愿接纳这{0}。"
+      "content": "……不存在无法投下阴影之阳光，因此我亦甘愿接纳这{0}。"
     },
     {
       "id": "introduce_word_252",
@@ -2066,7 +2066,7 @@
     },
     {
       "id": "introduce_sentence_259",
-      "content": "我们禁止超额预定{0}哦~。"
+      "content": "我们禁止超额预定{0}哦~"
     },
     {
       "id": "introduce_word_260",
@@ -2075,6 +2075,22 @@
     {
       "id": "introduce_sentence_260",
       "content": "{0}流程继续、继续！继续进行！！！"
+    },
+    {
+      "id": "introduce_word_261",
+      "content": "黑派"
+    },
+    {
+      "id": "introduce_sentence_261",
+      "content": "{0}的美学始于节制。"
+    },
+    {
+      "id": "introduce_word_262",
+      "content": "红派"
+    },
+    {
+      "id": "introduce_sentence_262",
+      "content": "让更多的客人为{0}的时尚而狂热！"
     }
   ]
 }

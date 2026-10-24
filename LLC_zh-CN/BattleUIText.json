@@ -871,6 +871,10 @@
     {
       "id": "contMineInfo_Desc_Invalid_Reward",
       "content": "※放弃关卡时不会消耗脑啡肽模块，且无法获得奖励"
+    },
+    {
+      "id": "battle_operation_player_support",
+      "content": "支援"
     }
   ]
 }

@@ -6,11 +6,11 @@
     },
     {
       "id": "ui_loading_cg_tab_personality",
-      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">人格画像</font>"
+      "content": "人格画像"
     },
     {
       "id": "ui_loading_cg_tab_story",
-      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">故事画像</font>"
+      "content": "故事画像"
     },
     {
       "id": "ui_loading_cg_selected_count",
@@ -22,7 +22,7 @@
     },
     {
       "id": "ui_loading_cg_random_warning",
-      "content": "随机选定后将无法单独选择插图。"
+      "content": "设为随机时将无法单独选择插图。"
     },
     {
       "id": "ui_loading_cg_max_count_warning",
@@ -46,7 +46,7 @@
     },
     {
       "id": "ui_loading_cg_random_confirm",
-      "content": "已有选择的插图。\n确定要取消所选插图\n更改为随机指定加载插图吗？"
+      "content": "已有选择的插图。\n确定要取消所选插图\n更改为随机选择加载插图吗？"
     },
     {
       "id": "tutorial_loading_cg_01",
@@ -54,7 +54,7 @@
     },
     {
       "id": "tutorial_loading_cg_02",
-      "content": "人格以及剧情插图都可选择并切换为加载插图。"
+      "content": "人格以及剧情插图都可选择并设为加载插图。"
     },
     {
       "id": "tutorial_loading_cg_03",
@@ -62,7 +62,7 @@
     },
     {
       "id": "tutorial_loading_cg_04",
-      "content": "可设置特定关键词，筛选显示心仪插图。"
+      "content": "使用关键词选项，可筛选出心仪的插图。"
     },
     {
       "id": "tutorial_loading_cg_05",
@@ -70,15 +70,15 @@
     },
     {
       "id": "tutorial_loading_cg_06",
-      "content": "可在此确认目前所选插图。最多可选择10张插图。"
+      "content": "可在此确认目前所选插图。最多可选择10张。"
     },
     {
       "id": "tutorial_loading_cg_07",
-      "content": "随机指定插图"
+      "content": "随机选择插图"
     },
     {
       "id": "tutorial_loading_cg_08",
-      "content": "若启用随机指定插图功能，则会随机从您解锁的插图中选择并显示为加载界面。"
+      "content": "将随机选择插图功能调至ON时，加载界面将会随机展示已解锁的插图。"
     }
   ]
 }

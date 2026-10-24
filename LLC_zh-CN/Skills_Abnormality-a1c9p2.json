@@ -593,7 +593,7 @@
                   "desc": "使本硬币暴击时造成的伤害+100%"
                 },
                 {
-                  "desc": "[OnSucceedAttack]<color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对各个目标造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对各个目标造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
                 }
               ]
             }
@@ -607,7 +607,7 @@
         {
           "level": 1,
           "name": "残像步",
-          "desc": "[DefeatDuel]<color=#ff6000><mark=#ff000040><b><u>使目标的[PhantomIncision]层数减半</u></b></mark></color>(向下取整)",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>使目标的[PhantomIncision]层数减半</u></b></mark></color>(向下取整)",
           "coinlist": [
             {
               "coindescs": [
@@ -657,7 +657,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]<color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对其造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对其造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
                 }
               ]
             }
@@ -683,7 +683,7 @@
                   "desc": "使本硬币暴击时造成的伤害+100%"
                 },
                 {
-                  "desc": "[OnSucceedAttack]<color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对各个目标造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对各个目标造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] 使自身增加1级[Breath]强度"

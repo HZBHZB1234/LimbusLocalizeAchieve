@@ -2644,7 +2644,7 @@
                   "desc": "使本硬币暴击时造成的伤害+100%"
                 },
                 {
-                  "desc": "[OnSucceedAttack]<color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对各个被命中的目标造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>消耗目标所有[PhantomIncision]</u></b></mark></color>并对各个被命中的目标造成其体力上限(消耗的[PhantomIncision]层数)%的体力伤害"
                 }
               ]
             }

@@ -129,6 +129,10 @@
       "content": "要跳过吗？"
     },
     {
+      "id": "mainui_story_continue_next_desc",
+      "content": "是否继续下一章节？\n（请先领取初次通关奖励再继续）"
+    },
+    {
       "id": "mainui_battleresult_reward",
       "content": "奖励"
     },
@@ -514,7 +518,7 @@
     },
     {
       "id": "mainui_all",
-      "content": "<font=\"Jp/title)corporate logo(bold)/Corporate-Logo-Bold-ver2 SDF\">全部</font>"
+      "content": "全部"
     },
     {
       "id": "mainui_opened",
@@ -2055,6 +2059,30 @@
     {
       "id": "formation_announcer_reset_desc",
       "content": "要重置{0}吗？"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_title",
+      "content": "经验采光 #10（斩击）"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_open_day",
+      "content": "经验采光#10（斩击）将在周一、周二、周日开放。"
+    },
+    {
+      "id": "mainui_exp_dungeon_17_title",
+      "content": "经验采光 #10（突刺）"
+    },
+    {
+      "id": "mainui_exp_dungeon_17_open_day",
+      "content": "经验采光#10（突刺）将在周三、周四、周日开放。"
+    },
+    {
+      "id": "mainui_exp_dungeon_18_title",
+      "content": "经验采光 #10（打击）"
+    },
+    {
+      "id": "mainui_exp_dungeon_18_open_day",
+      "content": "经验采光#10（打击）将在周五、周六、周日开放。"
     }
   ]
 }

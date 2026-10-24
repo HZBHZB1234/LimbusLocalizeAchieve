@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_55_1",
+      "dlg": "本季度黑派系列以内敛的色彩与精致的剪裁为主。想要体验攥紧心脏般贴身感受的客人，请移步至1F黑派当代服饰馆。"
+    },
+    {
+      "id": "announcer_cheer_55_2",
+      "dlg": "红派展示的条纹季限定展品，凸显了皮与骨的优美线条。想要体验如交叉曲线一般合身感受的客人，请移步至1F红派当代服饰馆。"
+    },
+    {
+      "id": "announcer_specialcheer_55_1",
+      "dlg": "目前等候客人过多，扶梯出现拥堵。"
+    },
+    {
+      "id": "announcer_specialcheer_55_2",
+      "dlg": "距体验仍需要一定时间。希望尽快体验的客人，请与人台友好协商。"
+    },
+    {
+      "id": "announcer_enemy_break_55_1",
+      "dlg": "为提供更优质的体验，目前正在对部分人台的服装进行更换。工作期间人台的行动将受到限制，敬请谅解。"
+    },
+    {
+      "id": "announcer_ally_break_55_1",
+      "dlg": "为保障安全购物，请将金首饰保存至储物柜或贵重物品保管箱中。如有丢失，其所有权或将转移。"
+    },
+    {
+      "id": "announcer_killenemy_55_1",
+      "dlg": "寻找地面遗落面料的客人，请移步至B1F的美食广场。"
+    },
+    {
+      "id": "announcer_ally_dead_55_1",
+      "dlg": "来自4F走失儿童保护所的通知。寻找走失儿童的客人，请回家。"
+    },
+    {
+      "id": "announcer_enemy_adv_55_1",
+      "dlg": "目前楼层较为混乱，时常会发生与人台的碰撞。为保证顺畅通行，请不要在走廊长时间逗留。"
+    },
+    {
+      "id": "announcer_ally_adv_55_1",
+      "dlg": "与过去相同的现在。与现在相同的未来。本季度西西弗百货也得益于各位客人有价值的消费，足以顺利运行。"
+    },
+    {
+      "id": "announcer_ally_advex_55_1",
+      "dlg": "缺货商品已重新开始贩卖。"
+    },
+    {
+      "id": "announcer_danger_55_1",
+      "dlg": "各位客人请注意。蟒蛇季即将结束。下一季度我们也将尽全力为各位客人带来更为优质的经验。感谢各位。"
+    },
+    {
+      "id": "announcer_enemy_specialskill_55_1",
+      "dlg": "走廊正受到强烈的阳光照射。未携带遮阳伞的客人请在店铺内稍作停留。此外，与人台的身体接触需得到双方许可，特此强调。"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_55_1",
+      "dlg": "各位客人请注意。3F目前正因新品牌入驻而进行区域调整。部分设施位置将与原本位置不同，请注意周遭情况。"
+    },
+    {
+      "id": "announcer_advatk_physical_55_1",
+      "dlg": "为各位客人的便捷考虑，我们正在合理规划各店铺中人台的摆放与动线。"
+    },
+    {
+      "id": "announcer_disadvatk_physical_55_1",
+      "dlg": "确认到部分人台受到与所展示服装不符的损伤，3F店铺将暂时停止运营。"
+    },
+    {
+      "id": "announcer_advatk_attr_55_1",
+      "dlg": "西西弗百货的所有商品均以适配本季度的形式与场地进行贩卖。"
+    },
+    {
+      "id": "announcer_disadvatk_attr_55_1",
+      "dlg": "该商品的现货已售罄。"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_55_1",
+      "dlg": "伴随季度更替，所有客人均可结束等待，通过梯子上下通行。请不要将其与扶梯或坡道混淆，以免摔落在地。"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_55_1",
+      "dlg": "失去作用的家具请归还至4F家具馆。为防止归还途中迷失方向，请跟随照射下来的阳光行走。"
+    },
+    {
+      "id": "announcer_ally_specialbuff_55_1",
+      "dlg": "美食广场正在进行季末限时促销。想要找回记忆中味道的客人，请移步至B1F。"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_55_1",
+      "dlg": "百货店内，除指定场所外均可吸烟。这是火灾预防措施的一环，烦请各位客人配合。"
+    },
+    {
+      "id": "announcer_enemy_destroy_55_1",
+      "dlg": "若商品中附着的黄金皮革被去除，则退货或更换将受到一定限制。"
+    },
+    {
+      "id": "announcer_enemy_destroy_55_2",
+      "dlg": "各位客人请注意。退货时，请务必携带与先前含量相同的黄金皮革或黄金松脂前往卖场。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_55_1",
+      "dlg": "未赶上潮流的客人在店铺体验或楼层移动上将受到限制。"
+    },
+    {
+      "id": "announcer_round_takebigdmg_55_2",
+      "dlg": "西西弗百货提供将客人直接转为商品的修缮服务。请未赶上潮流或眼球不足的客人善加利用。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_55_1",
+      "dlg": "由于与人台的接触过于频繁，我们预计为橱窗安装遮挡。请在购物与参观时多加注意。"
+    },
+    {
+      "id": "announcer_round_givebigdmg_55_2",
+      "dlg": "为给各位客人提供更为舒适的购物体验，我们将调整部分店铺的人台数量。回收的人台预计活用为面料或保存至地下停车场。"
+    },
+    {
+      "id": "announcer_multikillenemy_55_1",
+      "dlg": "将对满足购物标准的客人进行评级复核。"
+    },
+    {
+      "id": "announcer_battle_win_55_1",
+      "dlg": "期待您下个季度也能享受到愉快的购物体验。"
+    },
+    {
+      "id": "announcer_battle_defeat_55_1",
+      "dlg": "各位本季度也十分辛苦了。\n哎……希望你们总有一天能重新升上去。"
+    },
+    {
+      "id": "announcer_equip_55_1",
+      "dlg": "今日也热烈欢迎各位客人光临西西弗百货。西西弗百货，一直致力于珍惜客人们在此可获得的所有经验。"
+    }
+  ]
+}

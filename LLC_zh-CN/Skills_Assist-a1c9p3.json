@@ -636,7 +636,7 @@
         {
           "level": 1,
           "name": "我会坚守到底、保护您的",
-          "desc": "[CanDuelGuard]\n[StartBattle]<color=#ff6000><mark color=#ff000040><b><u>使自身获得1层[SupportProtect]</u></b></mark></color>\n[WinDuel] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]",
+          "desc": "[CanDuelGuard]\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>使自身获得1层[SupportProtect]</u></b></mark></color>\n[WinDuel] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]",
           "coinlist": [
             {
               "coindescs": [

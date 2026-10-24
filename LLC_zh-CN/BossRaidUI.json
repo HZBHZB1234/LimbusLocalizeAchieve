@@ -271,6 +271,14 @@
     {
       "id": "boss_raid_limited_coin_converted",
       "content": "活动时间结束后，未使用的{1}个{0}已转化为{3}个{2}。"
+    },
+    {
+      "id": "boss_raid_ui_max_level_adjusted",
+      "content": "超出的等级已被调整为{0}。"
+    },
+    {
+      "id": "boss_raid_ui_recommend_state_desc_with_max_level_adjust",
+      "content": "- 人格：同步<color=#ff0000>{1}阶段</color>，<color=#ff0000>{0}</color>级\n（最高等级<color=#ff0000>{2}</color>）\n- E.G.O：异想解析<color=#ff0000>{1}阶段</color>"
     }
   ]
 }
