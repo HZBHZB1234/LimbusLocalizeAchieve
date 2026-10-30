@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "id": "mirrordungeon8_mission_date",
+      "content": "您可以在镜像迷宫#9更新前领取奖励。"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_COLLECTION",
+      "content": "收集"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_CLEAR",
+      "content": "清剿"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_DECK",
+      "content": "编队"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_SHOP",
+      "content": "商店"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_BATTLE",
+      "content": "战斗"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_EXTREME",
+      "content": "制约-极限模式"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_ALL",
+      "content": "完成度"
+    },
+    {
+      "id": "mirrordungeon_mission_category_title_MIRROR_DUNGEON8_HIDDEN",
+      "content": "隐藏"
+    }
+  ]
+}

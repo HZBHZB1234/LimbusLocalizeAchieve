@@ -54,7 +54,7 @@
     },
     {
       "id": 9288,
-      "name": "裁缝之王的直针",
+      "name": "裁缝之王的珠针",
       "desc": "回合开始时，若没有敌方单位带有[SewingKingMark]，则随机对1名敌方单位施加[SewingKingMark](若是集中遭遇战，则以部位判定)",
       "simpleDesc": [
         {

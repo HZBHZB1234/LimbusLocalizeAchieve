@@ -2147,6 +2147,22 @@
     {
       "id": "introduce_sentence_269",
       "content": "我们，我，将把{0}的一切都吞噬殆尽。你们之中已无一人再须忍饥挨饿。"
+    },
+    {
+      "id": "introduce_word_270",
+      "content": "针数"
+    },
+    {
+      "id": "introduce_sentence_270",
+      "content": "{0}……{0}……{0}、{0}、{0}、{0}、{0}、{0}、{0}！"
+    },
+    {
+      "id": "introduce_word_271",
+      "content": "倾听"
+    },
+    {
+      "id": "introduce_sentence_271",
+      "content": "要认真{0}才行呀？"
     }
   ]
 }

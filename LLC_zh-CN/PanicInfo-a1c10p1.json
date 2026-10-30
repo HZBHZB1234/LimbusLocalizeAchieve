@@ -15,7 +15,7 @@
     },
     {
       "id": 1102,
-      "panicName": "烹饪欲望",
+      "panicName": "烹饪渴望",
       "lowMoraleDescription": "自身每带有1层[SapsareeHungry]，攻击等级+1，受到的伤害+3%",
       "panicDescription": "自身每带有1层[SapsareeHungry]，攻击等级+2，受到的伤害+5%",
       "flavor": "你不是想烹饪。你只是想体验烹饪的感觉，模仿进食的动作。"

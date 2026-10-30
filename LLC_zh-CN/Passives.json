@@ -3397,6 +3397,51 @@
       "id": 1101621,
       "name": "贪食",
       "desc": "战斗开始时，使现存体力最低的友方单位获得2层[AttackUp]\n该友方单位的攻击技能结束时，使其恢复其体力上限5%的体力(最少1点，每回合最多1次)"
+    },
+    {
+      "id": 1071702,
+      "name": "似乎仍回荡在耳边的投诉",
+      "desc": "本场战斗中，每当自身累计消耗10层[ChargeRougeAlly]时，使自身增加1级[ChargeRougeAlly]强度\n\n回合开始时，若友方高级定制::红派 赤红之神 辛克莱人格在场，则使自身获得1层[HowlingCocoonAlly]\n\n回合开始时，若自身的[HowlingCocoonAlly]层数为最大值，或友方高级定制::红派 赤红之神 辛克莱人格带有[TransformSinclair]，\n则使自身的[HowlingCocoonAlly]转化为[HowlingCocoonTwoAlly]并使友方高级定制::红派 赤红之神 辛克莱人格获得以下效果\n- 获得1层[RougeFamilySinclair]\n- 技能“要求(la demande)”的硬币命中时，使自身获得1层[ChargeRougeAlly]并恢复体力上限5%的体力"
+    },
+    {
+      "id": 1071703,
+      "name": "手工制作/给我手工缝制！！！",
+      "desc": "每当自身失去体力上限3%的体力时，使自身获得1层[ChargeRougeAlly](每回合最多20层)\n\n每当自身失去体力上限1.5%的体力时，使自身获得1层[NiddlePinGather]\n\n自身基础技能的体力减少效果不会使自身陷入混乱或体力低于1点(自身体力为1点时，自身基础技能消耗体力的效果也可触发)"
+    },
+    {
+      "id": 1071713,
+      "name": "手工制作/给我手工缝制！！！",
+      "desc": "每当自身失去体力上限3%的体力时，使自身获得1层[ChargeRougeAlly](每回合最多20层)\n\n每当自身失去体力上限1.5%的体力时，使自身获得1层[NiddlePinGather]\n\n自身基础技能的体力减少效果不会使自身陷入混乱或体力低于1点(自身体力为1点时，自身基础技能消耗体力的效果也可触发)\n\n若自身的[NeedlekinAlly]层数为3层，则自身攻击技能结束时，随机对1名敌方单位使用技能“侧缝外侧能看到两根缝线的话就是双针。淘汰！”"
+    },
+    {
+      "id": 1071701,
+      "name": "你说缝线太整齐了？你说不是手工缝制？集合！！！",
+      "desc": "回合结束时，使自身获得1层[NeedlekinAlly]"
+    },
+    {
+      "id": 1071721,
+      "name": "每英寸的针数要在20以上！！！",
+      "desc": "速度值最高的1名友方单位基础攻击技能命中时，使目标增加2级[Laceration]强度(每回合最多1次)\n- 若该友方单位属于红派，则额外对目标施加1层[NiddlePinAlly]"
+    },
+    {
+      "id": 1061701,
+      "name": "黑派 精纺面料",
+      "desc": "自身每带有1级[ChargeNoirAlly]强度，使自身守备技能的拼点威力+1(最多+5)\n\n若自身的[NoirBindArmorAlly]层数不低于8层，则自身通过“警告广播”消耗[ChargeNoirAlly]层数后，该技能结束时使自身获得层数相当于消耗的[ChargeNoirAlly]层数的[ChargeNoirAlly](每回合最多1次)"
+    },
+    {
+      "id": 1061702,
+      "name": "要认真倾听才行呀？",
+      "desc": "本场战斗中，每当自身累计消耗10层[ChargeNoirAlly]时，使自身增加1级[ChargeNoirAlly]强度\n\n自身每回合最多获得1层[ReadyToListenHonglu]\n- 若自身带有[TimeToListenHonglu]，则不会获得[ReadyToListenHonglu]\n\n若自身的[ReadyToListenHonglu]层数为2层，则回合结束时消耗所有[ReadyToListenHonglu]并触发以下效果\n- 使自身获得2层[TimeToListenHonglu]\n- 对场上的全体敌方单位施加2层[WarinessHonglu](每回合最多1次；若是集中遭遇战，则改为以部位判定)"
+    },
+    {
+      "id": 1061712,
+      "name": "要认真倾听才行呀？",
+      "desc": "本场战斗中，每当自身累计消耗10层[ChargeNoirAlly]时，使自身增加1级[ChargeNoirAlly]强度\n\n自身每回合最多获得1层[ReadyToListenHonglu]\n- 若自身带有[TimeToListenHonglu]，则不会获得[ReadyToListenHonglu]\n\n若自身的[ReadyToListenHonglu]层数为2层，则回合结束时消耗所有[ReadyToListenHonglu]并触发以下效果\n- 使自身获得2层[TimeToListenHonglu]\n- 对场上的全体敌方单位施加2层[WarinessHonglu](每回合最多1次；若是集中遭遇战，则改为以部位判定)\n<style=\"highlight\">- 重置“店内广播”使用前效果的使用次数</style>"
+    },
+    {
+      "id": 1061721,
+      "name": "为您裹上毛毯",
+      "desc": "使本回合首个使用[SupportProtect]专用技能的人格在使用该技能时获得1层[Protection](每回合最多1次)"
     }
   ]
 }

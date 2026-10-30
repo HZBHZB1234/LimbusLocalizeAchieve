@@ -1,0 +1,76 @@
+{
+  "dataList": [
+    {
+      "id": "event_verification_btn",
+      "content": "Project Moon 10周年通行证验证"
+    },
+    {
+      "id": "event_verification_popup_title",
+      "content": "Project Moon 10周年通行证验证"
+    },
+    {
+      "id": "event_verification_popup_desc",
+      "content": "请向现场工作人员出示此页面。\n工作人员将直接输入验证码。\n\n<b><color=#990000>经理已经验证的账号无法重复验证，\n也无法兑换入场手环或进入演出场地。</color></b>"
+    },
+    {
+      "id": "event_verification_authenticate_btn",
+      "content": "验证"
+    },
+    {
+      "id": "event_verification_confirm_desc",
+      "content": "若现场工作人员未进行验证，则将对您佩戴音乐会手环或是入场的情况进行限制。您确定要继续吗？"
+    },
+    {
+      "id": "event_verification_retry_btn",
+      "content": "再次确认"
+    },
+    {
+      "id": "event_verification_staff_code_placeholder",
+      "content": "工作人员专用验证码"
+    },
+    {
+      "id": "event_verification_input_verified",
+      "content": "已验证账户（不可再次验证）"
+    },
+    {
+      "id": "event_verification_verified",
+      "content": "验证完成。"
+    },
+    {
+      "id": "event_verification_already_verified",
+      "content": "该账号已验证完成。（不可再次验证）"
+    },
+    {
+      "id": "event_verification_verified_at",
+      "content": "验证日期：{0} (KST)"
+    },
+    {
+      "id": "event_verification_level_required",
+      "content": "经理等级达到{0}级以上的账号才可以进行验证。"
+    },
+    {
+      "id": "event_verification_not_started",
+      "content": "验证阶段未开始。"
+    },
+    {
+      "id": "event_verification_ended",
+      "content": "验证阶段已结束。"
+    },
+    {
+      "id": "event_verification_locked",
+      "content": "<b><color=#990000>验证码输入错误3次。</color></b>\n请在{0}秒后重试。"
+    },
+    {
+      "id": "event_verification_invalid_code",
+      "content": "<b><color=#990000>验证码错误。</color></b>\n请尝试重新输入。"
+    },
+    {
+      "id": "event_verification_failed_title",
+      "content": "验证失败"
+    },
+    {
+      "id": "event_verification_unavailable",
+      "content": "没有可用的验证。"
+    }
+  ]
+}

@@ -3142,6 +3142,433 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1071701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "经纱要如何，纬纱就这样",
+          "desc": "[WhenUse] 若自身的[ChargeRougeAlly]层数低于5层，则消耗自身体力上限2×(5-现存[ChargeRougeAlly]层数)%的体力并使自身获得至5层[ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得4层[ChargeRougeAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "经纱要如何，纬纱就这样",
+          "desc": "<style=\"highlight\">自身每带有2级[ChargeRougeAlly]强度，使本技能的最终威力+1(最多+2)</style>\n[WhenUse] 若自身的[ChargeRougeAlly]层数低于5层，则消耗自身体力上限2x(5-现存[ChargeRougeAlly]层数)%的体力并使自身获得至5层[ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得4层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[NeedlekinAlly]层数的[NiddlePinAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "经纱要如何，纬纱就这样",
+          "desc": "自身每带有2级[ChargeRougeAlly]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 若自身的[ChargeRougeAlly]层数低于5层，则消耗自身体力上限2x(5-现存[ChargeRougeAlly]层数)%的体力并使自身获得至5层[ChargeRougeAlly]\n<style=\"highlight\">[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得4层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[NeedlekinAlly]层数的[NiddlePinAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "针数！针数！针数！",
+          "desc": "[WhenUse] 若自身的[ChargeRougeAlly]层数低于10层，则消耗自身体力上限2×(10-现存[ChargeRougeAlly]层数)%的体力并使自身获得至10层[ChargeRougeAlly]\n[WhenUse] 消耗自身7层[ChargeRougeAlly]并使本技能的最终威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "针数！针数！针数！",
+          "desc": "<style=\"highlight\">自身每带有2级[ChargeRougeAlly]强度，使本技能的最终威力+1(最多+2)</style>\n[WhenUse] 若自身的[ChargeRougeAlly]层数低于10层，则消耗自身体力上限2×(10-现存[ChargeRougeAlly]层数)%的体力并使自身获得至10层[ChargeRougeAlly]\n[WhenUse] 消耗自身7层[ChargeRougeAlly]并使本技能的最终威力+2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[NeedlekinAlly]层数的[NiddlePinAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "针数！针数！针数！",
+          "desc": "自身每带有2级[ChargeRougeAlly]强度，使本技能的最终威力+1(最多+2)\n[WhenUse] 若自身的[ChargeRougeAlly]层数低于10层，则消耗自身体力上限2×(10-现存[ChargeRougeAlly]层数)%的体力并使自身获得至10层[ChargeRougeAlly]\n[WhenUse] 消耗自身7层[ChargeRougeAlly]并使本技能的最终威力+2\n<style=\"highlight\">[WhenUse] 若目标的[Laceration]强度不低于6级，则使本技能的硬币威力+1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得2层[ChargeRougeAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加层数相当于自身[NeedlekinAlly]层数的[NiddlePinAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身每带有1层[NeedlekinAlly]，对目标造成本硬币最终伤害量1%的突刺伤害(最少1点)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "你说我故意把挑针缝得很显眼？！那就给你也缝成一样的！",
+          "desc": "[WhenUse] 自身每带有15层[NiddlePinGather]，使本技能的攻击容量+1(最多+2)\n[WhenUse] 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+30%(若是集中遭遇战，则改为以部位判定)\n[WhenUse] 消耗自身最多20层[ChargeRougeAlly]并触发以下效果\n- 每消耗7层[ChargeRougeAlly]，使本技能的硬币威力+1(最多+2)\n- 每消耗1层[ChargeRougeAlly]，使本技能造成的伤害+2%\n[EndSkill] 消耗自身(通过[NiddlePinGather]增加的攻击容量×15)层[NiddlePinGather]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeRougeAlly](每个技能最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeRougeAlly](每个技能最多1次)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[NiddlePinAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[NiddlePinAlly]层数不低于5层，则消耗其5层[NiddlePinAlly]并在下回合对其施加[NiddlePinnedAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "你说我故意把挑针缝得很显眼？！那就给你也缝成一样的！",
+          "desc": "<style=\"highlight\">自身每带有2级[ChargeRougeAlly]强度，使本技能的最终威力+1(最多+2)</style>\n[WhenUse] 自身每带有15层[NiddlePinGather]，使本技能的攻击容量+1(最多+2)\n[WhenUse] 本技能的攻击容量高于攻击目标数时，每高于1点，使本技能造成的伤害+30%(若是集中遭遇战，则改为以部位判定)\n[WhenUse] 消耗自身最多20层[ChargeRougeAlly]并触发以下效果\n- 每消耗7层[ChargeRougeAlly]，使本技能的硬币威力+1(最多+2)\n- 每消耗1层[ChargeRougeAlly]，使本技能造成的伤害+2%\n[EndSkill] 消耗自身(通过[NiddlePinGather]增加的攻击容量×15)层[NiddlePinGather]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeRougeAlly](每个技能最多1次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得3层[ChargeRougeAlly](每个技能最多1次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目标增加1级[Laceration]强度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加3层[NiddlePinAlly]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 下回合对目标施加1层[PenetrateTakeDamageUp]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若目标的[NiddlePinAlly]层数不低于5层，则消耗其5层[NiddlePinAlly]并在下回合对其施加[NiddlePinnedAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "咬牙…",
+          "desc": "[DuelCounter]\n[StartBattle] 消耗自身体力上限20%的体力并在下回合使自身获得1层[Enhancement](每回合最多1次)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[NiddlePinAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "咬牙…",
+          "desc": "[DuelCounter]\n[StartBattle] 消耗自身体力上限20%的体力并在下回合使自身获得<style=\"highlight\">2层[Enhancement]与5层[ChargeRougeAlly]</style>(每回合最多1次)\n<style=\"highlight\">[WhenUse] 自身每带有2级[ChargeRougeAlly]强度，使本技能的最终威力+1(最多+2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[NiddlePinAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1071705,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "侧缝外侧能看到两根缝线的话就是双针。淘汰！",
+          "desc": "[WideAreaRampage]\n本技能命中时，使自身恢复体力上限8%的体力\n[WhenUse] 消耗自身所有[NeedlekinAlly]并在下回合使自身与除自身以外的2名友方单位获得1层[PenetrateDamageUp]\n- 优先指定属于红派的友方单位(按编队顺序)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得1层[ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[NiddlePinAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得1层[ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[NiddlePinAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身获得1层[ChargeRougeAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 对目标施加2层[NiddlePinAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

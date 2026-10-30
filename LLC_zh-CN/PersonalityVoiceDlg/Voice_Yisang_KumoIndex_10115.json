@@ -18,7 +18,7 @@
     {
       "id": "lobby_night_10115_1",
       "desc": "晚间问候",
-      "dlg": "如此深夜有何贵干，堂…… <color=#50acff><size=60%><i>*哔哔声*</i></size></color>嗯……啊。这样啊。你似乎想与我这父辈一同于夜间散步啊。"
+      "dlg": "如此深夜有何贵干，堂……<color=#50acff><size=60%><i>*哔哔声*</i></size></color>嗯……啊。这样啊。你似乎想与我这父辈一同于夜间散步啊。"
     },
     {
       "id": "smalltalk_10115_1",
@@ -53,7 +53,7 @@
     {
       "id": "gacksung_10115_1",
       "desc": "进行同步",
-      "dlg": "<color=#50acff><size=60%><i>*哔哔声*</i></size></color> 用长矛刺穿心脏，再倒吊起来。<color=#50acff><size=60%><i>*哔哔声*</i></size></color> 用剑猛烈啄刺，撕碎吞噬……\n<color=#50acff><size=60%><i>*哔哔声*</i></size></color> ……无须怨恨。你们此刻的死亡……也不过是指令的选择。"
+      "dlg": "<color=#50acff><size=60%><i>*哔哔声*</i></size></color>用长矛刺穿心脏，再倒吊起来。<color=#50acff><size=60%><i>*哔哔声*</i></size></color>用剑猛烈啄刺，撕碎吞噬……\n<color=#50acff><size=60%><i>*哔哔声*</i></size></color>……无须怨恨。你们此刻的死亡……也不过是指令的选择。"
     },
     {
       "id": "formation_10115_1",

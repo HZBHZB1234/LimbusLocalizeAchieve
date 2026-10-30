@@ -404,7 +404,7 @@
           "level": 1,
           "name": "我说这就是人家的招牌噢",
           "desc": "[WhenUse] 自身每带有2层[SapsareeYammi]，使本技能的硬币威力+1\n[WhenUse] 若主要目标带有[SapsareeSpices]，则使本技能的最终威力+3\n[DefeatDuel] 使本技能造成的伤害-80%，且本技能造成的伤害不会使目标陷入混乱\n[EndSkill] 消耗自身所有[SapsareeYammi]",
-          "flavor": "通过掌握这项技术，最终升职为副主厨。",
+          "flavor": "据说她通过掌握这项技艺，最终升职为副主厨。",
           "coinlist": [
             {
               "coindescs": [
@@ -808,7 +808,7 @@
           "level": 1,
           "name": "感谢…聆听…",
           "desc": "[CantChangeTarget]\n- 带有的[ReliefSense]层数与本技能指定的罪人相同的罪人可无视速度值将本技能的目标变更为自身\n优先指定[ReliefSense]层数最高的目标\n[DefeatDuel] 使自身受到来自与本技能拼点的技能的伤害+150%\n[EndSkill] 解除目标所有[ReliefSense]",
-          "flavor": "魅惑有许多种类。其结果和过程都有所不同。但，受魅惑的状态是相同的。即敞开心扉，毫无防备的状态。",
+          "flavor": "魅惑有许多种类。其结果和过程都有所不同。但，受魅惑的状态是相同的。即敞开心扉、毫无防备的状态。",
           "coinlist": [
             {
               "coindescs": [
@@ -1702,7 +1702,7 @@
         {
           "level": 1,
           "name": "你说缝线太整齐了？你说不是手工缝制？集合！！！",
-          "desc": "[StartBattle] 下回合召唤3名针族",
+          "desc": "[StartBattle] 下回合召唤3名针族[TabExplain]",
           "coinlist": []
         }
       ]
@@ -1732,7 +1732,7 @@
         {
           "level": 1,
           "name": "侧缝外侧能看到两根缝线的话就是双针。淘汰！",
-          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>每有1名针族在场，使本技能造成的伤害+50%\n · 若场上没有针族，则取消本技能</u></b></mark></color>\n\n[EndSkill] 击杀所有针族\n · 每击杀1名针族，下回合使自身获得1层[Enhancement]",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>每有1名针族[TabExplain]在场，使本技能造成的伤害+50%\n · 若场上没有针族[TabExplain]，则取消本技能</u></b></mark></color>\n\n[EndSkill] 击杀所有针族[TabExplain]\n · 每击杀1名针族[TabExplain]，下回合使自身获得1层[Enhancement]",
           "coinlist": [
             {
               "coindescs": [
@@ -2003,7 +2003,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "又饿…又冷…又痛…！",
+          "name": "好饿…好冷…好痛…！",
           "desc": "优先指定体力最低的目标为主要目标\n目标每失去1%体力，使本技能造成的伤害+1%(最多+30%)\n[WhenUse] 主要目标每带有6级[Laceration]强度，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若主要目标现存体力低于50%，则使本技能的基础威力+2\n[WhenUse] 若自身的[ChargeRouge]层数不低于10层，则消耗自身所有[ChargeRouge]层数并使本技能的硬币威力+2，攻击容量+2\n[DefeatDuel] 使本技能造成的伤害-95%，且本技能造成的伤害不会使目标陷入混乱",
           "coinlist": [
             {
@@ -2089,7 +2089,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "肚子…空空…",
+          "name": "肚子…饿了…",
           "desc": "[WhenUse] 目标每带有4级[Laceration]强度，使本技能的最终威力+1(最多+2)\n[WinDuel] 使自身获得3层[ChargeRouge]",
           "coinlist": [
             {
